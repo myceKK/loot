@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Zorg Jednooki Baron (elita II 33lvl)",
+    "img": "https://micc.garmory-cdn.cloud/obrazki/npc/e2/zbir-e2-zorg.gif",
+    "items": [
+      {
+        "name": "Cacko upadłego barona",
+        "lvl": 33,
+        "img": "https://micc.garmory-cdn.cloud/obrazki/itemy/but/buty802.gif"
+      },
+      {
+        "name": "Magiczna zabawka Zorga",
+        "lvl": 33,
+        "img": "https://micc.garmory-cdn.cloud/obrazki/itemy/but/buty804.gif"
+      },
+      {
+        "name": "Obuwie lidera szajki",
+        "lvl": 33,
+        "img": "https://micc.garmory-cdn.cloud/obrazki/itemy/but/buty803.gif"
+      }
+    ]
+  }
+]

@@ -31,41 +31,104 @@
         padding: 10px;
         border-radius: 10px;
         border: 1px solid #333;
-        max-width: 380px;
-        flex: 1 1 360px;
+        width: 360px;
+        display: flex;
+        flex-direction: column;
       }
-      #placeholder {
-        width: 100%;
-        border: 2px dashed #444;
-        padding: 30px;
-        border-radius: 10px;
-        margin-top: 30px;
-        font-size: 18px;
-        color: #888;
+      .boss-block h2 {
+        color: white;
+        text-align: center;
+        margin: 0;
+      }
+      .boss-img {
+        text-align: center;
+        margin: 10px 0;
+      }
+      .boss-img img {
+        image-rendering: pixelated;
+      }
+      .legendary-loot {
+        flex-grow: 1;
+      }
+      .item {
+        background: #1a1a1a;
+        border: 1px solid #333;
+        padding: 10px;
+        border-radius: 8px;
+        margin-bottom: 10px;
+        display: flex;
+        align-items: center;
+        gap: 10px;
+        justify-content: space-between;
+      }
+      .item img {
+        width: 48px;
+        height: 48px;
+        image-rendering: pixelated;
+      }
+      .item-details {
+        text-align: left;
+        flex-grow: 1;
+      }
+      .item-name {
+        color: orange;
+        font-weight: bold;
+      }
+      .item-lvl {
+        font-size: 13px;
+        color: #aaa;
+      }
+      .price-placeholder {
+        background: #000;
+        border: 1px solid #555;
+        padding: 3px 6px;
+        border-radius: 5px;
+        color: #fff;
       }
     </style>
   </head>
   <body>
     <h1>CENNIK PRZEDMIOTÓW <span>LEGENDARNYCH</span></h1>
-
-    <div class="legend-container" id="content">
-      <div id="placeholder">Wczytywanie danych z pliku...</div>
-    </div>
+    <div class="legend-container" id="content">Wczytywanie danych...</div>
 
     <script>
-      fetch("data.html")
-        .then((response) => response.text())
-        .then((html) => {
-          const container = document.getElementById("content");
-          container.innerHTML += html;
-
-          const ph = document.getElementById("placeholder");
-          if (ph) ph.remove();
+      fetch("data.json")
+        .then((res) => res.json())
+        .then((data) => {
+          const content = document.getElementById("content");
+          content.innerHTML = "";
+          data.forEach((boss) => {
+            const block = document.createElement("div");
+            block.className = "boss-block";
+            block.innerHTML = `
+            <h2>${boss.boss}</h2>
+            <div class="boss-img">
+              <img src="${boss.img}" alt="${boss.boss}">
+            </div>
+            <div class="legendary-loot">
+              ${boss.items
+                .map(
+                  (item) => `
+                <div class="item">
+                  <img src="${item.img}" alt="${item.name}">
+                  <div class="item-details">
+                    <div class="item-name">${item.name}</div>
+                    <div class="item-lvl">Poziom: ${item.lvl}</div>
+                  </div>
+                  <span class="price-placeholder">___</span>
+                </div>
+              `
+                )
+                .join("")}
+            </div>
+          `;
+            content.appendChild(block);
+          });
         })
         .catch((err) => {
-          document.getElementById("placeholder").innerText =
-            "Błąd wczytywania danych.";
-          console.error("Błąd ładowania data.html:", err);
+          document.getElementById("content").innerText =
+            "Błąd ładowania danych.";
+          console.error(err);
         });
     </script>
   </body>
