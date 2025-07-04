@@ -4,6 +4,25 @@ body {
   font-family: sans-serif;
   padding: 20px;
   text-align: center;
+
+  /* Styl scrollbara - Firefox */
+  scrollbar-width: thin;
+  scrollbar-color: #555 #0a0a0a;
+}
+
+/* Styl scrollbara - Chrome, Edge, Opera */
+body::-webkit-scrollbar {
+  width: 10px;
+}
+
+body::-webkit-scrollbar-track {
+  background: #0a0a0a;
+}
+
+body::-webkit-scrollbar-thumb {
+  background-color: #555;
+  border-radius: 5px;
+  border: 2px solid #0a0a0a;
 }
 
 h1 {
