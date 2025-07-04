@@ -49,13 +49,6 @@
     <h1>CENNIK PRZEDMIOTÓW <span>LEGENDARNYCH</span></h1>
 
     <div class="legend-container" id="content">
-      <!-- Wklejaj swoje <div class="boss-block"> TUTAJ ↓↓↓ -->
-      <div id="placeholder">
-        <div class="boss-block" style="max-width: 380px">
-          <h2 style="color: white; text-align: center">
-            Shae Phu (elita II 30lvl)
-          </h2>
-          <div style="text-align: center; margin: 10px 0">
             <img
               src="https://micc.garmory-cdn.cloud/obrazki/npc/e2/demonszef.gif"
               alt="Shae Phu (elita II 30lvl)"
@@ -309,15 +302,20 @@
     </div>
 
     <script>
-      const content = document.getElementById("content");
-      const observer = new MutationObserver(() => {
-        const blocks = content.querySelectorAll(".boss-block");
-        if (blocks.length > 0) {
+      fetch("data.html")
+        .then((response) => response.text())
+        .then((html) => {
+          const container = document.getElementById("content");
+          container.innerHTML += html;
+
           const ph = document.getElementById("placeholder");
           if (ph) ph.remove();
-        }
-      });
-      observer.observe(content, { childList: true });
+        })
+        .catch((err) => {
+          document.getElementById("placeholder").innerText =
+            "Błąd wczytywania danych.";
+          console.error("Błąd ładowania data.html:", err);
+        });
     </script>
   </body>
 </html>
