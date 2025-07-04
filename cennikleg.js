@@ -7,18 +7,21 @@
 
     clearInterval(interval);
 
-    // GOBLIN BUTTON (Cennik legend)
     const goblinButton = document.createElement("div");
     goblinButton.title = "Cennik legend";
     goblinButton.style.cssText = `
       width: 34px;
       height: 34px;
       position: absolute;
-      bottom: 26px; /* niżej niż C */
+      bottom: 1px;
       left: 1px;
-      z-index: 298;
+      z-index: 296;
       cursor: pointer;
       pointer-events: initial;
+      background: linear-gradient(135deg, #4a148c, #880e4f); /* fioletowo-różowy gradient */
+      border-radius: 4px;
+      padding: 2px;
+      box-sizing: border-box;
     `;
 
     const goblinImg = document.createElement("img");
