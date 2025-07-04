@@ -310,5 +310,101 @@
         "price": "___"
       }
     ]
+  },
+  {
+    "name": "Mroczny Patryk (heros 35lvl)",
+    "img": "https://micc.garmory-cdn.cloud/obrazki/npc/her/bardzozlypatryk.gif",
+    "items": [
+      {
+        "name": "Diadem tańczących płomieni",
+        "lvl": 35,
+        "img": "https://micc.garmory-cdn.cloud/obrazki/itemy/hel/helm747.gif",
+        "price": "___"
+      },
+      {
+        "name": "Kapelusz wiecznej udręki",
+        "lvl": 35,
+        "img": "https://micc.garmory-cdn.cloud/obrazki/itemy/hel/helm749.gif",
+        "price": "___"
+      },
+      {
+        "name": "Splot szaleństwa",
+        "lvl": 35,
+        "img": "https://micc.garmory-cdn.cloud/obrazki/itemy/hel/helm748.gif",
+        "price": "___"
+      }
+    ]
+  },
+  {
+    "name": "Karmazynowy Mściciel (heros 45lvl)",
+    "img": "https://micc.garmory-cdn.cloud/obrazki/npc/her/gnom_msciciel.gif",
+    "items": [
+      {
+        "name": "Stalowe szpony zemsty",
+        "lvl": 43,
+        "img": "https://micc.garmory-cdn.cloud/obrazki/itemy/rek/rekawice854.gif",
+        "price": "___"
+      },
+      {
+        "name": "Kajdany gniewnej tułaczki",
+        "lvl": 43,
+        "img": "https://micc.garmory-cdn.cloud/obrazki/itemy/rek/rekawice855.gif",
+        "price": "___"
+      },
+      {
+        "name": "Chwyt niestygnącej krwi",
+        "lvl": 43,
+        "img": "https://micc.garmory-cdn.cloud/obrazki/itemy/rek/rekawice853.gif",
+        "price": "___"
+      }
+    ]
+  },
+  {
+    "name": "Złodziej (heros 51lvl)",
+    "img": "https://micc.garmory-cdn.cloud/obrazki/npc/her/zlodziej.gif",
+    "items": [
+      {
+        "name": "Pamiątka z Tuzmer",
+        "lvl": 50,
+        "img": "https://micc.garmory-cdn.cloud/obrazki/itemy/but/buty871.gif",
+        "price": "___"
+      },
+      {
+        "name": "Podwójne podeszwy złodzieja",
+        "lvl": 50,
+        "img": "https://micc.garmory-cdn.cloud/obrazki/itemy/but/buty872.gif",
+        "price": "___"
+      },
+      {
+        "name": "Pantofle Madame Baterflaj",
+        "lvl": 50,
+        "img": "https://micc.garmory-cdn.cloud/obrazki/itemy/but/buty535.gif",
+        "price": "___"
+      }
+    ]
+  },
+  {
+    "name": "Zły Przewodnik (heros 63lvl)",
+    "img": "https://micc.garmory-cdn.cloud/obrazki/npc/her/mnich-zly2.gif",
+    "items": [
+      {
+        "name": "Zamach wybitnego łgarza",
+        "lvl": 63,
+        "img": "https://micc.garmory-cdn.cloud/obrazki/itemy/rek/rekawice892.gif",
+        "price": "___"
+      },
+      {
+        "name": "Dotyk zwodniczych mgieł",
+        "lvl": 63,
+        "img": "https://micc.garmory-cdn.cloud/obrazki/itemy/rek/rekawice891.gif",
+        "price": "___"
+      },
+      {
+        "name": "Dwulicowy chwyt mnicha",
+        "lvl": 63,
+        "img": "https://micc.garmory-cdn.cloud/obrazki/itemy/rek/rekawice893.gif",
+        "price": "___"
+      }
+    ]
   }
 ]

@@ -4,23 +4,49 @@
     <meta charset="UTF-8" />
     <title>Cennik Przedmiotów Legendarnych</title>
     <link rel="stylesheet" href="style.css" />
+    <style>
+      .filter-buttons {
+        text-align: center;
+        margin-bottom: 20px;
+      }
+      .filter-buttons button {
+        margin: 0 10px;
+        padding: 8px 16px;
+        font-size: 14px;
+        cursor: pointer;
+        background-color: #222;
+        border: 1px solid #444;
+        color: #fff;
+        border-radius: 6px;
+      }
+      .filter-buttons button:hover {
+        background-color: #444;
+      }
+    </style>
   </head>
   <body>
     <h1>CENNIK PRZEDMIOTÓW <span>LEGENDARNYCH</span></h1>
+
+    <div class="filter-buttons">
+      <button onclick="filterBosses('elita II')">Elity II</button>
+      <button onclick="filterBosses('heros')">Herosi</button>
+      <button onclick="filterBosses('all')">Wszyscy</button>
+    </div>
+
     <div class="legend-container" id="content">Wczytywanie...</div>
 
     <script>
-      fetch("data.json")
-        .then((response) => response.json())
-        .then((data) => {
-          const container = document.getElementById("content");
-          container.innerHTML = "";
+      let fullData = [];
 
-          data.forEach((boss) => {
-            const block = document.createElement("div");
-            block.className = "boss-block";
+      function renderBosses(data) {
+        const container = document.getElementById("content");
+        container.innerHTML = "";
 
-            block.innerHTML = `
+        data.forEach((boss) => {
+          const block = document.createElement("div");
+          block.className = "boss-block";
+
+          block.innerHTML = `
             <div class="boss-header">
               <h2>${boss.name}</h2>
               <div class="boss-img">
@@ -46,8 +72,26 @@
                 .join("")}
             </div>
           `;
-            container.appendChild(block);
-          });
+          container.appendChild(block);
+        });
+      }
+
+      function filterBosses(type) {
+        if (type === "all") {
+          renderBosses(fullData);
+        } else {
+          const filtered = fullData.filter((boss) =>
+            boss.name.toLowerCase().includes(type.toLowerCase())
+          );
+          renderBosses(filtered);
+        }
+      }
+
+      fetch("data.json")
+        .then((response) => response.json())
+        .then((data) => {
+          fullData = data;
+          renderBosses(fullData);
         });
     </script>
   </body>
