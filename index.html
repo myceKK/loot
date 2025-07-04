@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+  <meta charset="UTF-8">
+  <title>Legendarny Loot - Margoworld</title>
+  <style>
+    body {
+      background: #111;
+      color: white;
+      font-family: sans-serif;
+      padding: 20px;
+    }
+    .search-box {
+      margin-bottom: 20px;
+      display: flex;
+      gap: 10px;
+      align-items: center;
+    }
+    input[type="text"] {
+      padding: 8px;
+      font-size: 16px;
+      width: 300px;
+      border-radius: 5px;
+      border: none;
+    }
+    .toggle {
+      padding: 6px 10px;
+      background: #333;
+      color: white;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+    }
+    .results {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 20px;
+      justify-content: center;
+    }
+    .column-mode .results {
+      flex-direction: column;
+      align-items: center;
+    }
+    .boss-block {
+      max-width: 380px;
+      flex: 1 1 360px;
+      background: #00000044;
+      border-radius: 10px;
+      padding: 10px;
+    }
+  </style>
+</head>
+<body>
+
+  <div class="search-box">
+    <input type="text" id="search" placeholder="Szukaj bossa...">
+    <button class="toggle" onclick="toggleView()">🔃 Tryb kolumnowy</button>
+  </div>
+
+  <div id="output" class="results"></div>
+
+  <script>
+    const output = document.getElementById("output");
+    let isColumnMode = false;
+
+    document.getElementById("search").addEventListener("input", e => {
+      const query = e.target.value.toLowerCase();
+      const blocks = output.querySelectorAll(".boss-block");
+      blocks.forEach(block => {
+        const name = block.querySelector("h2").textContent.toLowerCase();
+        block.style.display = name.includes(query) ? "block" : "none";
+      });
+    });
+
+    function toggleView() {
+      isColumnMode = !isColumnMode;
+      document.body.classList.toggle("column-mode", isColumnMode);
+    }
+
+    // Wklejone dane trafiają tutaj
+    function dodajKarte(html) {
+      const container = document.createElement("div");
+      container.innerHTML = html;
+      const block = container.querySelector(".boss-block");
+      if (block) output.appendChild(block);
+    }
+
+    // PRZYKŁAD
+    dodajKarte(`<!-- TU WLEPIASZ SKOPIOWANY KOD Z TAMPERMONKEY -->`);
+  </script>
+
+</body>
+</html>
