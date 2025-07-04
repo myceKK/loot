@@ -14,9 +14,9 @@
       width: 34px;
       height: 34px;
       position: absolute;
-      bottom: 38px; /* perfekcyjne wyrównanie pod C */
+      bottom: 54px;
       left: 1px;
-      z-index: 297;
+      z-index: 298;
       background: linear-gradient(135deg, #ff9900, #ffcc00);
       padding: 1px;
       border-radius: 4px;
