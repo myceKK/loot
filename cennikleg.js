@@ -18,7 +18,7 @@
       z-index: 296;
       cursor: pointer;
       pointer-events: initial;
-      background: linear-gradient(135deg, #4a148c, #880e4f); /* fioletowo-różowy gradient */
+      background: linear-gradient(135deg,rgb(139, 192, 159),rgb(168, 60, 118));
       border-radius: 4px;
       padding: 2px;
       box-sizing: border-box;
