@@ -14,7 +14,7 @@
       width: 34px;
       height: 34px;
       position: absolute;
-      bottom: 34px; /* tu ustawiona idealna pozycja pod "C" */
+      bottom: 38px; /* perfekcyjne wyrównanie pod C */
       left: 1px;
       z-index: 297;
       background: linear-gradient(135deg, #ff9900, #ffcc00);
