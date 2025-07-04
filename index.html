@@ -1,137 +1,196 @@
 <!DOCTYPE html>
 <html lang="pl">
-<head>
-  <meta charset="UTF-8">
-  <title>Legendarny Loot - Margoworld</title>
-  <style>
-    body {
-      background: #111;
-      color: white;
-      font-family: sans-serif;
-      padding: 20px;
-    }
-    .search-box {
-      margin-bottom: 20px;
-      display: flex;
-      gap: 10px;
-      align-items: center;
-    }
-    input[type="text"] {
-      padding: 8px;
-      font-size: 16px;
-      width: 300px;
-      border-radius: 5px;
-      border: none;
-    }
-    .toggle {
-      padding: 6px 10px;
-      background: #333;
-      color: white;
-      border: none;
-      border-radius: 5px;
-      cursor: pointer;
-    }
-    .results {
-      display: flex;
-      flex-wrap: wrap;
-      gap: 20px;
-      justify-content: center;
-    }
-    .column-mode .results {
-      flex-direction: column;
-      align-items: center;
-    }
-    .boss-block {
-      max-width: 380px;
-      flex: 1 1 360px;
-      background: #00000044;
-      border-radius: 10px;
-      padding: 10px;
-    }
-  </style>
-</head>
-<body>
+  <head>
+    <meta charset="UTF-8" />
+    <title>Cennik Przedmiotów Legendarnych</title>
+    <style>
+      body {
+        background: #0a0a0a;
+        color: white;
+        font-family: sans-serif;
+        padding: 20px;
+        text-align: center;
+      }
+      h1 {
+        font-size: 36px;
+        margin-bottom: 30px;
+        color: #fff;
+      }
+      h1 span {
+        color: orange;
+        text-shadow: 1px 1px 0 black;
+      }
+      .legend-container {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        gap: 20px;
+      }
+      .boss-block {
+        background: #111;
+        padding: 10px;
+        border-radius: 10px;
+        border: 1px solid #333;
+        max-width: 380px;
+        flex: 1 1 360px;
+      }
+      #placeholder {
+        width: 100%;
+        border: 2px dashed #444;
+        padding: 30px;
+        border-radius: 10px;
+        margin-top: 30px;
+        font-size: 18px;
+        color: #888;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>CENNIK PRZEDMIOTÓW <span>LEGENDARNYCH</span></h1>
 
-  <div class="search-box">
-    <input type="text" id="search" placeholder="Szukaj bossa...">
-    <button class="toggle" onclick="toggleView()">🔃 Tryb kolumnowy</button>
-  </div>
+    <div class="legend-container" id="content">
+      <!-- Wklejaj swoje <div class="boss-block"> TUTAJ ↓↓↓ -->
+      <div id="placeholder">
+        <div class="boss-block" style="max-width: 380px">
+          <h2 style="color: white; text-align: center">
+            Shae Phu (elita II 30lvl)
+          </h2>
+          <div style="text-align: center; margin: 10px 0">
+            <img
+              src="https://micc.garmory-cdn.cloud/obrazki/npc/e2/demonszef.gif"
+              alt="Shae Phu (elita II 30lvl)"
+              style="image-rendering: pixelated"
+            />
+          </div>
+          <div class="legendary-loot">
+            <div
+              style="
+                background: #1a1a1a;
+                border: 1px solid #333;
+                padding: 10px;
+                border-radius: 8px;
+                margin-bottom: 10px;
+                width: 100%;
+                max-width: 360px;
+              "
+            >
+              <div style="display: flex; align-items: center; gap: 10px">
+                <img
+                  src="https://micc.garmory-cdn.cloud/obrazki/itemy/rek/rekawice805.gif"
+                  alt="Nekromantki cmentarnej dziewicy"
+                  style="width: 48px; height: 48px; image-rendering: pixelated"
+                />
+                <div>
+                  <div style="color: orange; font-weight: bold">
+                    Nekromantki cmentarnej dziewicy
+                  </div>
+                  <div style="font-size: 13px; color: #aaa">Poziom: 30</div>
+                </div>
+              </div>
+              <div style="margin-top: 8px; text-align: right">
+                <span
+                  style="
+                    background: #000;
+                    border: 1px solid #555;
+                    padding: 3px 6px;
+                    border-radius: 5px;
+                    color: #fff;
+                  "
+                  >___</span
+                >
+              </div>
+            </div>
 
-  <div id="output" class="results"></div>
+            <div
+              style="
+                background: #1a1a1a;
+                border: 1px solid #333;
+                padding: 10px;
+                border-radius: 8px;
+                margin-bottom: 10px;
+                width: 100%;
+                max-width: 360px;
+              "
+            >
+              <div style="display: flex; align-items: center; gap: 10px">
+                <img
+                  src="https://micc.garmory-cdn.cloud/obrazki/itemy/rek/rekawice806.gif"
+                  alt="Szpony Ciemnego Varga"
+                  style="width: 48px; height: 48px; image-rendering: pixelated"
+                />
+                <div>
+                  <div style="color: orange; font-weight: bold">
+                    Szpony Ciemnego Varga
+                  </div>
+                  <div style="font-size: 13px; color: #aaa">Poziom: 30</div>
+                </div>
+              </div>
+              <div style="margin-top: 8px; text-align: right">
+                <span
+                  style="
+                    background: #000;
+                    border: 1px solid #555;
+                    padding: 3px 6px;
+                    border-radius: 5px;
+                    color: #fff;
+                  "
+                  >___</span
+                >
+              </div>
+            </div>
 
-  <script>
-    const output = document.getElementById("output");
-    let isColumnMode = false;
+            <div
+              style="
+                background: #1a1a1a;
+                border: 1px solid #333;
+                padding: 10px;
+                border-radius: 8px;
+                margin-bottom: 10px;
+                width: 100%;
+                max-width: 360px;
+              "
+            >
+              <div style="display: flex; align-items: center; gap: 10px">
+                <img
+                  src="https://micc.garmory-cdn.cloud/obrazki/itemy/nas/naszyjnik275.gif"
+                  alt="Kość Przeznaczenia"
+                  style="width: 48px; height: 48px; image-rendering: pixelated"
+                />
+                <div>
+                  <div style="color: orange; font-weight: bold">
+                    Kość Przeznaczenia
+                  </div>
+                  <div style="font-size: 13px; color: #aaa">Poziom: 30</div>
+                </div>
+              </div>
+              <div style="margin-top: 8px; text-align: right">
+                <span
+                  style="
+                    background: #000;
+                    border: 1px solid #555;
+                    padding: 3px 6px;
+                    border-radius: 5px;
+                    color: #fff;
+                  "
+                  >___</span
+                >
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
 
-    document.getElementById("search").addEventListener("input", e => {
-      const query = e.target.value.toLowerCase();
-      const blocks = output.querySelectorAll(".boss-block");
-      blocks.forEach(block => {
-        const name = block.querySelector("h2").textContent.toLowerCase();
-        block.style.display = name.includes(query) ? "block" : "none";
+    <script>
+      const content = document.getElementById("content");
+      const observer = new MutationObserver(() => {
+        const blocks = content.querySelectorAll(".boss-block");
+        if (blocks.length > 0) {
+          const ph = document.getElementById("placeholder");
+          if (ph) ph.remove();
+        }
       });
-    });
-
-    function toggleView() {
-      isColumnMode = !isColumnMode;
-      document.body.classList.toggle("column-mode", isColumnMode);
-    }
-
-    // Wklejone dane trafiają tutaj
-    function dodajKarte(html) {
-      const container = document.createElement("div");
-      container.innerHTML = html;
-      const block = container.querySelector(".boss-block");
-      if (block) output.appendChild(block);
-    }
-
-    // PRZYKŁAD
-    dodajKarte(<div class="boss-block" style="max-width:380px;">
-  <h2 style="color:white;text-align:center;">Tollok Shimger (elita II 47lvl)</h2>
-  <div style="text-align:center;margin:10px 0;"><img src="https://micc.garmory-cdn.cloud/obrazki/npc/e2/tollok_shimger.gif" alt="Tollok Shimger (elita II 47lvl)" style="image-rendering: pixelated;"></div>
-  <div class="legendary-loot">
-
-  <div style="background:#1a1a1a;border:1px solid #333;padding:10px;border-radius:8px;margin-bottom:10px;width:100%;max-width:360px;">
-    <div style="display:flex;align-items:center;gap:10px;">
-      <img src="https://micc.garmory-cdn.cloud/obrazki/itemy/pie/pierscien856.gif" alt="Sygnet przyzwania nietoperzy" style="width:48px;height:48px;image-rendering: pixelated;">
-      <div>
-        <div style="color:orange;font-weight:bold;">Sygnet przyzwania nietoperzy</div>
-        <div style="font-size:13px;color:#aaa;">Poziom: 46</div>
-      </div>
-    </div>
-    <div style="margin-top:8px;text-align:right;">
-      <span style="background:#000;border:1px solid #555;padding:3px 6px;border-radius:5px;color:#fff;">___</span>
-    </div>
-  </div>
-
-  <div style="background:#1a1a1a;border:1px solid #333;padding:10px;border-radius:8px;margin-bottom:10px;width:100%;max-width:360px;">
-    <div style="display:flex;align-items:center;gap:10px;">
-      <img src="https://micc.garmory-cdn.cloud/obrazki/itemy/pie/pierscien855.gif" alt="Błękitna duma tolloka" style="width:48px;height:48px;image-rendering: pixelated;">
-      <div>
-        <div style="color:orange;font-weight:bold;">Błękitna duma tolloka</div>
-        <div style="font-size:13px;color:#aaa;">Poziom: 46</div>
-      </div>
-    </div>
-    <div style="margin-top:8px;text-align:right;">
-      <span style="background:#000;border:1px solid #555;padding:3px 6px;border-radius:5px;color:#fff;">___</span>
-    </div>
-  </div>
-
-  <div style="background:#1a1a1a;border:1px solid #333;padding:10px;border-radius:8px;margin-bottom:10px;width:100%;max-width:360px;">
-    <div style="display:flex;align-items:center;gap:10px;">
-      <img src="https://micc.garmory-cdn.cloud/obrazki/itemy/pie/pierscien857.gif" alt="Nasiono burzy" style="width:48px;height:48px;image-rendering: pixelated;">
-      <div>
-        <div style="color:orange;font-weight:bold;">Nasiono burzy</div>
-        <div style="font-size:13px;color:#aaa;">Poziom: 46</div>
-      </div>
-    </div>
-    <div style="margin-top:8px;text-align:right;">
-      <span style="background:#000;border:1px solid #555;padding:3px 6px;border-radius:5px;color:#fff;">___</span>
-    </div>
-  </div>
-  </div>
-</div>);
-  </script>
-
-</body>
+      observer.observe(content, { childList: true });
+    </script>
+  </body>
 </html>
