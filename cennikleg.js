@@ -9,38 +9,29 @@
 
     const button = document.createElement("div");
     button.id = "LegendButton";
-    button.textContent = "C";
     button.title = "Cennik legend";
     button.style.cssText = `
-      width: 24px;
-      height: 24px;
-      padding: 4px;
+      width: 32px;
+      height: 32px;
       position: absolute;
       bottom: 40px;
       left: 1px;
       z-index: 297;
-      background: linear-gradient(135deg, red, orange, yellow, green, cyan, blue, violet);
-      border: 1px solid #333;
-      opacity: 0.95;
-      color: white;
-      text-align: center;
+      background: transparent;
       cursor: pointer;
-      font-family: sans-serif;
-      font-size: 14px;
-      line-height: 24px;
-      font-weight: bold;
-      border-radius: 4px;
       pointer-events: initial;
-      transition: transform 0.2s ease;
     `;
 
-    button.addEventListener("mouseover", () => {
-      button.style.transform = "scale(1.1)";
-    });
+    const img = document.createElement("img");
+    img.src = "https://micc.garmory-cdn.cloud/obrazki/npc/e2/gobsamurai.gif";
+    img.alt = "Cennik legend";
+    img.style.cssText = `
+      width: 100%;
+      height: 100%;
+      image-rendering: pixelated;
+    `;
 
-    button.addEventListener("mouseout", () => {
-      button.style.transform = "scale(1)";
-    });
+    button.appendChild(img);
 
     button.addEventListener("click", () => {
       window.open("https://mycekk.github.io/loot/", "_blank");
