@@ -29,6 +29,7 @@
       width: 100%;
       height: 100%;
       image-rendering: pixelated;
+      display: block;
     `;
 
     button.appendChild(img);
