@@ -14,10 +14,10 @@
       width: 34px;
       height: 34px;
       position: absolute;
-      bottom: 15px; /* 25px niżej niż wcześniej */
+      bottom: 34px; /* tu ustawiona idealna pozycja pod "C" */
       left: 1px;
       z-index: 297;
-      background: linear-gradient(135deg, #ff00ff, #00ffff);
+      background: linear-gradient(135deg, #ff9900, #ffcc00);
       padding: 1px;
       border-radius: 4px;
       cursor: pointer;
