@@ -1,0 +1,99 @@
+body {
+  background: #0a0a0a;
+  color: white;
+  font-family: sans-serif;
+  padding: 20px;
+  text-align: center;
+}
+
+h1 {
+  font-size: 36px;
+  margin-bottom: 30px;
+  color: #fff;
+}
+
+h1 span {
+  color: orange;
+  text-shadow: 1px 1px 0 black;
+}
+
+.legend-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px;
+}
+
+.boss-block {
+  background: #111;
+  padding: 10px;
+  border-radius: 10px;
+  border: 1px solid #333;
+  width: 380px;
+}
+
+.boss-header {
+  min-height: 160px;
+}
+
+.boss-header h2 {
+  color: white;
+  text-align: center;
+}
+
+.boss-img {
+  text-align: center;
+  margin: 10px 0;
+}
+
+.boss-img img {
+  image-rendering: pixelated;
+  width: 80px;
+  height: 80px;
+  object-fit: contain;
+}
+
+.legendary-loot {
+  margin-top: 10px;
+}
+
+.item {
+  background: #1a1a1a;
+  border: 1px solid #333;
+  padding: 10px;
+  border-radius: 8px;
+  margin-bottom: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.item-left {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.item-left img {
+  width: 48px;
+  height: 48px;
+  image-rendering: pixelated;
+}
+
+.item-name {
+  color: orange;
+  font-weight: bold;
+}
+
+.item-lvl {
+  font-size: 13px;
+  color: #aaa;
+}
+
+.price-tag {
+  background: #000;
+  border: 1px solid #555;
+  padding: 3px 6px;
+  border-radius: 5px;
+  color: #fff;
+}

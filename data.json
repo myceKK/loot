@@ -1,22 +1,313 @@
 [
   {
+    "name": "Shae Phu (elita II 30lvl)",
+    "img": "https://micc.garmory-cdn.cloud/obrazki/npc/e2/demonszef.gif",
+    "items": [
+      {
+        "name": "Nekromantki cmentarnej dziewicy",
+        "lvl": 30,
+        "img": "https://micc.garmory-cdn.cloud/obrazki/itemy/rek/rekawice805.gif",
+        "price": "___"
+      },
+      {
+        "name": "Szpony Ciemnego Varga",
+        "lvl": 30,
+        "img": "https://micc.garmory-cdn.cloud/obrazki/itemy/rek/rekawice806.gif",
+        "price": "___"
+      },
+      {
+        "name": "Kość Przeznaczenia",
+        "lvl": 30,
+        "img": "https://micc.garmory-cdn.cloud/obrazki/itemy/nas/naszyjnik275.gif",
+        "price": "___"
+      }
+    ]
+  },
+  {
     "name": "Zorg Jednooki Baron (elita II 33lvl)",
     "img": "https://micc.garmory-cdn.cloud/obrazki/npc/e2/zbir-e2-zorg.gif",
     "items": [
       {
         "name": "Cacko upadłego barona",
         "lvl": 33,
-        "img": "https://micc.garmory-cdn.cloud/obrazki/itemy/but/buty802.gif"
+        "img": "https://micc.garmory-cdn.cloud/obrazki/itemy/but/buty802.gif",
+        "price": "___"
       },
       {
         "name": "Magiczna zabawka Zorga",
         "lvl": 33,
-        "img": "https://micc.garmory-cdn.cloud/obrazki/itemy/but/buty804.gif"
+        "img": "https://micc.garmory-cdn.cloud/obrazki/itemy/but/buty804.gif",
+        "price": "___"
       },
       {
         "name": "Obuwie lidera szajki",
         "lvl": 33,
-        "img": "https://micc.garmory-cdn.cloud/obrazki/itemy/but/buty803.gif"
+        "img": "https://micc.garmory-cdn.cloud/obrazki/itemy/but/buty803.gif",
+        "price": "___"
+      }
+    ]
+  },
+  {
+    "name": "Władca rzek (elita II 37lvl)",
+    "img": "https://micc.garmory-cdn.cloud/obrazki/npc/e2/gobmag2.gif",
+    "items": [
+      {
+        "name": "Studnia Życzeń",
+        "lvl": 37,
+        "img": "https://micc.garmory-cdn.cloud/obrazki/itemy/pie/pierscien836.gif",
+        "price": "___"
+      },
+      {
+        "name": "Klejnot Wielkich Jezior",
+        "lvl": 37,
+        "img": "https://micc.garmory-cdn.cloud/obrazki/itemy/pie/pierscien837.gif",
+        "price": "___"
+      },
+      {
+        "name": "Rzeka Marzeń",
+        "lvl": 37,
+        "img": "https://micc.garmory-cdn.cloud/obrazki/itemy/pie/pierscien835.gif",
+        "price": "___"
+      }
+    ]
+  },
+  {
+    "name": "Gobbos (elita II 40lvl)",
+    "img": "https://micc.garmory-cdn.cloud/obrazki/npc/e2/gobsamurai.gif",
+    "items": [
+      {
+        "name": "Maska Akumu",
+        "lvl": 40,
+        "img": "https://micc.garmory-cdn.cloud/obrazki/itemy/hat/maska5.gif",
+        "price": "___"
+      },
+      {
+        "name": "Element Mroku",
+        "lvl": 40,
+        "img": "https://micc.garmory-cdn.cloud/obrazki/itemy/nas/naszyjnik812.gif",
+        "price": "___"
+      },
+      {
+        "name": "Dusza Światła",
+        "lvl": 40,
+        "img": "https://micc.garmory-cdn.cloud/obrazki/itemy/nas/naszyjnik813.gif",
+        "price": "___"
+      }
+    ]
+  },
+  {
+    "name": "Tyrtajos (elita II 42lvl)",
+    "img": "https://micc.garmory-cdn.cloud/obrazki/npc/e2/dzik.gif",
+    "items": [
+      {
+        "name": "Dzikie ryjki",
+        "lvl": 40,
+        "img": "https://micc.garmory-cdn.cloud/obrazki/itemy/but/buty842.gif",
+        "price": "___"
+      },
+      {
+        "name": "Naramienniki przywódcy watahy",
+        "lvl": 40,
+        "img": "https://micc.garmory-cdn.cloud/obrazki/itemy/rek/rekawice828.gif",
+        "price": "___"
+      },
+      {
+        "name": "Chrumkająca ozdoba dzika",
+        "lvl": 40,
+        "img": "https://micc.garmory-cdn.cloud/obrazki/itemy/rek/rekawice827.gif",
+        "price": "___"
+      }
+    ]
+  },
+  {
+    "name": "Tollok Shimger (elita II 47lvl)",
+    "img": "https://micc.garmory-cdn.cloud/obrazki/npc/e2/tollok_shimger.gif",
+    "items": [
+      {
+        "name": "Sygnet przyzwania nietoperzy",
+        "lvl": 46,
+        "img": "https://micc.garmory-cdn.cloud/obrazki/itemy/pie/pierscien856.gif",
+        "price": "___"
+      },
+      {
+        "name": "Błękitna duma tolloka",
+        "lvl": 46,
+        "img": "https://micc.garmory-cdn.cloud/obrazki/itemy/pie/pierscien855.gif",
+        "price": "___"
+      },
+      {
+        "name": "Nasiono burzy",
+        "lvl": 46,
+        "img": "https://micc.garmory-cdn.cloud/obrazki/itemy/pie/pierscien857.gif",
+        "price": "___"
+      }
+    ]
+  },
+  {
+    "name": "Szczęt alias Gładki (elita II 47lvl)",
+    "img": "https://micc.garmory-cdn.cloud/obrazki/npc/e2/zbir-szczet.gif",
+    "items": [
+      {
+        "name": "Maska złodzieja",
+        "lvl": 47,
+        "img": "https://micc.garmory-cdn.cloud/obrazki/itemy/hel/mug_mask01.gif",
+        "price": "___"
+      },
+      {
+        "name": "Towar pierwszej klasy",
+        "lvl": 47,
+        "img": "https://micc.garmory-cdn.cloud/obrazki/itemy/but/buty852.gif",
+        "price": "___"
+      },
+      {
+        "name": "Zbójeckie złotko",
+        "lvl": 47,
+        "img": "https://micc.garmory-cdn.cloud/obrazki/itemy/nas/naszyjnik414.gif",
+        "price": "___"
+      }
+    ]
+  },
+  {
+    "name": "Agar (elita II 51lvl)",
+    "img": "https://micc.garmory-cdn.cloud/obrazki/npc/e2/glut_agar.gif",
+    "items": [
+      {
+        "name": "Plugawe przekleństwo wiedźmy",
+        "lvl": 49,
+        "img": "https://micc.garmory-cdn.cloud/obrazki/itemy/neu/gal_l-naszyj.gif",
+        "price": "___"
+      },
+      {
+        "name": "Sprofanowany rdzeń świadomości",
+        "lvl": 49,
+        "img": "https://micc.garmory-cdn.cloud/obrazki/itemy/neu/gal_l-naszyj2.gif",
+        "price": "___"
+      },
+      {
+        "name": "Splamiona kapitańska obręcz",
+        "lvl": 49,
+        "img": "https://micc.garmory-cdn.cloud/obrazki/itemy/neu/gal_l-naszyj3.gif",
+        "price": "___"
+      }
+    ]
+  },
+  {
+    "name": "Razuglag Oklash (elita II 51lvl)",
+    "img": "https://micc.garmory-cdn.cloud/obrazki/npc/e2/razuglag.gif",
+    "items": [
+      {
+        "name": "Maska mrocznego sługi",
+        "lvl": 50,
+        "img": "https://micc.garmory-cdn.cloud/obrazki/itemy/hel/helm773.gif",
+        "price": "___"
+      },
+      {
+        "name": "Kaptur Magii Początku",
+        "lvl": 50,
+        "img": "https://micc.garmory-cdn.cloud/obrazki/itemy/hel/helm362.gif",
+        "price": "___"
+      },
+      {
+        "name": "Zaklęty orczy płomień",
+        "lvl": 50,
+        "img": "https://micc.garmory-cdn.cloud/obrazki/itemy/pie/pierscien863.gif",
+        "price": "___"
+      }
+    ]
+  },
+  {
+    "name": "Foverk Turrim (elita II 57lvl)",
+    "img": "https://micc.garmory-cdn.cloud/obrazki/npc/e2/kobold07.gif",
+    "items": [
+      {
+        "name": "Skradzione chodaki Jana",
+        "lvl": 57,
+        "img": "https://micc.garmory-cdn.cloud/obrazki/itemy/but/buty99.gif",
+        "price": "___"
+      },
+      {
+        "name": "Klejnot turrimu",
+        "lvl": 57,
+        "img": "https://micc.garmory-cdn.cloud/obrazki/itemy/nas/naszyjnik871.gif",
+        "price": "___"
+      },
+      {
+        "name": "Rozłupana czaszka Foverka",
+        "lvl": 57,
+        "img": "https://micc.garmory-cdn.cloud/obrazki/itemy/nas/naszyjnik870.gif",
+        "price": "___"
+      }
+    ]
+  },
+  {
+    "name": "Owadzia Matka (elita II 58lvl)",
+    "img": "https://micc.garmory-cdn.cloud/obrazki/npc/e2/zadlak-e2-owadzia-matka.gif",
+    "items": [
+      {
+        "name": "Bransolety łąkowego terroru",
+        "lvl": 56,
+        "img": "https://micc.garmory-cdn.cloud/obrazki/itemy/rek/rekawice817.gif",
+        "price": "___"
+      },
+      {
+        "name": "Objęcia propolisu",
+        "lvl": 56,
+        "img": "https://micc.garmory-cdn.cloud/obrazki/itemy/rek/rekawice816.gif",
+        "price": "___"
+      },
+      {
+        "name": "Paskudzące żądła Matki",
+        "lvl": 56,
+        "img": "https://micc.garmory-cdn.cloud/obrazki/itemy/rek/rekawice815.gif",
+        "price": "___"
+      }
+    ]
+  },
+  {
+    "name": "Vari Kruger (elita II 65lvl)",
+    "img": "https://micc.garmory-cdn.cloud/obrazki/npc/e2/gnoll11.gif",
+    "items": [
+      {
+        "name": "Tłokowy pancerz buchający",
+        "lvl": 64,
+        "img": "https://micc.garmory-cdn.cloud/obrazki/itemy/zbr/zbroja651.gif",
+        "price": "___"
+      },
+      {
+        "name": "Maska regulacji żaru",
+        "lvl": 64,
+        "img": "https://micc.garmory-cdn.cloud/obrazki/itemy/hel/helm663.gif",
+        "price": "___"
+      },
+      {
+        "name": "Sygnet szmaragdowej potęgi",
+        "lvl": 64,
+        "img": "https://micc.garmory-cdn.cloud/obrazki/itemy/pie/piersc94.gif",
+        "price": "___"
+      }
+    ]
+  },
+  {
+    "name": "Furruk Kozug (elita II 66lvl)",
+    "img": "https://micc.garmory-cdn.cloud/obrazki/npc/e2/gnoll12.gif",
+    "items": [
+      {
+        "name": "Odzienie dominującego czaru",
+        "lvl": 64,
+        "img": "https://micc.garmory-cdn.cloud/obrazki/itemy/zbr/zbroja650.gif",
+        "price": "___"
+      },
+      {
+        "name": "Futrzana czapa szaleńca",
+        "lvl": 64,
+        "img": "https://micc.garmory-cdn.cloud/obrazki/itemy/hel/helm662.gif",
+        "price": "___"
+      },
+      {
+        "name": "Sygnet ognistej pożogi",
+        "lvl": 64,
+        "img": "https://micc.garmory-cdn.cloud/obrazki/itemy/pie/piersc93.gif",
+        "price": "___"
       }
     ]
   }
