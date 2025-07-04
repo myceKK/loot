@@ -17,7 +17,10 @@
       bottom: 40px;
       left: 1px;
       z-index: 297;
-      background: transparent;
+      background: linear-gradient(145deg, #ffc107, #ff5722);
+      border-radius: 4px;
+      padding: 1px;
+      box-sizing: border-box;
       cursor: pointer;
       pointer-events: initial;
     `;
@@ -28,8 +31,9 @@
     img.style.cssText = `
       width: 100%;
       height: 100%;
-      image-rendering: pixelated;
+      border-radius: 3px;
       display: block;
+      image-rendering: pixelated;
     `;
 
     button.appendChild(img);
