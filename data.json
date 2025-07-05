@@ -406,5 +406,281 @@
         "price": "1g"
       }
     ]
+  },
+  {
+    "name": "Cuaitl Citlalin (elita II 250lvl)",
+    "img": "https://micc.garmory-cdn.cloud/obrazki/npc/e2/maho-cuaitl.gif",
+    "items": [
+      {
+        "name": "Pióropusz ostatniego z Imperatorów",
+        "lvl": 245,
+        "img": "https://micc.garmory-cdn.cloud/obrazki/itemy/hel/helm377.gif",
+        "price": "___"
+      },
+      {
+        "name": "Gniazdo przenikliwości",
+        "lvl": 246,
+        "img": "https://micc.garmory-cdn.cloud/obrazki/itemy/pie/pierscien455.gif",
+        "price": "___"
+      },
+      {
+        "name": "Naszyjnik złotych płatków",
+        "lvl": 250,
+        "img": "https://micc.garmory-cdn.cloud/obrazki/itemy/nas/naszyj602.gif",
+        "price": "___"
+      }
+    ]
+  },
+  {
+    "name": "Pogardliwa Sybilla (elita II 255lvl)",
+    "img": "https://micc.garmory-cdn.cloud/obrazki/npc/e2/tri2_witch_e2.gif",
+    "items": [
+      {
+        "name": "Czarci chwyt",
+        "lvl": 254,
+        "img": "https://micc.garmory-cdn.cloud/obrazki/itemy/rek/rekawice417.gif",
+        "price": "___"
+      },
+      {
+        "name": "Łapska przedziwnych anomalii",
+        "lvl": 254,
+        "img": "https://micc.garmory-cdn.cloud/obrazki/itemy/rek/rekawice416.gif",
+        "price": "___"
+      },
+      {
+        "name": "Klucz do Księgi Cieni",
+        "lvl": 246,
+        "img": "https://micc.garmory-cdn.cloud/obrazki/itemy/pie/pierscien456.gif",
+        "price": "___"
+      }
+    ]
+  },
+  {
+    "name": "Yaotl (elita II 258lvl)",
+    "img": "https://micc.garmory-cdn.cloud/obrazki/npc/e2/mahoplowca.gif",
+    "items": [
+      {
+        "name": "Płomienna maska kapłana",
+        "lvl": 256,
+        "img": "https://micc.garmory-cdn.cloud/obrazki/itemy/hel/helm419.gif",
+        "price": "___"
+      },
+      {
+        "name": "Pozłacana podobizna bóstwa",
+        "lvl": 256,
+        "img": "https://micc.garmory-cdn.cloud/obrazki/itemy/hel/helm420.gif",
+        "price": "___"
+      },
+      {
+        "name": "Czaszka Huitzilopochtli",
+        "lvl": 256,
+        "img": "https://micc.garmory-cdn.cloud/obrazki/itemy/hel/helm418.gif",
+        "price": "___"
+      }
+    ]
+  },
+  {
+    "name": "Quetzalcoatl (elita II 260lvl)",
+    "img": "https://micc.garmory-cdn.cloud/obrazki/npc/e2/quetzalcoatl.gif",
+    "items": [
+      {
+        "name": "Złotorożny czerep",
+        "lvl": 260,
+        "img": "https://micc.garmory-cdn.cloud/obrazki/itemy/hel/helm536.gif",
+        "price": "___"
+      },
+      {
+        "name": "Gorejące oko poświęcenia",
+        "lvl": 246,
+        "img": "https://micc.garmory-cdn.cloud/obrazki/itemy/pie/pierscien457.gif",
+        "price": "___"
+      },
+      {
+        "name": "Wisior czerwonego słońca",
+        "lvl": 252,
+        "img": "https://micc.garmory-cdn.cloud/obrazki/itemy/nas/naszyj603.gif",
+        "price": "___"
+      }
+    ]
+  },
+  {
+    "name": "Chopesz (elita II 267lvl)",
+    "img": "https://micc.garmory-cdn.cloud/obrazki/npc/e2/chopesh2.gif",
+    "items": [
+      {
+        "name": "Skarb antycznych",
+        "lvl": 261,
+        "img": "https://micc.garmory-cdn.cloud/obrazki/itemy/but/buty516.gif",
+        "price": "___"
+      },
+      {
+        "name": "Bojowe obuwie Chopesza",
+        "lvl": 261,
+        "img": "https://micc.garmory-cdn.cloud/obrazki/itemy/but/buty515.gif",
+        "price": "___"
+      },
+      {
+        "name": "Lazur wód Wernoradu",
+        "lvl": 261,
+        "img": "https://micc.garmory-cdn.cloud/obrazki/itemy/but/buty514.gif",
+        "price": "___"
+      }
+    ]
+  },
+  {
+    "name": "Neferkar Set (elita II 274lvl)",
+    "img": "https://micc.garmory-cdn.cloud/obrazki/npc/e2/szkiel_set.gif",
+    "items": [
+      {
+        "name": "Magia mrocznego Seta",
+        "lvl": 274,
+        "img": "https://micc.garmory-cdn.cloud/obrazki/itemy/but/set_but3.gif",
+        "price": "___"
+      },
+      {
+        "name": "Niezłomność bezlitosnego Seta",
+        "lvl": 274,
+        "img": "https://micc.garmory-cdn.cloud/obrazki/itemy/but/set_but1.gif",
+        "price": "___"
+      },
+      {
+        "name": "Furia potężnego Seta",
+        "lvl": 274,
+        "img": "https://micc.garmory-cdn.cloud/obrazki/itemy/but/set_but2.gif",
+        "price": "___"
+      }
+    ]
+  },
+  {
+    "name": "Terrozaur (elita II 280lvl)",
+    "img": "https://micc.garmory-cdn.cloud/obrazki/npc/e2/terrorzaur_pus.gif",
+    "items": [
+      {
+        "name": "Szpony gadzich jeźdźców",
+        "lvl": 280,
+        "img": "https://micc.garmory-cdn.cloud/obrazki/itemy/rek/rekawice579.gif",
+        "price": "___"
+      },
+      {
+        "name": "Pancerna pięść wojownika Shaiharrud",
+        "lvl": 280,
+        "img": "https://micc.garmory-cdn.cloud/obrazki/itemy/rek/rekawice581.gif",
+        "price": "___"
+      },
+      {
+        "name": "Uścisk wirujących piasków",
+        "lvl": 280,
+        "img": "https://micc.garmory-cdn.cloud/obrazki/itemy/rek/rekawice580.gif",
+        "price": "___"
+      }
+    ]
+  },
+  {
+    "name": "Vaenra Charkhaam (elita II 280lvl)",
+    "img": "https://micc.garmory-cdn.cloud/obrazki/npc/e2/bar_smoczyca.gif",
+    "items": [
+      {
+        "name": "Smocze Kroki",
+        "lvl": 280,
+        "img": "https://micc.garmory-cdn.cloud/obrazki/itemy/but/buty731.gif",
+        "price": "___"
+      },
+      {
+        "name": "Kryształ w obrączce Vaenry",
+        "lvl": 280,
+        "img": "https://micc.garmory-cdn.cloud/obrazki/itemy/pie/pierscien197.gif",
+        "price": "___"
+      },
+      {
+        "name": "Klejnot świątynny",
+        "lvl": 280,
+        "img": "https://micc.garmory-cdn.cloud/obrazki/itemy/nas/naszyjnik447.gif",
+        "price": "___"
+      }
+    ]
+  },
+  {
+    "name": "Chaegd Agnrakh (elita II 280lvl)",
+    "img": "https://micc.garmory-cdn.cloud/obrazki/npc/e2/bar_smokoszef.gif",
+    "items": [
+      {
+        "name": "Kryształ w obrączce Agnrakha",
+        "lvl": 280,
+        "img": "https://micc.garmory-cdn.cloud/obrazki/itemy/pie/pierscien201.gif",
+        "price": "___"
+      },
+      {
+        "name": "Klejnot królewski",
+        "lvl": 280,
+        "img": "https://micc.garmory-cdn.cloud/obrazki/itemy/nas/naszyj446.gif",
+        "price": "___"
+      },
+      {
+        "name": "Obroża Przeistoczenia",
+        "lvl": 280,
+        "img": "https://micc.garmory-cdn.cloud/obrazki/itemy/nas/naszyjnik736.gif",
+        "price": "___"
+      }
+    ]
+  },
+  {
+    "name": "Nymphemonia (elita II 287lvl)",
+    "img": "https://micc.garmory-cdn.cloud/obrazki/npc/e2/nymphemonia.gif",
+    "items": [
+      {
+        "name": "Szpony leśnego runa",
+        "lvl": 287,
+        "img": "https://micc.garmory-cdn.cloud/obrazki/itemy/rek/rekawice712.gif",
+        "price": "___"
+      },
+      {
+        "name": "Palce wymuszonej symbiozy",
+        "lvl": 287,
+        "img": "https://micc.garmory-cdn.cloud/obrazki/itemy/rek/rekawice711.gif",
+        "price": "___"
+      },
+      {
+        "name": "Skarb Królestwa Driad",
+        "lvl": 287,
+        "img": "https://micc.garmory-cdn.cloud/obrazki/itemy/nas/naszyjnik700.gif",
+        "price": "___"
+      }
+    ]
+  },
+  {
+    "name": "Artenius (elita II 300lvl)",
+    "img": "https://micc.garmory-cdn.cloud/obrazki/npc/e2/wl-mrozu03.gif",
+    "items": [
+      {
+        "name": "Kryształ lodowatego powiewu",
+        "lvl": null,
+        "img": "https://micc.garmory-cdn.cloud/obrazki/itemy/que/wladcy_krysz03.gif",
+        "price": "___"
+      }
+    ]
+  },
+  {
+    "name": "Furion (elita II 300lvl)",
+    "img": "https://micc.garmory-cdn.cloud/obrazki/npc/e2/wl-mrozu02.gif",
+    "items": [
+      {
+        "name": "Kryształ wiecznej zmarzliny",
+        "lvl": null,
+        "img": "https://micc.garmory-cdn.cloud/obrazki/itemy/que/wladcy_krysz01.gif",
+        "price": "___"
+      }
+    ]
+  },
+  {
+    "name": "Zorin (elita II 300lvl)",
+    "img": "https://micc.garmory-cdn.cloud/obrazki/npc/e2/wl-mrozu01.gif",
+    "items": [
+      {
+        "name": "Kryształ przeszywającego chłodu",
+        "lvl": null,
+        "img": "https://micc.garmory-cdn.cloud/obrazki/itemy/que/wladcy_krysz02.gif",
+        "price": "___"
+      }
+    ]
   }
 ]
