@@ -94,5 +94,65 @@
         "price": "1g"
       }
     ]
+  },
+  {
+    "name": "Tepeyollotl (heros 260lvl)",
+    "img": "https://micc.garmory-cdn.cloud/obrazki/npc/her/tep_35ecb966.gif",
+    "items": [
+      {
+        "name": "Łeb Tepeyollotla",
+        "lvl": 260,
+        "img": "https://micc.garmory-cdn.cloud/obrazki/itemy/hel/helm511.gif",
+        "price": "___"
+      },
+      {
+        "name": "Sierpowate oko bogów",
+        "lvl": 260,
+        "img": "https://micc.garmory-cdn.cloud/obrazki/itemy/pie/pierscien579.gif",
+        "price": "___"
+      },
+      {
+        "name": "Nieśmiertelność czasu",
+        "lvl": 260,
+        "img": "https://micc.garmory-cdn.cloud/obrazki/itemy/nas/naszyjnik564.gif",
+        "price": "___"
+      }
+    ]
+  },
+  {
+    "name": "Negthotep Czarny Kapłan (heros 271lvl)",
+    "img": "https://micc.garmory-cdn.cloud/obrazki/npc/her/negthotep.gif",
+    "items": [
+      {
+        "name": "Dłonie Czarnego Kapłana",
+        "lvl": 268,
+        "img": "https://micc.garmory-cdn.cloud/obrazki/itemy/rek/rekawice520.gif",
+        "price": "___"
+      },
+      {
+        "name": "Złoty chwyt generała",
+        "lvl": 268,
+        "img": "https://micc.garmory-cdn.cloud/obrazki/itemy/rek/rekawice519.gif",
+        "price": "___"
+      },
+      {
+        "name": "Palce demonicznego kompozytora",
+        "lvl": 268,
+        "img": "https://micc.garmory-cdn.cloud/obrazki/itemy/rek/rekawice521.gif",
+        "price": "___"
+      }
+    ]
+  },
+  {
+    "name": "Młody Smok (heros 282lvl)",
+    "img": "https://micc.garmory-cdn.cloud/obrazki/npc/her/smokbarb.gif",
+    "items": [
+      {
+        "name": "Talizman smoczego boga",
+        "lvl": 282,
+        "img": "https://micc.garmory-cdn.cloud/obrazki/itemy/tal/tal32.gif",
+        "price": "___"
+      }
+    ]
   }
 ]
