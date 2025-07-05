@@ -3,7 +3,7 @@
   <head>
     <meta charset="UTF-8" />
     <title>Cennik Przedmiotów Legendarnych</title>
-    <link rel="stylesheet" href="style.css" />
+    <link rel="stylesheet" href="style.css?v=1" />
     <style>
       .filter-buttons {
         text-align: center;
@@ -36,6 +36,7 @@
     <div class="legend-container" id="content">Wczytywanie...</div>
 
     <script>
+      const version = Date.now();
       let fullData = [];
 
       function renderBosses(data) {
@@ -65,7 +66,9 @@
                       <div class="item-lvl">Poziom: ${item.lvl}</div>
                     </div>
                   </div>
-                  <span class="price-tag">${item.price}</span>
+                  <span class="price-tag">${
+                    item.price === "___" ? "?" : item.price
+                  }</span>
                 </div>
               `
                 )
@@ -77,7 +80,7 @@
       }
 
       function loadData(file) {
-        fetch(file)
+        fetch(file + "?v=" + version)
           .then((response) => response.json())
           .then((data) => {
             fullData = data;
@@ -87,8 +90,8 @@
 
       function loadAll() {
         Promise.all([
-          fetch("data1.json").then((res) => res.json()),
-          fetch("data2.json").then((res) => res.json()),
+          fetch("data1.json?v=" + version).then((res) => res.json()),
+          fetch("data2.json?v=" + version).then((res) => res.json()),
         ]).then(([elity, herosi]) => {
           fullData = [...elity, ...herosi];
           renderBosses(fullData);
