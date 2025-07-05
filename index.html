@@ -28,9 +28,9 @@
     <h1>CENNIK PRZEDMIOTÓW <span>LEGENDARNYCH</span></h1>
 
     <div class="filter-buttons">
-      <button onclick="filterBosses('elita II')">Elity II</button>
-      <button onclick="filterBosses('heros')">Herosi</button>
-      <button onclick="filterBosses('all')">Wszyscy</button>
+      <button onclick="loadData('data1.json')">Elity II</button>
+      <button onclick="loadData('data2.json')">Herosi</button>
+      <button onclick="loadAll()">Wszyscy</button>
     </div>
 
     <div class="legend-container" id="content">Wczytywanie...</div>
@@ -76,23 +76,27 @@
         });
       }
 
-      function filterBosses(type) {
-        if (type === "all") {
-          renderBosses(fullData);
-        } else {
-          const filtered = fullData.filter((boss) =>
-            boss.name.toLowerCase().includes(type.toLowerCase())
-          );
-          renderBosses(filtered);
-        }
+      function loadData(file) {
+        fetch(file)
+          .then((response) => response.json())
+          .then((data) => {
+            fullData = data;
+            renderBosses(fullData);
+          });
       }
 
-      fetch("data.json")
-        .then((response) => response.json())
-        .then((data) => {
-          fullData = data;
+      function loadAll() {
+        Promise.all([
+          fetch("data1.json").then((res) => res.json()),
+          fetch("data2.json").then((res) => res.json()),
+        ]).then(([elity, herosi]) => {
+          fullData = [...elity, ...herosi];
           renderBosses(fullData);
         });
+      }
+
+      // Domyślnie ładuj elity II
+      loadData("data1.json");
     </script>
   </body>
 </html>
