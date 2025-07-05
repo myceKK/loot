@@ -40,7 +40,6 @@
     `;
     goblinButton.appendChild(goblinImg);
 
-    // Funkcje otwierania / zamykania okna
     const closeWindow = () => {
       const w = document.getElementById("cennik-legend-okno");
       if (w) {
@@ -62,7 +61,6 @@
     goblinButton.addEventListener("click", toggleWindow);
     gameLayer.appendChild(goblinButton);
 
-    // Budowa samego okna
     function openWindow() {
       const win = document.createElement("div");
       win.id = "cennik-legend-okno";
@@ -81,13 +79,12 @@
         z-index: 999;
       `;
 
-      // przycisk zamykania
       const x = document.createElement("div");
       x.innerText = "✕";
       x.style.cssText = `
         position: absolute;
         top: 8px;
-        right: 32px;    
+        right: 32px;
         cursor: pointer;
         color: #fff;
         font-size: 20px;
@@ -96,7 +93,6 @@
       x.onclick = closeWindow;
       win.appendChild(x);
 
-      // wrapper do scrolla pionowego
       const wrap = document.createElement("div");
       wrap.style.cssText = `
         flex: 1;
@@ -104,9 +100,9 @@
         overflow-x: hidden;
         width: 100%; height: 100%;
       `;
-      // iframe z zoomem
+
       const iframe = document.createElement("iframe");
-      iframe.src = "https://mycekk.github.io/loot/";
+      iframe.src = "https://mycekk.github.io/loot/?v=" + Date.now();
       iframe.style.cssText = `
         width: 100%; height: 100%;
         border: none;
