@@ -148,9 +148,21 @@
     "img": "https://micc.garmory-cdn.cloud/obrazki/npc/her/smokbarb.gif",
     "items": [
       {
-        "name": "Talizman smoczego boga",
+        "name": "Więzienie gadzich płomieni",
         "lvl": 282,
-        "img": "https://micc.garmory-cdn.cloud/obrazki/itemy/tal/tal32.gif",
+        "img": "https://micc.garmory-cdn.cloud/obrazki/itemy/hel/helm657.gif",
+        "price": "___"
+      },
+      {
+        "name": "Maska gniewu Shaiharrud",
+        "lvl": 282,
+        "img": "https://micc.garmory-cdn.cloud/obrazki/itemy/hel/helm658.gif",
+        "price": "___"
+      },
+      {
+        "name": "Skupisko smoczej magii",
+        "lvl": 282,
+        "img": "https://micc.garmory-cdn.cloud/obrazki/itemy/hel/helm659.gif",
         "price": "___"
       }
     ]
