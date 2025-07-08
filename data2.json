@@ -103,19 +103,19 @@
         "name": "Łeb Tepeyollotla",
         "lvl": 260,
         "img": "https://micc.garmory-cdn.cloud/obrazki/itemy/hel/helm511.gif",
-        "price": "___"
+        "price": "1.3g"
       },
       {
         "name": "Sierpowate oko bogów",
         "lvl": 260,
         "img": "https://micc.garmory-cdn.cloud/obrazki/itemy/pie/pierscien579.gif",
-        "price": "___"
+        "price": "1.3g"
       },
       {
         "name": "Nieśmiertelność czasu",
         "lvl": 260,
         "img": "https://micc.garmory-cdn.cloud/obrazki/itemy/nas/naszyjnik564.gif",
-        "price": "___"
+        "price": "1.6g"
       }
     ]
   },
@@ -127,19 +127,19 @@
         "name": "Dłonie Czarnego Kapłana",
         "lvl": 268,
         "img": "https://micc.garmory-cdn.cloud/obrazki/itemy/rek/rekawice520.gif",
-        "price": "___"
+        "price": "1.4g"
       },
       {
         "name": "Złoty chwyt generała",
         "lvl": 268,
         "img": "https://micc.garmory-cdn.cloud/obrazki/itemy/rek/rekawice519.gif",
-        "price": "___"
+        "price": "1.4g"
       },
       {
         "name": "Palce demonicznego kompozytora",
         "lvl": 268,
         "img": "https://micc.garmory-cdn.cloud/obrazki/itemy/rek/rekawice521.gif",
-        "price": "___"
+        "price": "1.4g"
       }
     ]
   },
@@ -151,19 +151,19 @@
         "name": "Więzienie gadzich płomieni",
         "lvl": 282,
         "img": "https://micc.garmory-cdn.cloud/obrazki/itemy/hel/helm657.gif",
-        "price": "___"
+        "price": "1.6g"
       },
       {
         "name": "Maska gniewu Shaiharrud",
         "lvl": 282,
         "img": "https://micc.garmory-cdn.cloud/obrazki/itemy/hel/helm658.gif",
-        "price": "___"
+        "price": "1.6g"
       },
       {
         "name": "Skupisko smoczej magii",
         "lvl": 282,
         "img": "https://micc.garmory-cdn.cloud/obrazki/itemy/hel/helm659.gif",
-        "price": "___"
+        "price": "1.6g"
       }
     ]
   }

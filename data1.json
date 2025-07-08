@@ -319,19 +319,19 @@
         "name": "Pióropusz ostatniego z Imperatorów",
         "lvl": 245,
         "img": "https://micc.garmory-cdn.cloud/obrazki/itemy/hel/helm377.gif",
-        "price": "___"
+        "price": "1.1g"
       },
       {
         "name": "Gniazdo przenikliwości",
         "lvl": 246,
         "img": "https://micc.garmory-cdn.cloud/obrazki/itemy/pie/pierscien455.gif",
-        "price": "___"
+        "price": "1.3g"
       },
       {
         "name": "Naszyjnik złotych płatków",
         "lvl": 250,
         "img": "https://micc.garmory-cdn.cloud/obrazki/itemy/nas/naszyj602.gif",
-        "price": "___"
+        "price": "1.4g"
       }
     ]
   },
@@ -343,19 +343,19 @@
         "name": "Czarci chwyt",
         "lvl": 254,
         "img": "https://micc.garmory-cdn.cloud/obrazki/itemy/rek/rekawice417.gif",
-        "price": "___"
+        "price": "1g"
       },
       {
         "name": "Łapska przedziwnych anomalii",
         "lvl": 254,
         "img": "https://micc.garmory-cdn.cloud/obrazki/itemy/rek/rekawice416.gif",
-        "price": "___"
+        "price": "1g"
       },
       {
         "name": "Klucz do Księgi Cieni",
         "lvl": 246,
         "img": "https://micc.garmory-cdn.cloud/obrazki/itemy/pie/pierscien456.gif",
-        "price": "___"
+        "price": "1g"
       }
     ]
   },
@@ -367,19 +367,19 @@
         "name": "Płomienna maska kapłana",
         "lvl": 256,
         "img": "https://micc.garmory-cdn.cloud/obrazki/itemy/hel/helm419.gif",
-        "price": "___"
+        "price": "1.2g"
       },
       {
         "name": "Pozłacana podobizna bóstwa",
         "lvl": 256,
         "img": "https://micc.garmory-cdn.cloud/obrazki/itemy/hel/helm420.gif",
-        "price": "___"
+        "price": "1.2g"
       },
       {
         "name": "Czaszka Huitzilopochtli",
         "lvl": 256,
         "img": "https://micc.garmory-cdn.cloud/obrazki/itemy/hel/helm418.gif",
-        "price": "___"
+        "price": "1.2g"
       }
     ]
   },
@@ -391,19 +391,19 @@
         "name": "Złotorożny czerep",
         "lvl": 260,
         "img": "https://micc.garmory-cdn.cloud/obrazki/itemy/hel/helm536.gif",
-        "price": "___"
+        "price": "1.1g"
       },
       {
         "name": "Gorejące oko poświęcenia",
         "lvl": 246,
         "img": "https://micc.garmory-cdn.cloud/obrazki/itemy/pie/pierscien457.gif",
-        "price": "___"
+        "price": "1.1g"
       },
       {
         "name": "Wisior czerwonego słońca",
         "lvl": 252,
         "img": "https://micc.garmory-cdn.cloud/obrazki/itemy/nas/naszyj603.gif",
-        "price": "___"
+        "price": "1.5g"
       }
     ]
   },
@@ -415,19 +415,19 @@
         "name": "Skarb antycznych",
         "lvl": 261,
         "img": "https://micc.garmory-cdn.cloud/obrazki/itemy/but/buty516.gif",
-        "price": "___"
+        "price": "1.1g"
       },
       {
         "name": "Bojowe obuwie Chopesza",
         "lvl": 261,
         "img": "https://micc.garmory-cdn.cloud/obrazki/itemy/but/buty515.gif",
-        "price": "___"
+        "price": "1.1g"
       },
       {
         "name": "Lazur wód Wernoradu",
         "lvl": 261,
         "img": "https://micc.garmory-cdn.cloud/obrazki/itemy/but/buty514.gif",
-        "price": "___"
+        "price": "1.1g"
       }
     ]
   },
@@ -439,19 +439,19 @@
         "name": "Magia mrocznego Seta",
         "lvl": 274,
         "img": "https://micc.garmory-cdn.cloud/obrazki/itemy/but/set_but3.gif",
-        "price": "___"
+        "price": "1.2g"
       },
       {
         "name": "Niezłomność bezlitosnego Seta",
         "lvl": 274,
         "img": "https://micc.garmory-cdn.cloud/obrazki/itemy/but/set_but1.gif",
-        "price": "___"
+        "price": "1.2g"
       },
       {
         "name": "Furia potężnego Seta",
         "lvl": 274,
         "img": "https://micc.garmory-cdn.cloud/obrazki/itemy/but/set_but2.gif",
-        "price": "___"
+        "price": "1.2g"
       }
     ]
   },
@@ -463,19 +463,19 @@
         "name": "Szpony gadzich jeźdźców",
         "lvl": 280,
         "img": "https://micc.garmory-cdn.cloud/obrazki/itemy/rek/rekawice579.gif",
-        "price": "___"
+        "price": "1.2g"
       },
       {
         "name": "Pancerna pięść wojownika Shaiharrud",
         "lvl": 280,
         "img": "https://micc.garmory-cdn.cloud/obrazki/itemy/rek/rekawice581.gif",
-        "price": "___"
+        "price": "1.2g"
       },
       {
         "name": "Uścisk wirujących piasków",
         "lvl": 280,
         "img": "https://micc.garmory-cdn.cloud/obrazki/itemy/rek/rekawice580.gif",
-        "price": "___"
+        "price": "1.2g"
       }
     ]
   },
@@ -487,19 +487,19 @@
         "name": "Smocze Kroki",
         "lvl": 280,
         "img": "https://micc.garmory-cdn.cloud/obrazki/itemy/but/buty731.gif",
-        "price": "___"
+        "price": "1.6g"
       },
       {
         "name": "Kryształ w obrączce Vaenry",
         "lvl": 280,
         "img": "https://micc.garmory-cdn.cloud/obrazki/itemy/pie/pierscien197.gif",
-        "price": "___"
+        "price": "1.3g"
       },
       {
         "name": "Klejnot świątynny",
         "lvl": 280,
         "img": "https://micc.garmory-cdn.cloud/obrazki/itemy/nas/naszyjnik447.gif",
-        "price": "___"
+        "price": "1.3g"
       }
     ]
   },
@@ -511,19 +511,19 @@
         "name": "Kryształ w obrączce Agnrakha",
         "lvl": 280,
         "img": "https://micc.garmory-cdn.cloud/obrazki/itemy/pie/pierscien201.gif",
-        "price": "___"
+        "price": "1.3g"
       },
       {
         "name": "Klejnot królewski",
         "lvl": 280,
         "img": "https://micc.garmory-cdn.cloud/obrazki/itemy/nas/naszyj446.gif",
-        "price": "___"
+        "price": "1.3g"
       },
       {
         "name": "Obroża Przeistoczenia",
         "lvl": 280,
         "img": "https://micc.garmory-cdn.cloud/obrazki/itemy/nas/naszyjnik736.gif",
-        "price": "___"
+        "price": "1.3g"
       }
     ]
   },
@@ -535,19 +535,19 @@
         "name": "Szpony leśnego runa",
         "lvl": 287,
         "img": "https://micc.garmory-cdn.cloud/obrazki/itemy/rek/rekawice712.gif",
-        "price": "___"
+        "price": "1.5g"
       },
       {
         "name": "Palce wymuszonej symbiozy",
         "lvl": 287,
         "img": "https://micc.garmory-cdn.cloud/obrazki/itemy/rek/rekawice711.gif",
-        "price": "___"
+        "price": "1.5g"
       },
       {
         "name": "Skarb Królestwa Driad",
         "lvl": 287,
         "img": "https://micc.garmory-cdn.cloud/obrazki/itemy/nas/naszyjnik700.gif",
-        "price": "___"
+        "price": "1.5"
       }
     ]
   },
@@ -559,7 +559,7 @@
         "name": "Kryształ lodowatego powiewu",
         "lvl": null,
         "img": "https://micc.garmory-cdn.cloud/obrazki/itemy/que/wladcy_krysz03.gif",
-        "price": "___"
+        "price": "3g"
       }
     ]
   },
@@ -571,7 +571,7 @@
         "name": "Kryształ wiecznej zmarzliny",
         "lvl": null,
         "img": "https://micc.garmory-cdn.cloud/obrazki/itemy/que/wladcy_krysz01.gif",
-        "price": "___"
+        "price": "3g"
       }
     ]
   },
@@ -583,7 +583,7 @@
         "name": "Kryształ przeszywającego chłodu",
         "lvl": null,
         "img": "https://micc.garmory-cdn.cloud/obrazki/itemy/que/wladcy_krysz02.gif",
-        "price": "___"
+        "price": "3g"
       }
     ]
   }
