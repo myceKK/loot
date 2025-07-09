@@ -3,42 +3,28 @@
   <head>
     <meta charset="UTF-8" />
     <title>Cennik Przedmiotów Legendarnych</title>
-    <link rel="stylesheet" href="style.css?v=1" />
-    <style>
-      .filter-buttons {
-        text-align: center;
-        margin-bottom: 20px;
-      }
-      .filter-buttons button {
-        margin: 0 10px;
-        padding: 8px 16px;
-        font-size: 14px;
-        cursor: pointer;
-        background-color: #222;
-        border: 1px solid #444;
-        color: #fff;
-        border-radius: 6px;
-      }
-      .filter-buttons button:hover {
-        background-color: #444;
-      }
-    </style>
+    <link rel="stylesheet" href="style.css" />
   </head>
   <body>
     <h1>CENNIK PRZEDMIOTÓW <span>LEGENDARNYCH</span></h1>
 
-    <div class="filter-buttons">
-      <button onclick="loadData('data1.json')">Elity II</button>
-      <button onclick="loadData('data2.json')">Herosi</button>
-      <button onclick="loadAll()">Wszyscy</button>
+    <div class="filters-container">
+      <input
+        type="text"
+        id="searchInput"
+        placeholder="Szukaj po nazwie bossa lub przedmiotu..."
+      />
+
+      <div style="margin-bottom: 10px">
+        <button class="filter-btn" data-filter="all">Wszyscy</button>
+        <button class="filter-btn" data-filter="e2">E2</button>
+        <button class="filter-btn" data-filter="heros">Herosy</button>
+      </div>
     </div>
 
     <div class="legend-container" id="content">Wczytywanie...</div>
 
     <script>
-      const version = Date.now();
-      let fullData = [];
-
       function renderBosses(data) {
         const container = document.getElementById("content");
         container.innerHTML = "";
@@ -50,9 +36,9 @@
           block.innerHTML = `
             <div class="boss-header">
               <h2>${boss.name}</h2>
-              <div class="boss-img">
-                <img src="${boss.img}" alt="${boss.name}">
-              </div>
+              <div class="boss-img"><img src="${boss.img}" alt="${
+            boss.name
+          }" /></div>
             </div>
             <div class="legendary-loot">
               ${boss.items
@@ -60,15 +46,13 @@
                   (item) => `
                 <div class="item">
                   <div class="item-left">
-                    <img src="${item.img}" alt="${item.name}">
+                    <img src="${item.img}" alt="${item.name}" />
                     <div>
                       <div class="item-name">${item.name}</div>
                       <div class="item-lvl">Poziom: ${item.lvl}</div>
                     </div>
                   </div>
-                  <span class="price-tag">${
-                    item.price === "___" ? "?" : item.price
-                  }</span>
+                  <div class="price-tag">${item.price}</div>
                 </div>
               `
                 )
@@ -79,27 +63,46 @@
         });
       }
 
-      function loadData(file) {
-        fetch(file + "?v=" + version)
-          .then((response) => response.json())
-          .then((data) => {
-            fullData = data;
-            renderBosses(fullData);
+      Promise.all([
+        fetch("data1.json").then((res) => res.json()),
+        fetch("data2.json").then((res) => res.json()),
+      ]).then(([data1, data2]) => {
+        const combined = data1.concat(data2);
+        renderBosses(combined);
+
+        document
+          .getElementById("searchInput")
+          .addEventListener("input", function () {
+            const query = this.value.toLowerCase();
+            const filtered = combined.filter((boss) => {
+              const bossName = boss.name.toLowerCase();
+              const itemNames = boss.items
+                .map((i) => i.name.toLowerCase())
+                .join(" ");
+              return bossName.includes(query) || itemNames.includes(query);
+            });
+            renderBosses(filtered);
           });
-      }
 
-      function loadAll() {
-        Promise.all([
-          fetch("data1.json?v=" + version).then((res) => res.json()),
-          fetch("data2.json?v=" + version).then((res) => res.json()),
-        ]).then(([elity, herosi]) => {
-          fullData = [...elity, ...herosi];
-          renderBosses(fullData);
+        document.querySelectorAll(".filter-btn").forEach((btn) => {
+          btn.addEventListener("click", function () {
+            const type = this.getAttribute("data-filter");
+            let filtered = combined;
+
+            if (type === "e2") {
+              filtered = combined.filter((boss) =>
+                boss.name.toLowerCase().includes("(e2")
+              );
+            } else if (type === "heros") {
+              filtered = combined.filter((boss) =>
+                boss.name.toLowerCase().includes("(heros")
+              );
+            }
+
+            renderBosses(filtered);
+          });
         });
-      }
-
-      // Domyślnie ładuj elity II
-      loadData("data1.json");
+      });
     </script>
   </body>
 </html>
