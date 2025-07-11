@@ -3,7 +3,13 @@
   <head>
     <meta charset="UTF-8" />
     <title>Cennik Przedmiotów Legendarnych</title>
-    <link rel="stylesheet" href="style.css" />
+    <script>
+      // Zawsze aktualny CSS (z timestampem)
+      const style = document.createElement("link");
+      style.rel = "stylesheet";
+      style.href = "style.css?v=" + new Date().getTime();
+      document.head.appendChild(style);
+    </script>
   </head>
   <body>
     <h1>CENNIK PRZEDMIOTÓW <span>LEGENDARNYCH</span></h1>

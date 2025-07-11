@@ -1,138 +1,127 @@
-@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap');
-
 body {
+  font-family: "Segoe UI", sans-serif;
+  background-color: #0f0f0f;
+  color: #fff;
   margin: 0;
   padding: 0;
-  font-family: 'Poppins', sans-serif;
-  background: linear-gradient(135deg, #0a0a0a, #1a1a1a);
-  color: #fff;
+  text-align: center;
 }
 
 h1 {
-  text-align: center;
-  font-size: 2.5rem;
+  margin: 30px 0 10px;
+  font-size: 32px;
+  font-weight: 900;
   color: #fff;
-  margin: 20px 0 10px;
 }
-
 h1 span {
   color: #ffa500;
 }
 
-input[type="text"] {
-  display: block;
-  margin: 0 auto 20px;
-  padding: 12px 20px;
-  border: none;
-  border-radius: 8px;
-  font-size: 1rem;
-  background-color: #222;
-  color: #fff;
-  width: 90%;
-  max-width: 400px;
-  box-shadow: 0 0 8px rgba(255, 255, 255, 0.05);
+.filters-container {
+  margin-bottom: 20px;
 }
 
-.filter-buttons {
-  display: flex;
-  justify-content: center;
-  gap: 10px;
-  margin-bottom: 20px;
-  flex-wrap: wrap;
+#searchInput {
+  padding: 10px 15px;
+  border-radius: 8px;
+  border: none;
+  width: 300px;
+  max-width: 90%;
+  margin-bottom: 15px;
+  font-size: 14px;
+  background-color: #1a1a1a;
+  color: #fff;
+  outline: none;
+  box-shadow: 0 0 5px #ffa50066;
 }
 
 .filter-btn {
-  padding: 10px 18px;
-  background-color: #111;
-  border: 1px solid #555;
-  border-radius: 8px;
-  cursor: pointer;
-  font-weight: 600;
+  margin: 0 6px;
+  padding: 8px 18px;
+  background-color: #141414;
   color: #fff;
-  transition: all 0.3s ease;
+  border: 1px solid #333;
+  border-radius: 6px;
+  font-weight: bold;
+  font-size: 14px;
+  cursor: pointer;
+  transition: 0.3s;
 }
-
 .filter-btn:hover {
-  transform: scale(1.05);
-  background-color: #1d1d1d;
-  box-shadow: 0 0 8px rgba(255, 255, 255, 0.1);
+  background-color: #222;
+  border-color: #ffa500;
 }
 
 .legend-container {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
-  gap: 20px;
-  padding: 10px 20px 40px;
+  gap: 25px;
+  padding: 20px;
 }
 
 .boss-block {
-  background: rgba(17, 17, 17, 0.6);
-  backdrop-filter: blur(6px);
-  border-radius: 16px;
-  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.5);
-  padding: 20px;
-  width: 280px;
-  transition: transform 0.3s ease;
+  background-color: #1a1a1a;
+  border-radius: 12px;
+  padding: 15px 20px;
+  width: 270px;
+  max-width: 95%;
+  box-shadow: 0 4px 10px rgba(255, 165, 0, 0.15);
 }
 
-.boss-block:hover {
-  transform: translateY(-5px);
+.boss-header img {
+  max-height: 60px;
+  margin: 10px 0;
 }
 
-.boss-block h2 {
-  text-align: center;
-  font-size: 1.3rem;
-  margin-bottom: 15px;
+.boss-header h2 {
+  font-size: 18px;
+  margin: 0;
 }
 
-.boss-block img {
-  display: block;
-  margin: 0 auto 10px;
-  max-height: 80px;
+.legendary-loot {
+  margin-top: 10px;
 }
 
 .item {
-  background: rgba(0, 0, 0, 0.3);
-  margin-bottom: 10px;
-  padding: 10px;
-  border-radius: 10px;
+  background-color: #121212;
+  border-radius: 8px;
+  padding: 8px 10px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 8px;
+  font-size: 13px;
+  color: #ddd;
+}
+
+.item-left {
   display: flex;
   align-items: center;
   gap: 10px;
-  justify-content: space-between;
-  transition: background 0.2s ease;
+  text-align: left;
 }
 
-.item:hover {
-  background: rgba(0, 0, 0, 0.5);
+.item-left img {
+  width: 28px;
+  height: 28px;
 }
 
-.item img {
-  height: 32px;
-  width: 32px;
-  flex-shrink: 0;
-}
-
-.item .info {
-  flex-grow: 1;
-  font-size: 0.9rem;
-}
-
-.item .price {
+.item-name {
   font-weight: bold;
-  font-size: 0.95rem;
-  background-color: #222;
-  padding: 4px 8px;
-  border-radius: 6px;
+  color: #ffa500;
 }
 
-@media (max-width: 600px) {
-  .boss-block {
-    width: 90%;
-  }
+.item-lvl {
+  font-size: 11px;
+  color: #aaa;
+}
 
-  input[type="text"] {
-    width: 90%;
-  }
+.price-tag {
+  background-color: #ffa500;
+  padding: 3px 8px;
+  border-radius: 4px;
+  color: #000;
+  font-weight: bold;
+  font-size: 13px;
 }
