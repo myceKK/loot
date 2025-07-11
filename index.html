@@ -33,7 +33,7 @@
           const block = document.createElement("div");
           block.className = "boss-block";
 
-          block.innerHTML = 
+          block.innerHTML = `
             <div class="boss-header">
               <h2>${boss.name}</h2>
               <div class="boss-img"><img src="${boss.img}" alt="${
@@ -43,7 +43,7 @@
             <div class="legendary-loot">
               ${boss.items
                 .map(
-                  (item) => 
+                  (item) => `
                 <div class="item">
                   <div class="item-left">
                     <img src="${item.img}" alt="${item.name}" />
@@ -54,11 +54,11 @@
                   </div>
                   <div class="price-tag">${item.price}</div>
                 </div>
-              
+              `
                 )
                 .join("")}
             </div>
-          ;
+          `;
           container.appendChild(block);
         });
       }
