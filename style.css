@@ -1,61 +1,39 @@
-@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap");
-
 body {
-  margin: 0;
-  padding: 0;
-  font-family: "Poppins", sans-serif;
-  background: linear-gradient(135deg, #0a0a0a, #1a1a1a);
-  color: #fff;
+  background: #0a0a0a;
+  color: white;
+  font-family: sans-serif;
+  padding: 20px;
+  text-align: center;
+
+  /* Styl scrollbara - Firefox */
+  scrollbar-width: thin;
+  scrollbar-color: #555 #0a0a0a;
+}
+
+/* Styl scrollbara - Chrome, Edge, Opera */
+body::-webkit-scrollbar {
+  width: 10px;
+}
+
+body::-webkit-scrollbar-track {
+  background: #0a0a0a;
+}
+
+body::-webkit-scrollbar-thumb {
+  background-color: #555;
+  border-radius: 5px;
+  border: 2px solid #0a0a0a;
 }
 
 h1 {
-  text-align: center;
-  font-size: 2.5rem;
+  font-size: 36px;
+  margin-bottom: 30px;
   color: #fff;
-  margin: 20px 0 10px;
 }
 
 h1 span {
-  color: #ffa500;
-}
-
-input[type="text"] {
-  display: block;
-  margin: 0 auto 20px;
-  padding: 12px 20px;
-  border: none;
-  border-radius: 8px;
-  font-size: 1rem;
-  background-color: #222;
-  color: #fff;
-  width: 90%;
-  max-width: 400px;
-  box-shadow: 0 0 8px rgba(255, 255, 255, 0.05);
-}
-
-.filter-buttons {
-  display: flex;
-  justify-content: center;
-  gap: 10px;
-  margin-bottom: 20px;
-  flex-wrap: wrap;
-}
-
-.filter-btn {
-  padding: 10px 18px;
-  background-color: #111;
-  border: 1px solid #555;
-  border-radius: 8px;
-  cursor: pointer;
-  font-weight: 600;
-  color: #fff;
-  transition: all 0.3s ease;
-}
-
-.filter-btn:hover {
-  transform: scale(1.05);
-  background-color: #1d1d1d;
-  box-shadow: 0 0 8px rgba(255, 255, 255, 0.1);
+  color: orange;
+  text-shadow: 1px 1px 0 black;
 }
 
 .legend-container {
@@ -63,76 +41,107 @@ input[type="text"] {
   flex-wrap: wrap;
   justify-content: center;
   gap: 20px;
-  padding: 10px 20px 40px;
 }
 
 .boss-block {
-  background: rgba(17, 17, 17, 0.6);
-  backdrop-filter: blur(6px);
-  border-radius: 16px;
-  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.5);
-  padding: 20px;
-  width: 280px;
-  transition: transform 0.3s ease;
+  background: #111;
+  padding: 10px;
+  border-radius: 10px;
+  border: 1px solid #333;
+  width: 380px;
 }
 
-.boss-block:hover {
-  transform: translateY(-5px);
+.boss-header {
+  min-height: 160px;
 }
 
-.boss-block h2 {
+.boss-header h2 {
+  color: white;
   text-align: center;
-  font-size: 1.3rem;
-  margin-bottom: 15px;
 }
 
-.boss-block img {
-  display: block;
-  margin: 0 auto 10px;
-  max-height: 80px;
+.boss-img {
+  text-align: center;
+  margin: 10px 0;
+}
+
+.boss-img img {
+  image-rendering: pixelated;
+  width: 80px;
+  height: 80px;
+  object-fit: contain;
+}
+
+.legendary-loot {
+  margin-top: 10px;
 }
 
 .item {
-  background: rgba(0, 0, 0, 0.3);
-  margin-bottom: 10px;
+  background: #1a1a1a;
+  border: 1px solid #333;
   padding: 10px;
-  border-radius: 10px;
+  border-radius: 8px;
+  margin-bottom: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.item-left {
   display: flex;
   align-items: center;
   gap: 10px;
-  justify-content: space-between;
-  transition: background 0.2s ease;
 }
 
-.item:hover {
-  background: rgba(0, 0, 0, 0.5);
+.item-left img {
+  width: 48px;
+  height: 48px;
+  image-rendering: pixelated;
 }
 
-.item img {
-  height: 32px;
-  width: 32px;
-  flex-shrink: 0;
-}
-
-.item .info {
-  flex-grow: 1;
-  font-size: 0.9rem;
-}
-
-.item .price {
+.item-name {
+  color: orange;
   font-weight: bold;
-  font-size: 0.95rem;
-  background-color: #222;
-  padding: 4px 8px;
-  border-radius: 6px;
 }
 
-@media (max-width: 600px) {
-  .boss-block {
-    width: 90%;
-  }
+.item-lvl {
+  font-size: 13px;
+  color: #aaa;
+}
 
-  input[type="text"] {
-    width: 90%;
-  }
+.price-tag {
+  background: #000;
+  border: 1px solid #555;
+  padding: 3px 6px;
+  border-radius: 5px;
+  color: #fff;
+}
+.filter-btn {
+  margin: 4px;
+  padding: 6px 12px;
+  background: #222;
+  color: white;
+  border: 1px solid #555;
+  border-radius: 4px;
+  cursor: pointer;
+}
+.filter-btn:hover {
+  background: #333;
+}
+
+.filters-container {
+  max-width: 1100px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+#searchInput {
+  padding: 8px;
+  width: 300px;
+  border-radius: 6px;
+  border: 1px solid #333;
+  background: #111;
+  color: white;
+  margin: 20px auto;
+  display: block;
 }
