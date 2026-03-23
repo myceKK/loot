@@ -1,0 +1,26 @@
+# Cache / generated
+data/.cache_margoworld/
+tools/__pycache__/
+*.pyc
+
+# Eksporty z edytora (jeśli zostawiasz w folderze projektu)
+prices.json
+data/prices.json
+
+# Konfiguracja strony (opcjonalna)
+data/config.json
+
+# OS / editor
+.DS_Store
+Thumbs.db
+
+# Narzędzia (nie wymagane na GitHub Pages)
+tools/import_margoworld.py
+
+# (Opcjonalnie) jeśli nie chcesz wrzucać narzędzia edycji na GitHub Pages,
+# odkomentuj:
+# editor.html
+
+# (Twoje) nie wrzucaj edytora i readme do publicznego repo
+editor.html
+README.md

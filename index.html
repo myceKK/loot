@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="pl">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <title>Cennik klanowy</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <header class="wrap header">
+      <div class="title">
+        <h1 id="pageTitle">Cennik klanowy</h1>
+        <p id="pageSubtitle" class="muted" hidden>Margonem – elity II i herosi</p>
+      </div>
+      <div class="meta">
+        <span class="pill" id="updatedAt" hidden>Aktualizacja: —</span>
+        <span class="pill" id="currencyPill" hidden>Waluta: —</span>
+      </div>
+    </header>
+
+    <main class="wrap">
+      <nav class="tabs" aria-label="Nawigacja">
+        <a class="tab" href="#elite2" id="tab-elite2">Elity II</a>
+        <a class="tab" href="#heros" id="tab-heros">Herosi</a>
+      </nav>
+
+      <section class="controls">
+        <label class="field">
+          <span class="fieldLabel">Szukaj</span>
+          <input id="search" type="search" placeholder="mob / item / lokacja…" autocomplete="off" />
+        </label>
+        <label class="field">
+          <span class="fieldLabel">Sortuj</span>
+          <select id="sort">
+            <option value="level_asc" selected>Poziom (rosnąco)</option>
+            <option value="level_desc">Poziom (malejąco)</option>
+            <option value="name">Nazwa (A→Z)</option>
+            <option value="drops_desc">Dropy (malejąco)</option>
+            <option value="legend_drops_desc">Legendy (ilość, malejąco)</option>
+            <option value="value_desc">Wartość (suma cen, malejąco)</option>
+            <option value="value_asc">Wartość (suma cen, rosnąco)</option>
+          </select>
+        </label>
+      </section>
+
+      <section id="content" class="content" aria-live="polite"></section>
+
+      <footer class="footer muted" hidden></footer>
+    </main>
+
+    <script src="app.js"></script>
+  </body>
+</html>

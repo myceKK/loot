@@ -1,0 +1,3725 @@
+{
+  "monsters": [
+    {
+      "id": "mw-npc-146914",
+      "name": "Mushita",
+      "type": "elite2",
+      "level": 23,
+      "location": "Grota Dzikiego Kota (23,11)",
+      "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/npc/e2/st-puma.gif",
+      "sourceUrl": "https://margoworld.pl/npc/view/146914/mushita-23lvl",
+      "drops": [
+        {
+          "itemId": "item-25645",
+          "name": "Nimb emanującego kła",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/pie/pierscien361.gif"
+        },
+        {
+          "itemId": "item-59450",
+          "name": "Lekka skrytka lodowej mocy",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/bag/kuf_compontent_01.gif"
+        }
+      ]
+    },
+    {
+      "id": "mw-npc-18984",
+      "name": "Kotołak Tropiciel",
+      "type": "elite2",
+      "level": 27,
+      "location": "Las Tropicieli (51,75)",
+      "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/npc/e1/kotolak_lowca.gif",
+      "sourceUrl": "https://margoworld.pl/npc/view/18984/kotolak-tropiciel-27lvl",
+      "drops": [
+        {
+          "itemId": "item-34393",
+          "name": "Kask wiedźmiego chowańca",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/hel/helm719.gif"
+        },
+        {
+          "itemId": "item-34394",
+          "name": "Kamuflaż przyczajonego kocura",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/hel/helm720.gif"
+        },
+        {
+          "itemId": "item-34395",
+          "name": "Maska dziewięciu żywotów",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/hel/helm721.gif"
+        },
+        {
+          "itemId": "item-59448",
+          "name": "Lekka skrytka stalowej mocy",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/bag/kuf_compontent_04.gif.gif"
+        }
+      ]
+    },
+    {
+      "id": "mw-npc-222511",
+      "name": "Shae Phu",
+      "type": "elite2",
+      "level": 30,
+      "location": "Przeklęta Strażnica - podziemia p.2 s.1 (25,24)",
+      "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/npc/e2/demonszef.gif",
+      "sourceUrl": "https://margoworld.pl/npc/view/222511/shae-phu-30lvl",
+      "drops": [
+        {
+          "itemId": "item-34564",
+          "name": "Nekromantki cmentarnej dziewicy",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/rek/rekawice805.gif"
+        },
+        {
+          "itemId": "item-34577",
+          "name": "Szpony Ciemnego Varga",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/rek/rekawice806.gif"
+        },
+        {
+          "itemId": "item-56563",
+          "name": "Czaszka Przeznaczenia",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/nas/naszyjnik1243.gif"
+        },
+        {
+          "itemId": "item-59449",
+          "name": "Lekka skrytka ognistej mocy",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/bag/kuf_compontent_02.gif.gif"
+        }
+      ]
+    },
+    {
+      "id": "mw-npc-256372",
+      "name": "Zorg Jednooki Baron",
+      "type": "elite2",
+      "level": 33,
+      "location": "Schowek na Łupy (17,57)",
+      "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/npc/e2/zbir-e2-zorg.gif",
+      "sourceUrl": "https://margoworld.pl/npc/view/256372/zorg-jednooki-baron-33lvl",
+      "drops": [
+        {
+          "itemId": "item-56568",
+          "name": "Obuwie upadłego barona",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/but/buty1203.gif"
+        },
+        {
+          "itemId": "item-56569",
+          "name": "Buciory lidera szajki",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/but/buty1204.gif"
+        },
+        {
+          "itemId": "item-56590",
+          "name": "Magiczne ciżemki Zorga",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/but/buty1205.gif"
+        },
+        {
+          "itemId": "item-59452",
+          "name": "Lekka skrytka jadowej mocy",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/bag/kuf_compontent_05.gif.gif"
+        }
+      ]
+    },
+    {
+      "id": "mw-npc-264342",
+      "name": "Władca rzek",
+      "type": "elite2",
+      "level": 37,
+      "location": "Podmokła Dolina (9,11)",
+      "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/npc/e2/gobmag2.gif",
+      "sourceUrl": "https://margoworld.pl/npc/view/264342/wladca-rzek-37lvl",
+      "drops": [
+        {
+          "itemId": "item-34771",
+          "name": "Studnia Życzeń",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/pie/pierscien836.gif"
+        },
+        {
+          "itemId": "item-34772",
+          "name": "Klejnot Wielkich Jezior",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/pie/pierscien837.gif"
+        },
+        {
+          "itemId": "item-34773",
+          "name": "Rzeka Marzeń",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/pie/pierscien835.gif"
+        },
+        {
+          "itemId": "item-59450",
+          "name": "Lekka skrytka lodowej mocy",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/bag/kuf_compontent_01.gif"
+        }
+      ]
+    },
+    {
+      "id": "mw-npc-207860",
+      "name": "Gobbos",
+      "type": "elite2",
+      "level": 40,
+      "location": "Jaskinia Pogardy (10,7)",
+      "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/npc/e2/gobsamurai.gif",
+      "sourceUrl": "https://margoworld.pl/npc/view/207860/gobbos-40lvl",
+      "drops": [
+        {
+          "itemId": "item-19005",
+          "name": "Maska Akumu",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/hat/maska5.gif"
+        },
+        {
+          "itemId": "item-34791",
+          "name": "Dusza Światła",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/nas/naszyjnik813.gif"
+        },
+        {
+          "itemId": "item-59452",
+          "name": "Lekka skrytka jadowej mocy",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/bag/kuf_compontent_05.gif.gif"
+        }
+      ]
+    },
+    {
+      "id": "mw-npc-160694",
+      "name": "Tyrtajos",
+      "type": "elite2",
+      "level": 42,
+      "location": "Pieczara Kwiku - sala 2 (13,13)",
+      "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/npc/e2/dzik.gif",
+      "sourceUrl": "https://margoworld.pl/npc/view/160694/tyrtajos-42lvl",
+      "drops": [
+        {
+          "itemId": "item-45553",
+          "name": "Dzikie ryjki",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/but/buty842.gif"
+        },
+        {
+          "itemId": "item-45554",
+          "name": "Naramienniki przywódcy watahy",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/rek/rekawice828.gif"
+        },
+        {
+          "itemId": "item-45555",
+          "name": "Chrumkająca ozdoba dzika",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/rek/rekawice827.gif"
+        },
+        {
+          "itemId": "item-59451",
+          "name": "Lekka skrytka elektrycznej mocy",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/bag/kuf_compontent_03.gif.gif"
+        }
+      ]
+    },
+    {
+      "id": "mw-npc-62345",
+      "name": "Szczęt alias Gładki",
+      "type": "elite2",
+      "level": 47,
+      "location": "Stary Kupiecki Trakt (12,75)",
+      "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/npc/e2/zbir-szczet.gif",
+      "sourceUrl": "https://margoworld.pl/npc/view/62345/szczet-alias-gladki-47lvl",
+      "drops": [
+        {
+          "itemId": "item-9241",
+          "name": "Maska złodzieja",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/hel/mug_mask01.gif"
+        },
+        {
+          "itemId": "item-45969",
+          "name": "Towar pierwszej klasy",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/but/buty852.gif"
+        },
+        {
+          "itemId": "item-29838",
+          "name": "Zbójeckie złotko",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/nas/naszyjnik414.gif"
+        },
+        {
+          "itemId": "item-59448",
+          "name": "Lekka skrytka stalowej mocy",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/bag/kuf_compontent_04.gif.gif"
+        }
+      ]
+    },
+    {
+      "id": "mw-npc-235051",
+      "name": "Tollok Shimger",
+      "type": "elite2",
+      "level": 47,
+      "location": "Skalne Turnie (48,5)",
+      "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/npc/e2/tollok_shimger.gif",
+      "sourceUrl": "https://margoworld.pl/npc/view/235051/tollok-shimger-47lvl",
+      "drops": [
+        {
+          "itemId": "item-45965",
+          "name": "Sygnet przyzwania nietoperzy",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/pie/pierscien856.gif"
+        },
+        {
+          "itemId": "item-45966",
+          "name": "Błękitna duma tolloka",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/pie/pierscien855.gif"
+        },
+        {
+          "itemId": "item-45967",
+          "name": "Nasiono burzy",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/pie/pierscien857.gif"
+        },
+        {
+          "itemId": "item-59451",
+          "name": "Lekka skrytka elektrycznej mocy",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/bag/kuf_compontent_03.gif.gif"
+        }
+      ]
+    },
+    {
+      "id": "mw-npc-190472",
+      "name": "Agar",
+      "type": "elite2",
+      "level": 51,
+      "location": "Mokra Grota p.2 (18,38)",
+      "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/npc/e2/glut_agar.gif",
+      "sourceUrl": "https://margoworld.pl/npc/view/190472/agar-51lvl",
+      "drops": [
+        {
+          "itemId": "item-34762",
+          "name": "Plugawe przekleństwo wiedźmy",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/neu/gal_l-naszyj.gif"
+        },
+        {
+          "itemId": "item-34763",
+          "name": "Sprofanowany rdzeń świadomości",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/neu/gal_l-naszyj2.gif"
+        },
+        {
+          "itemId": "item-34764",
+          "name": "Splamiona kapitańska obręcz",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/neu/gal_l-naszyj3.gif"
+        },
+        {
+          "itemId": "item-59450",
+          "name": "Lekka skrytka lodowej mocy",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/bag/kuf_compontent_01.gif"
+        }
+      ]
+    },
+    {
+      "id": "mw-npc-16818",
+      "name": "Razuglag Oklash",
+      "type": "elite2",
+      "level": 51,
+      "location": "Stare Wyrobisko p.3 (5,6)",
+      "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/npc/e2/razuglag.gif",
+      "sourceUrl": "https://margoworld.pl/npc/view/16818/razuglag-oklash-51lvl",
+      "drops": [
+        {
+          "itemId": "item-46478",
+          "name": "Maska mrocznego sługi",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/hel/helm773.gif"
+        },
+        {
+          "itemId": "item-29861",
+          "name": "Kaptur Magii Początku",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/hel/helm362.gif"
+        },
+        {
+          "itemId": "item-56576",
+          "name": "Zaklęty płomień",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/pie/piescien1234.gif"
+        },
+        {
+          "itemId": "item-59449",
+          "name": "Lekka skrytka ognistej mocy",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/bag/kuf_compontent_02.gif.gif"
+        }
+      ]
+    },
+    {
+      "id": "mw-npc-80749",
+      "name": "Foverk Turrim",
+      "type": "elite2",
+      "level": 57,
+      "location": "Lazurytowa Grota p.4 (19,21)",
+      "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/npc/e2/kobold07.gif",
+      "sourceUrl": "https://margoworld.pl/npc/view/80749/foverk-turrim-57lvl",
+      "drops": [
+        {
+          "itemId": "item-13239",
+          "name": "Skradzione chodaki Jana",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/but/buty99.gif"
+        },
+        {
+          "itemId": "item-34811",
+          "name": "Klejnot turrimu",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/nas/naszyjnik871.gif"
+        },
+        {
+          "itemId": "item-34812",
+          "name": "Rozłupana czaszka Foverka",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/nas/naszyjnik870.gif"
+        },
+        {
+          "itemId": "item-59448",
+          "name": "Lekka skrytka stalowej mocy",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/bag/kuf_compontent_04.gif.gif"
+        }
+      ]
+    },
+    {
+      "id": "mw-npc-256374",
+      "name": "Owadzia Matka",
+      "type": "elite2",
+      "level": 58,
+      "location": "Kopalnia Kapiącego Miodu p.2 - sala Owadziej Matki (33,15)",
+      "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/npc/e2/zadlak-e2-owadzia-matka.gif",
+      "sourceUrl": "https://margoworld.pl/npc/view/256374/owadzia-matka-58lvl",
+      "drops": [
+        {
+          "itemId": "item-44972",
+          "name": "Bransolety łąkowego terroru",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/rek/rekawice817.gif"
+        },
+        {
+          "itemId": "item-44973",
+          "name": "Objęcia propolisu",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/rek/rekawice816.gif"
+        },
+        {
+          "itemId": "item-44974",
+          "name": "Paskudzące żądła Matki",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/rek/rekawice815.gif"
+        },
+        {
+          "itemId": "item-59452",
+          "name": "Lekka skrytka jadowej mocy",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/bag/kuf_compontent_05.gif.gif"
+        }
+      ]
+    },
+    {
+      "id": "mw-npc-37049",
+      "name": "Furruk Kozug",
+      "type": "elite2",
+      "level": 66,
+      "location": "Jaskinia Gnollich Szamanów - komnata Kozuga (42,14)",
+      "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/npc/e2/gnoll12.gif",
+      "sourceUrl": "https://margoworld.pl/npc/view/37049/furruk-kozug-66lvl",
+      "drops": [
+        {
+          "itemId": "item-41393",
+          "name": "Futrzana czapa szaleńca",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/hel/helm662.gif"
+        },
+        {
+          "itemId": "item-59515",
+          "name": "Przyłbica filtracyjna",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/hel/helm1469.gif"
+        },
+        {
+          "itemId": "item-42221",
+          "name": "Klamry przewrotowca",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/rek/rekawice1377.gif"
+        },
+        {
+          "itemId": "item-59449",
+          "name": "Lekka skrytka ognistej mocy",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/bag/kuf_compontent_02.gif.gif"
+        }
+      ]
+    },
+    {
+      "id": "mw-npc-76767",
+      "name": "Vari Kruger",
+      "type": "elite2",
+      "level": 66,
+      "location": "Namiot Vari Krugera (4,4)",
+      "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/npc/e2/gnoll11.gif",
+      "sourceUrl": "https://margoworld.pl/npc/view/76767/vari-kruger-66lvl",
+      "drops": [
+        {
+          "itemId": "item-12792",
+          "name": "Sygnet szmaragdowej potęgi",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/pie/piersc94.gif"
+        },
+        {
+          "itemId": "item-59508",
+          "name": "Klejnot ognistej pożogi",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/pie/pierscien1331.gif"
+        },
+        {
+          "itemId": "item-59451",
+          "name": "Lekka skrytka elektrycznej mocy",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/bag/kuf_compontent_03.gif.gif"
+        },
+        {
+          "itemId": "item-42222",
+          "name": "Zwęglona maska gnolla",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/tal/tal112.gif"
+        }
+      ]
+    },
+    {
+      "id": "mw-npc-268359",
+      "name": "Jotun",
+      "type": "elite2",
+      "level": 70,
+      "location": "Kamienna Jaskinia - sala 3 (11,22)",
+      "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/npc/e2/kam_olbrzym-b.gif",
+      "sourceUrl": "https://margoworld.pl/npc/view/268359/jotun-70lvl",
+      "drops": [
+        {
+          "itemId": "item-46999",
+          "name": "Mrozoodporne kamasze Jotuna",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/but/buty866.gif"
+        },
+        {
+          "itemId": "item-56577",
+          "name": "Kamienne trzewiki",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/but/buty1206.gif"
+        },
+        {
+          "itemId": "item-56578",
+          "name": "Podeszwy magicznej wyniosłości",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/but/buty1202.gif"
+        },
+        {
+          "itemId": "item-59450",
+          "name": "Lekka skrytka lodowej mocy",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/bag/kuf_compontent_01.gif"
+        }
+      ]
+    },
+    {
+      "id": "mw-npc-271629",
+      "name": "Tollok Atamatu",
+      "type": "elite2",
+      "level": 73,
+      "location": "Głębokie Skałki p.3 (13,20)",
+      "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/npc/e2/tollok_jask_atamatu.gif",
+      "sourceUrl": "https://margoworld.pl/npc/view/271629/tollok-atamatu-73lvl",
+      "drops": [
+        {
+          "itemId": "item-56579",
+          "name": "Rogaty łeb tolloka",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/hel/helm1362.gif"
+        },
+        {
+          "itemId": "item-12088",
+          "name": "Brylantowe rękawice tolloka",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/rek/rekawice72.gif"
+        },
+        {
+          "itemId": "item-1612",
+          "name": "Chluba jaskiniowych tolloków",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/nas/naszyjnik892.gif"
+        },
+        {
+          "itemId": "item-59452",
+          "name": "Lekka skrytka jadowej mocy",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/bag/kuf_compontent_05.gif.gif"
+        }
+      ]
+    },
+    {
+      "id": "mw-npc-271630",
+      "name": "Tollok Utumutu",
+      "type": "elite2",
+      "level": 73,
+      "location": "Głębokie Skałki p.4 (7,18)",
+      "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/npc/e2/tollok_jask_utumatu.gif",
+      "sourceUrl": "https://margoworld.pl/npc/view/271630/tollok-utumutu-73lvl",
+      "drops": [
+        {
+          "itemId": "item-56579",
+          "name": "Rogaty łeb tolloka",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/hel/helm1362.gif"
+        },
+        {
+          "itemId": "item-12088",
+          "name": "Brylantowe rękawice tolloka",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/rek/rekawice72.gif"
+        },
+        {
+          "itemId": "item-1612",
+          "name": "Chluba jaskiniowych tolloków",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/nas/naszyjnik892.gif"
+        },
+        {
+          "itemId": "item-59452",
+          "name": "Lekka skrytka jadowej mocy",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/bag/kuf_compontent_05.gif.gif"
+        }
+      ]
+    },
+    {
+      "id": "mw-npc-271623",
+      "name": "Lisz",
+      "type": "elite2",
+      "level": 75,
+      "location": "Krypty Dusz Śniegu p.3 - komnata Lisza (16,18)",
+      "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/npc/e2/lisz_demilisze.gif",
+      "sourceUrl": "https://margoworld.pl/npc/view/271623/lisz-75lvl",
+      "drops": [
+        {
+          "itemId": "item-47726",
+          "name": "Czaszka pośmiertnego stężenia",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/nas/naszyjnik882.gif"
+        },
+        {
+          "itemId": "item-47727",
+          "name": "Pieczęć dusz śniegu",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/nas/naszyjnik884.gif"
+        },
+        {
+          "itemId": "item-47728",
+          "name": "Naczynie odizolowanej duszy",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/nas/naszyjnik883.gif"
+        },
+        {
+          "itemId": "item-59451",
+          "name": "Lekka skrytka elektrycznej mocy",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/bag/kuf_compontent_03.gif.gif"
+        }
+      ]
+    },
+    {
+      "id": "mw-npc-271624",
+      "name": "Grabarz świątynny",
+      "type": "elite2",
+      "level": 80,
+      "location": "Erem Czarnego Słońca p.5 (28,14)",
+      "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/npc/e2/nieu_mnich_grabarz.gif",
+      "sourceUrl": "https://margoworld.pl/npc/view/271624/grabarz-swiatynny-80lvl",
+      "drops": [
+        {
+          "itemId": "item-47702",
+          "name": "Krok żałobnych orszaków",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/but/buty888.gif"
+        },
+        {
+          "itemId": "item-47700",
+          "name": "Cacko ze splądrowanego grobowca",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/rek/rekawice902.gif"
+        },
+        {
+          "itemId": "item-47701",
+          "name": "Pneumatyczny chwyt grabarza",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/rek/rekawice903.gif"
+        },
+        {
+          "itemId": "item-59449",
+          "name": "Lekka skrytka ognistej mocy",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/bag/kuf_compontent_02.gif.gif"
+        }
+      ]
+    },
+    {
+      "id": "mw-npc-271625",
+      "name": "Podły zbrojmistrz",
+      "type": "elite2",
+      "level": 82,
+      "location": "Świątynia Andarum - zbrojownia (25,5)",
+      "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/npc/e2/magaz_zbrojmistrz.gif",
+      "sourceUrl": "https://margoworld.pl/npc/view/271625/podly-zbrojmistrz-82lvl",
+      "drops": [
+        {
+          "itemId": "item-42223",
+          "name": "Rogi niewzruszonej podłości",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/hel/helm1472.gif"
+        },
+        {
+          "itemId": "item-42226",
+          "name": "Więzienie obsesyjnych żądzy",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/hel/helm1471.gif"
+        },
+        {
+          "itemId": "item-42229",
+          "name": "Oblicze dokuczliwych biesów",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/hel/helm1470.gif"
+        },
+        {
+          "itemId": "item-59448",
+          "name": "Lekka skrytka stalowej mocy",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/bag/kuf_compontent_04.gif.gif"
+        }
+      ]
+    },
+    {
+      "id": "mw-npc-271628",
+      "name": "Wielka Stopa",
+      "type": "elite2",
+      "level": 82,
+      "location": "Firnowa Grota p.2 s.1 (13,8)",
+      "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/npc/e2/wlochacze_wielka_stopa.gif",
+      "sourceUrl": "https://margoworld.pl/npc/view/271628/wielka-stopa-82lvl",
+      "drops": [
+        {
+          "itemId": "item-47813",
+          "name": "Błyskotka Wielkiej Stopy",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/pie/pierscien910.gif"
+        },
+        {
+          "itemId": "item-47814",
+          "name": "Skumulowane światło lodowca",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/pie/pierscien911.gif"
+        },
+        {
+          "itemId": "item-47815",
+          "name": "Sygnet szczypiącego mrozu",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/pie/pierscien912.gif"
+        },
+        {
+          "itemId": "item-59450",
+          "name": "Lekka skrytka lodowej mocy",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/bag/kuf_compontent_01.gif"
+        }
+      ]
+    },
+    {
+      "id": "mw-npc-271626",
+      "name": "Choukker",
+      "type": "elite2",
+      "level": 84,
+      "location": "Wylęgarnia Choukkerów p.1 (40,19)",
+      "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/npc/e2/dlawiciel5.gif",
+      "sourceUrl": "https://margoworld.pl/npc/view/271626/choukker-84lvl",
+      "drops": [
+        {
+          "itemId": "item-44052",
+          "name": "Łup jaskiniowej hordy",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/but/buty880.gif"
+        },
+        {
+          "itemId": "item-44053",
+          "name": "Cudeńko ze skarbca dławicieli",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/but/buty879.gif"
+        },
+        {
+          "itemId": "item-44054",
+          "name": "Popis zapomnianego kowala",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/but/buty878.gif"
+        },
+        {
+          "itemId": "item-59451",
+          "name": "Lekka skrytka elektrycznej mocy",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/bag/kuf_compontent_03.gif.gif"
+        }
+      ]
+    },
+    {
+      "id": "mw-npc-278128",
+      "name": "Nadzorczyni krasnoludów",
+      "type": "elite2",
+      "level": 88,
+      "location": "Kopalnia Margorii (28,54)",
+      "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/npc/e2/nadzorczyni_krasnoludow.gif",
+      "sourceUrl": "https://margoworld.pl/npc/view/278128/nadzorczyni-krasnoludow-88lvl",
+      "drops": [
+        {
+          "itemId": "item-49089",
+          "name": "Przesłona rządów strachu",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/hel/helm861.gif"
+        },
+        {
+          "itemId": "item-49090",
+          "name": "Wspomnienie Wojny Magów",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/hel/helm859.gif"
+        },
+        {
+          "itemId": "item-49091",
+          "name": "Podarek krasnoludzkiego monarchy",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/hel/helm860.gif"
+        },
+        {
+          "itemId": "item-59449",
+          "name": "Lekka skrytka ognistej mocy",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/bag/kuf_compontent_02.gif.gif"
+        }
+      ]
+    },
+    {
+      "id": "mw-npc-278129",
+      "name": "Morthen",
+      "type": "elite2",
+      "level": 89,
+      "location": "Margoria - Sala Królewska (21,11)",
+      "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/npc/e2/krasnolud_boss.gif",
+      "sourceUrl": "https://margoworld.pl/npc/view/278129/morthen-89lvl",
+      "drops": [
+        {
+          "itemId": "item-2487",
+          "name": "Zapomniany skarb krasnoludów",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/but/buty932.gif"
+        },
+        {
+          "itemId": "item-49071",
+          "name": "Odlew najwyższej próby",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/but/buty934.gif"
+        },
+        {
+          "itemId": "item-56580",
+          "name": "Symbol obsesji",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/but/buty1207.gif"
+        },
+        {
+          "itemId": "item-59448",
+          "name": "Lekka skrytka stalowej mocy",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/bag/kuf_compontent_04.gif.gif"
+        }
+      ]
+    },
+    {
+      "id": "mw-npc-278190",
+      "name": "Leśne Widmo",
+      "type": "elite2",
+      "level": 92,
+      "location": "Zapomniany Święty Gaj p.3 (20,16)",
+      "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/npc/e2/lesne_widmo.gif",
+      "sourceUrl": "https://margoworld.pl/npc/view/278190/lesne-widmo-92lvl",
+      "drops": [
+        {
+          "itemId": "item-49774",
+          "name": "Skarb borowych",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/rek/rekawice955.gif"
+        },
+        {
+          "itemId": "item-49775",
+          "name": "Trofeum z Leśnego Widma",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/rek/rekawice954.gif"
+        },
+        {
+          "itemId": "item-56584",
+          "name": "Strzelające palce kniei",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/rek/rekawice1286.gif"
+        },
+        {
+          "itemId": "item-59448",
+          "name": "Lekka skrytka stalowej mocy",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/bag/kuf_compontent_04.gif.gif"
+        }
+      ]
+    },
+    {
+      "id": "mw-npc-122272",
+      "name": "Żelazoręki Ohydziarz",
+      "type": "elite2",
+      "level": 92,
+      "location": "Grota Samotnych Dusz p.6 (43,14)",
+      "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/npc/e2/ugrape2.gif",
+      "sourceUrl": "https://margoworld.pl/npc/view/122272/zelazoreki-ohydziarz-92lvl",
+      "drops": [
+        {
+          "itemId": "item-49935",
+          "name": "Anihilator",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/hel/helm874.gif"
+        },
+        {
+          "itemId": "item-49936",
+          "name": "Pochłaniająca duma urgrapów",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/nas/naszyjnik946.gif"
+        },
+        {
+          "itemId": "item-49937",
+          "name": "Mistyczna błyskotka volmatów",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/nas/naszyjnik945.gif"
+        },
+        {
+          "itemId": "item-59452",
+          "name": "Lekka skrytka jadowej mocy",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/bag/kuf_compontent_05.gif.gif"
+        }
+      ]
+    },
+    {
+      "id": "mw-npc-32613",
+      "name": "Goplana",
+      "type": "elite2",
+      "level": 93,
+      "location": "Kamienna Strażnica - Sanktuarium (12,7)",
+      "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/npc/e2/goplana.gif",
+      "sourceUrl": "https://margoworld.pl/npc/view/32613/goplana-93lvl",
+      "drops": [
+        {
+          "itemId": "item-50213",
+          "name": "Nieskalana dusza nimfy",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/pie/pierscien954.gif"
+        },
+        {
+          "itemId": "item-50214",
+          "name": "Obrączka płynnej żywicy",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/pie/pierscien955.gif"
+        },
+        {
+          "itemId": "item-50215",
+          "name": "Róża w rozkwicie",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/pie/pierscien956.gif"
+        },
+        {
+          "itemId": "item-59450",
+          "name": "Lekka skrytka lodowej mocy",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/bag/kuf_compontent_01.gif"
+        }
+      ]
+    },
+    {
+      "id": "mw-npc-13324",
+      "name": "Gnom Figlid",
+      "type": "elite2",
+      "level": 96,
+      "location": "Zagrzybiałe Ścieżki p.3 (21,20)",
+      "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/npc/e2/gnom_figlid.gif",
+      "sourceUrl": "https://margoworld.pl/npc/view/13324/gnom-figlid-96lvl",
+      "drops": [
+        {
+          "itemId": "item-49491",
+          "name": "Kamasze gnomiego honoru",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/but/buty917.gif"
+        },
+        {
+          "itemId": "item-49490",
+          "name": "Potęga wielkiego Figlida",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/rek/rekawice942.gif"
+        },
+        {
+          "itemId": "item-56585",
+          "name": "Okazała gnomijagoda",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/pie/piescien1233.gif"
+        },
+        {
+          "itemId": "item-59451",
+          "name": "Lekka skrytka elektrycznej mocy",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/bag/kuf_compontent_03.gif.gif"
+        }
+      ]
+    },
+    {
+      "id": "mw-npc-15835",
+      "name": "Centaur Zyfryd",
+      "type": "elite2",
+      "level": 99,
+      "location": "Dolina Centaurów (47,25)",
+      "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/npc/e2/cent-zyfryd.gif",
+      "sourceUrl": "https://margoworld.pl/npc/view/15835/centaur-zyfryd-99lvl",
+      "drops": [
+        {
+          "itemId": "item-49539",
+          "name": "Ozdoba walecznego centaura",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/nas/naszyjnik942.gif"
+        },
+        {
+          "itemId": "item-49540",
+          "name": "Kolia dojrzałych soków",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/nas/naszyjnik943.gif"
+        },
+        {
+          "itemId": "item-49541",
+          "name": "Obręcz duszących pnączy",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/nas/naszyjnik944.gif"
+        },
+        {
+          "itemId": "item-59452",
+          "name": "Lekka skrytka jadowej mocy",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/bag/kuf_compontent_05.gif.gif"
+        }
+      ]
+    },
+    {
+      "id": "mw-npc-198558",
+      "name": "Kambion",
+      "type": "elite2",
+      "level": 101,
+      "location": "Namiot Kambiona (10,6)",
+      "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/npc/e2/kambion.gif",
+      "sourceUrl": "https://margoworld.pl/npc/view/198558/kambion-101lvl",
+      "drops": [
+        {
+          "itemId": "item-50234",
+          "name": "Stalowe zmiażdżenie",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/but/buty966.gif"
+        },
+        {
+          "itemId": "item-50235",
+          "name": "Miękkie racice bandyty",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/but/buty967.gif"
+        },
+        {
+          "itemId": "item-50236",
+          "name": "Kopyta demonicznej manifestacji",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/but/buty968.gif"
+        },
+        {
+          "itemId": "item-59461",
+          "name": "Skrytka elektrycznej mocy",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/bag/kuf_compontent_03.gif.gif"
+        }
+      ]
+    },
+    {
+      "id": "mw-npc-45696",
+      "name": "Jertek Moxos",
+      "type": "elite2",
+      "level": 105,
+      "location": "Podziemia Zniszczonej Wieży p.5 (19,23)",
+      "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/npc/e2/moloch-jertek.gif",
+      "sourceUrl": "https://margoworld.pl/npc/view/45696/jertek-moxos-105lvl",
+      "drops": [
+        {
+          "itemId": "item-50598",
+          "name": "Karminowe opętanie",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/hel/helm937.gif"
+        },
+        {
+          "itemId": "item-50596",
+          "name": "Ozdoba fałszywego bożka",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/pie/pierscien981.gif"
+        },
+        {
+          "itemId": "item-50597",
+          "name": "Krwawy płomień bluźnierstwa",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/pie/pierscien980.gif"
+        },
+        {
+          "itemId": "item-59459",
+          "name": "Skrytka ognistej mocy",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/bag/kuf_compontent_02.gif.gif"
+        }
+      ]
+    },
+    {
+      "id": "mw-npc-273385",
+      "name": "Miłośnik magii",
+      "type": "elite2",
+      "level": 108,
+      "location": "Zabłocona Jama p.2 - Sala Magicznego Błota (39,15)",
+      "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/npc/e2/blotniaki_milosnik_magii.gif",
+      "sourceUrl": "https://margoworld.pl/npc/view/273385/milosnik-magii-108lvl",
+      "drops": [
+        {
+          "itemId": "item-49119",
+          "name": "Zaczarowane bryle",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/hel/helm958.gif"
+        },
+        {
+          "itemId": "item-42641",
+          "name": "Symbol uwielbienia magii",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/pie/pierscien1333.gif"
+        },
+        {
+          "itemId": "item-50664",
+          "name": "Pas przesiąknięty magią",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/sur/miloscnicy_sur_03.gif"
+        },
+        {
+          "itemId": "item-59460",
+          "name": "Skrytka lodowej mocy",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/bag/kuf_compontent_01.gif"
+        }
+      ]
+    },
+    {
+      "id": "mw-npc-273386",
+      "name": "Miłośnik rycerzy",
+      "type": "elite2",
+      "level": 108,
+      "location": "Zabłocona Jama p.2 - Sala Błotnistych Odmętów (30,42)",
+      "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/npc/e2/blotniaki_milosnik_rycerzy.gif",
+      "sourceUrl": "https://margoworld.pl/npc/view/273386/milosnik-rycerzy-108lvl",
+      "drops": [
+        {
+          "itemId": "item-49118",
+          "name": "Cuchnąca przyłbica miłośnika",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/hel/helm959.gif"
+        },
+        {
+          "itemId": "item-42627",
+          "name": "Symbol uwielbienia rycerzy",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/pie/pierscien1334.gif"
+        },
+        {
+          "itemId": "item-50665",
+          "name": "Chorągiew pożartych rycerzy",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/sur/milosnicy_sur_05.gif"
+        },
+        {
+          "itemId": "item-59458",
+          "name": "Skrytka stalowej mocy",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/bag/kuf_compontent_04.gif.gif"
+        }
+      ]
+    },
+    {
+      "id": "mw-npc-273384",
+      "name": "Miłośnik łowców",
+      "type": "elite2",
+      "level": 108,
+      "location": "Zabłocona Jama p.2 - Sala Duszącej Stęchlizny (33,31)",
+      "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/npc/e2/blotniaki_milosnik_lowcow.gif",
+      "sourceUrl": "https://margoworld.pl/npc/view/273384/milosnik-lowcow-108lvl",
+      "drops": [
+        {
+          "itemId": "item-49120",
+          "name": "Łapka w górę",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/rek/rekawice1006.gif"
+        },
+        {
+          "itemId": "item-42645",
+          "name": "Symbol uwielbienia łowców",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/pie/pierscien1332.gif"
+        },
+        {
+          "itemId": "item-50666",
+          "name": "Czaszka poległego lewiatana",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/sur/miloscnicy_sur_02.gif"
+        },
+        {
+          "itemId": "item-59462",
+          "name": "Skrytka jadowej mocy",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/bag/kuf_compontent_05.gif.gif"
+        }
+      ]
+    },
+    {
+      "id": "mw-npc-296118",
+      "name": "Łowca czaszek",
+      "type": "elite2",
+      "level": 112,
+      "location": "Skalne Cmentarzysko p.4 (25,14)",
+      "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/npc/e2/alghul-czaszka-1a.gif",
+      "sourceUrl": "https://margoworld.pl/npc/view/296118/lowca-czaszek-112lvl",
+      "drops": [
+        {
+          "itemId": "item-42350",
+          "name": "Pięści uderzających meteorytów",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/rek/rekawice1008.gif"
+        },
+        {
+          "itemId": "item-42356",
+          "name": "Pazury wiecznej ekshumacji",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/rek/rekawice1007.gif"
+        },
+        {
+          "itemId": "item-42335",
+          "name": "Zasuszona twarz ożywieńca",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/nas/naszyjnik984.gif"
+        },
+        {
+          "itemId": "item-59459",
+          "name": "Skrytka ognistej mocy",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/bag/kuf_compontent_02.gif.gif"
+        }
+      ]
+    },
+    {
+      "id": "mw-npc-296267",
+      "name": "Ozirus Władca Hieroglifów",
+      "type": "elite2",
+      "level": 115,
+      "location": "Piramida Pustynnego Władcy p.3 (22,13)",
+      "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/npc/e2/mumia-ozirus.gif",
+      "sourceUrl": "https://margoworld.pl/npc/view/296267/ozirus-wladca-hieroglifow-115lvl",
+      "drops": [
+        {
+          "itemId": "item-42339",
+          "name": "Obmierzłe cholewy Ozirusa",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/but/buty760.gif"
+        },
+        {
+          "itemId": "item-42343",
+          "name": "Opieka Skarabeuszy",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/but/buty762.gif"
+        },
+        {
+          "itemId": "item-42344",
+          "name": "Buty Króla Skorpiona",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/but/buty761.gif"
+        },
+        {
+          "itemId": "item-59461",
+          "name": "Skrytka elektrycznej mocy",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/bag/kuf_compontent_03.gif.gif"
+        }
+      ]
+    },
+    {
+      "id": "mw-npc-318402",
+      "name": "Morski potwór",
+      "type": "elite2",
+      "level": 118,
+      "location": "Jama Morskiej Macki p.1 - sala 3 (9,12)",
+      "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/npc/e2/osmiornica-1b.gif",
+      "sourceUrl": "https://margoworld.pl/npc/view/318402/morski-potwor-118lvl",
+      "drops": [
+        {
+          "itemId": "item-41230",
+          "name": "Tęczowa ośmiorniczka",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/hel/helm983.gif"
+        },
+        {
+          "itemId": "item-42677",
+          "name": "Macki władzy",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/hel/helm981.gif"
+        },
+        {
+          "itemId": "item-56587",
+          "name": "Galaretowate ślepia",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/hel/helm1364.gif"
+        },
+        {
+          "itemId": "item-59460",
+          "name": "Skrytka lodowej mocy",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/bag/kuf_compontent_01.gif"
+        }
+      ]
+    },
+    {
+      "id": "mw-npc-319132",
+      "name": "Borgoros Garamir III",
+      "type": "elite2",
+      "level": 124,
+      "location": "Twierdza Rogogłowych - Sala Byka (16,7)",
+      "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/npc/e2/ingotia_minotaur-7a.gif",
+      "sourceUrl": "https://margoworld.pl/npc/view/319132/borgoros-garamir-iii-124lvl",
+      "drops": [
+        {
+          "itemId": "item-42689",
+          "name": "Okowy boskiego pochodzenia",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/rek/rekawice1218.gif"
+        },
+        {
+          "itemId": "item-42700",
+          "name": "Kajdany ziemi obiecanej",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/rek/rekawice1217.gif"
+        },
+        {
+          "itemId": "item-42705",
+          "name": "Klamry dziejotwórczego porozumienia",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/rek/rekawice1216.gif"
+        },
+        {
+          "itemId": "item-59458",
+          "name": "Skrytka stalowej mocy",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/bag/kuf_compontent_04.gif.gif"
+        }
+      ]
+    },
+    {
+      "id": "mw-npc-318548",
+      "name": "Krab pustelnik",
+      "type": "elite2",
+      "level": 124,
+      "location": "Opuszczony statek - pokład (7,7)",
+      "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/npc/e2/krab_big3.gif",
+      "sourceUrl": "https://margoworld.pl/npc/view/318548/krab-pustelnik-124lvl",
+      "drops": [
+        {
+          "itemId": "item-31980",
+          "name": "Wspaniały pancerz Kraba",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/neu/craft_krab_panc.gif"
+        },
+        {
+          "itemId": "item-54767",
+          "name": "Koralowy karapaks",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/sur/krab_craft_02.gif"
+        },
+        {
+          "itemId": "item-54768",
+          "name": "Osłona pustelnika",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/sur/krab_craft_03.gif"
+        },
+        {
+          "itemId": "item-59462",
+          "name": "Skrytka jadowej mocy",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/bag/kuf_compontent_05.gif.gif"
+        }
+      ]
+    },
+    {
+      "id": "mw-npc-318758",
+      "name": "Stworzyciel",
+      "type": "elite2",
+      "level": 125,
+      "location": "Piaskowa Pułapka - Grota Piaskowej Śmierci (22,10)",
+      "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/npc/e2/stworzyciel.gif",
+      "sourceUrl": "https://margoworld.pl/npc/view/318758/stworzyciel-125lvl",
+      "drops": [
+        {
+          "itemId": "item-40474",
+          "name": "Cholewy z piaskowego czerwia",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/but/buty1109.gif"
+        },
+        {
+          "itemId": "item-40475",
+          "name": "Cacko wielkiego kreatora",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/pie/pierscien1144.gif"
+        },
+        {
+          "itemId": "item-40477",
+          "name": "Miniaturowe szczęki Stworzyciela",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/pie/pierscien1143.gif"
+        },
+        {
+          "itemId": "item-59460",
+          "name": "Skrytka lodowej mocy",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/bag/kuf_compontent_01.gif"
+        }
+      ]
+    },
+    {
+      "id": "mw-npc-296266",
+      "name": "Ifryt",
+      "type": "elite2",
+      "level": 128,
+      "location": "Wulkan Politraki p.1 - sala 3 (10,51)",
+      "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/npc/e2/magradit_ifryt.gif",
+      "sourceUrl": "https://margoworld.pl/npc/view/296266/ifryt-128lvl",
+      "drops": [
+        {
+          "itemId": "item-41173",
+          "name": "Korona Politraki",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/hel/helm970.gif"
+        },
+        {
+          "itemId": "item-56588",
+          "name": "Turban płonących języków",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/hel/helm1363.gif"
+        },
+        {
+          "itemId": "item-42971",
+          "name": "Formacja stygnącej lawy",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/nas/naszyjnik1011.gif"
+        },
+        {
+          "itemId": "item-59459",
+          "name": "Skrytka ognistej mocy",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/bag/kuf_compontent_02.gif.gif"
+        }
+      ]
+    },
+    {
+      "id": "mw-npc-296269",
+      "name": "Helga Opiekunka Rumu",
+      "type": "elite2",
+      "level": 131,
+      "location": "Ukryta Grota Morskich Diabłów - siedziba (15,23)",
+      "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/npc/e2/pirat-2b.gif",
+      "sourceUrl": "https://margoworld.pl/npc/view/296269/helga-opiekunka-rumu-131lvl",
+      "drops": [
+        {
+          "itemId": "item-50810",
+          "name": "Kozaki zza siedmiu mórz",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/but/buty1040.gif"
+        },
+        {
+          "itemId": "item-50811",
+          "name": "Ciężka stopa Helgi",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/but/buty1042.gif"
+        },
+        {
+          "itemId": "item-50817",
+          "name": "Pijacka busola",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/nas/naszyjnik1024.gif"
+        },
+        {
+          "itemId": "item-59461",
+          "name": "Skrytka elektrycznej mocy",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/bag/kuf_compontent_03.gif.gif"
+        }
+      ]
+    },
+    {
+      "id": "mw-npc-296270",
+      "name": "Henry Kaprawe Oko",
+      "type": "elite2",
+      "level": 131,
+      "location": "Ukryta Grota Morskich Diabłów - skarbiec (14,14)",
+      "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/npc/e1/pirat5b.gif",
+      "sourceUrl": "https://margoworld.pl/npc/view/296270/henry-kaprawe-oko-131lvl",
+      "drops": [
+        {
+          "itemId": "item-50814",
+          "name": "Dostojne rękawy Henrego",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/rek/rekawice1165.gif"
+        },
+        {
+          "itemId": "item-50813",
+          "name": "Pazur abordażowy",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/pie/pierscien1080.gif"
+        },
+        {
+          "itemId": "item-50816",
+          "name": "Duma Mackomordego",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/nas/naszyjnik1025.gif"
+        },
+        {
+          "itemId": "item-59458",
+          "name": "Skrytka stalowej mocy",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/bag/kuf_compontent_04.gif.gif"
+        }
+      ]
+    },
+    {
+      "id": "mw-npc-120472",
+      "name": "Młody Jack Truciciel",
+      "type": "elite2",
+      "level": 131,
+      "location": "Ukryta Grota Morskich Diabłów - magazyn (25,16)",
+      "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/npc/e2/pirat01.gif",
+      "sourceUrl": "https://margoworld.pl/npc/view/120472/mlody-jack-truciciel-131lvl",
+      "drops": [
+        {
+          "itemId": "item-50812",
+          "name": "Pneumatyczna noga Jacka",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/but/buty1041.gif"
+        },
+        {
+          "itemId": "item-50815",
+          "name": "Złoty hak przyszłości",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/rek/rekawice1164.gif"
+        },
+        {
+          "itemId": "item-50818",
+          "name": "Szczęśliwa Kotwica",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/nas/naszyjnik1023.gif"
+        },
+        {
+          "itemId": "item-59462",
+          "name": "Skrytka jadowej mocy",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/bag/kuf_compontent_05.gif.gif"
+        }
+      ]
+    },
+    {
+      "id": "mw-npc-318760",
+      "name": "Eol",
+      "type": "elite2",
+      "level": 135,
+      "location": "Piaszczysta Grota p.1 - sala 2 (12,8)",
+      "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/npc/e2/piaskowy_potwor-6a.gif",
+      "sourceUrl": "https://margoworld.pl/npc/view/318760/eol-135lvl",
+      "drops": [
+        {
+          "itemId": "item-51170",
+          "name": "Szyszak czterech wiatrów",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/hel/helm1073.gif"
+        },
+        {
+          "itemId": "item-51171",
+          "name": "Przyłbica wojennych piasków",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/hel/helm1071.gif"
+        },
+        {
+          "itemId": "item-51172",
+          "name": "Chusta pustynnych koszmarów",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/hel/helm1072.gif"
+        },
+        {
+          "itemId": "item-59460",
+          "name": "Skrytka lodowej mocy",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/bag/kuf_compontent_01.gif"
+        }
+      ]
+    },
+    {
+      "id": "mw-npc-192595",
+      "name": "Grubber Ochlaj",
+      "type": "elite2",
+      "level": 136,
+      "location": "Kopalnia Żółtego Kruszcu p.2 - sala 2 (15,10)",
+      "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/npc/e2/grubber-ochlaj.gif",
+      "sourceUrl": "https://margoworld.pl/npc/view/192595/grubber-ochlaj-136lvl",
+      "drops": [
+        {
+          "itemId": "item-50555",
+          "name": "Nagroda najmocniejszej głowy",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/pie/pierscien993.gif"
+        },
+        {
+          "itemId": "item-50556",
+          "name": "Oczko mistrza fermentacji",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/pie/pierscien991.gif"
+        },
+        {
+          "itemId": "item-50557",
+          "name": "Błysk chmielowych szyszek",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/pie/pierscien992.gif"
+        },
+        {
+          "itemId": "item-59462",
+          "name": "Skrytka jadowej mocy",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/bag/kuf_compontent_05.gif.gif"
+        }
+      ]
+    },
+    {
+      "id": "mw-npc-333058",
+      "name": "Mistrz Worundriel",
+      "type": "elite2",
+      "level": 139,
+      "location": "Kuźnia Worundriela - Komnata Żaru (24,31)",
+      "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/npc/e2/worundriel02.gif",
+      "sourceUrl": "https://margoworld.pl/npc/view/333058/mistrz-worundriel-139lvl",
+      "drops": [
+        {
+          "itemId": "item-56589",
+          "name": "Wytwór niemal doskonały",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/but/buty1209.gif"
+        },
+        {
+          "itemId": "item-52207",
+          "name": "Serce Kuźni",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/nas/naszyjnik1216.gif"
+        },
+        {
+          "itemId": "item-59459",
+          "name": "Skrytka ognistej mocy",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/bag/kuf_compontent_02.gif.gif"
+        },
+        {
+          "itemId": "item-51269",
+          "name": "Kowadło Moradrana",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/tal/tal101.gif"
+        }
+      ]
+    },
+    {
+      "id": "mw-npc-319133",
+      "name": "Wójt Fistuła",
+      "type": "elite2",
+      "level": 144,
+      "location": "Chata wójta Fistuły p.1 (13,7)",
+      "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/npc/e2/goral-e2-wojt-fistula.gif",
+      "sourceUrl": "https://margoworld.pl/npc/view/319133/wojt-fistula-144lvl",
+      "drops": [
+        {
+          "itemId": "item-52208",
+          "name": "Łapy krótkiego rozumu",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/rek/rekawice1240.gif"
+        },
+        {
+          "itemId": "item-52209",
+          "name": "Pięści dobrostanu żony",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/rek/rekawice1239.gif"
+        },
+        {
+          "itemId": "item-52210",
+          "name": "Dłonie górskich wstrząsów",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/rek/rekawice1241.gif"
+        },
+        {
+          "itemId": "item-59458",
+          "name": "Skrytka stalowej mocy",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/bag/kuf_compontent_04.gif.gif"
+        }
+      ]
+    },
+    {
+      "id": "mw-npc-319134",
+      "name": "Teściowa Rumcajsa",
+      "type": "elite2",
+      "level": 145,
+      "location": "Chata Teściowej (13,7)",
+      "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/npc/e2/goral-e2-tesciowa-rumcajsa.gif",
+      "sourceUrl": "https://margoworld.pl/npc/view/319134/tesciowa-rumcajsa-145lvl",
+      "drops": [
+        {
+          "itemId": "item-51358",
+          "name": "Odświętny bibelot świekry",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/hel/helm1096.gif"
+        },
+        {
+          "itemId": "item-51359",
+          "name": "Prawdziwe oblicze teściowej",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/hel/helm1095.gif"
+        },
+        {
+          "itemId": "item-51357",
+          "name": "Obrączka matczynej miłości",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/pie/pierscien1157.gif"
+        },
+        {
+          "itemId": "item-59461",
+          "name": "Skrytka elektrycznej mocy",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/bag/kuf_compontent_03.gif.gif"
+        }
+      ]
+    },
+    {
+      "id": "mw-npc-333107",
+      "name": "Berserker Amuno",
+      "type": "elite2",
+      "level": 148,
+      "location": "Cenotaf Berserkerów p.1 - sala 2 (23,13)",
+      "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/npc/e2/amuno.gif",
+      "sourceUrl": "https://margoworld.pl/npc/view/333107/berserker-amuno-148lvl",
+      "drops": [
+        {
+          "itemId": "item-54875",
+          "name": "Cholewy z zachodu",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/but/buty1173.gif"
+        },
+        {
+          "itemId": "item-56592",
+          "name": "Niezniszczalne trepy Amuno",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/but/buty1201.gif"
+        },
+        {
+          "itemId": "item-56593",
+          "name": "Podeszwy braterskiej więzi",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/but/buty1208.gif"
+        },
+        {
+          "itemId": "item-59460",
+          "name": "Skrytka lodowej mocy",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/bag/kuf_compontent_01.gif"
+        }
+      ]
+    },
+    {
+      "id": "mw-npc-333060",
+      "name": "Fodug Zolash",
+      "type": "elite2",
+      "level": 150,
+      "location": "Mała Twierdza - sala główna (16,5)",
+      "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/npc/e2/fodug_zolash.gif",
+      "sourceUrl": "https://margoworld.pl/npc/view/333060/fodug-zolash-150lvl",
+      "drops": [
+        {
+          "itemId": "item-54891",
+          "name": "Krwawe dyrygentki",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/rek/rekawice1274.gif"
+        },
+        {
+          "itemId": "item-54889",
+          "name": "Pieczęć pana twierdzy",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/pie/pierscien1208.gif"
+        },
+        {
+          "itemId": "item-54890",
+          "name": "Sygnet łaski i zawahania",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/pie/pierscien1209.gif"
+        },
+        {
+          "itemId": "item-59459",
+          "name": "Skrytka ognistej mocy",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/bag/kuf_compontent_02.gif.gif"
+        }
+      ]
+    },
+    {
+      "id": "mw-npc-333264",
+      "name": "Goons Asterus",
+      "type": "elite2",
+      "level": 154,
+      "location": "Lokum Złych Goblinów - warsztat (18,11)",
+      "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/npc/e2/goons_asterus-1a.gif",
+      "sourceUrl": "https://margoworld.pl/npc/view/333264/goons-asterus-154lvl",
+      "drops": [
+        {
+          "itemId": "item-55032",
+          "name": "System celowniczy Asterusa",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/hel/helm1352.gif"
+        },
+        {
+          "itemId": "item-55033",
+          "name": "Goblińskie ustrojstwo",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/but/buty1185.gif"
+        },
+        {
+          "itemId": "item-55031",
+          "name": "Wielofunkcyjna torba goblina",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/bag/torba53.gif"
+        },
+        {
+          "itemId": "item-59462",
+          "name": "Skrytka jadowej mocy",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/bag/kuf_compontent_05.gif.gif"
+        }
+      ]
+    },
+    {
+      "id": "mw-npc-154609",
+      "name": "Adariel",
+      "type": "elite2",
+      "level": 155,
+      "location": "Laboratorium Adariel (20,25)",
+      "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/npc/e2/tri_adariel.gif",
+      "sourceUrl": "https://margoworld.pl/npc/view/154609/adariel-155lvl",
+      "drops": [
+        {
+          "itemId": "item-55205",
+          "name": "Ampułka brzydoty",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/nas/naszyjnik1193.gif"
+        },
+        {
+          "itemId": "item-55206",
+          "name": "Wiedźmi łapacz snów",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/nas/naszyjnik1194.gif"
+        },
+        {
+          "itemId": "item-56591",
+          "name": "Pieczęć czarnej magii",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/nas/naszyjnik1242.gif"
+        },
+        {
+          "itemId": "item-59461",
+          "name": "Skrytka elektrycznej mocy",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/bag/kuf_compontent_03.gif.gif"
+        }
+      ]
+    },
+    {
+      "id": "mw-npc-320880",
+      "name": "Burkog Lorulk",
+      "type": "elite2",
+      "level": 160,
+      "location": "Grota Orczej Hordy p.2 s.3 (19,16)",
+      "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/npc/e2/orkczd.gif",
+      "sourceUrl": "https://margoworld.pl/npc/view/320880/burkog-lorulk-160lvl",
+      "drops": [
+        {
+          "itemId": "item-54592",
+          "name": "Skarb praorczej dynastii",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/but/buty1099.gif"
+        },
+        {
+          "itemId": "item-54591",
+          "name": "Odrąbana dłoń Burkoga",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/rek/rekawice1208.gif"
+        },
+        {
+          "itemId": "item-54590",
+          "name": "Wyraz olbrzymiej pogardy",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/rek/rekawice1259.gif"
+        },
+        {
+          "itemId": "item-59458",
+          "name": "Skrytka stalowej mocy",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/bag/kuf_compontent_04.gif.gif"
+        }
+      ]
+    },
+    {
+      "id": "mw-npc-228348",
+      "name": "Shakkru",
+      "type": "elite2",
+      "level": 160,
+      "location": "Grota Orczych Szamanów p.3 s.1 (12,4)",
+      "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/npc/e2/r_orc_shakkru.gif",
+      "sourceUrl": "https://margoworld.pl/npc/view/228348/shakkru-160lvl",
+      "drops": [
+        {
+          "itemId": "item-54574",
+          "name": "Przebudzone ślepie demona",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/pie/pierscien1198.gif"
+        },
+        {
+          "itemId": "item-54575",
+          "name": "Miniaturowy portal",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/pie/pierscien1199.gif"
+        },
+        {
+          "itemId": "item-54576",
+          "name": "Źródło wielkiego nieszczęścia",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/nas/naszyjnik1199.gif"
+        }
+      ]
+    },
+    {
+      "id": "mw-npc-333108",
+      "name": "Sheba Orcza Szamanka",
+      "type": "elite2",
+      "level": 160,
+      "location": "Grota Orczych Szamanów p.3 s.1 (16,10)",
+      "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/npc/e2/r_orc_sheba.gif",
+      "sourceUrl": "https://margoworld.pl/npc/view/333108/sheba-orcza-szamanka-160lvl",
+      "drops": [
+        {
+          "itemId": "item-59459",
+          "name": "Skrytka ognistej mocy",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/bag/kuf_compontent_02.gif.gif"
+        }
+      ]
+    },
+    {
+      "id": "mw-npc-227363",
+      "name": "Duch Władcy Klanów",
+      "type": "elite2",
+      "level": 165,
+      "location": "Nawiedzone Kazamaty p.4 (15,30)",
+      "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/npc/e2/duch_wladcy_kl.gif",
+      "sourceUrl": "https://margoworld.pl/npc/view/227363/duch-wladcy-klanow-165lvl",
+      "drops": [
+        {
+          "itemId": "item-55339",
+          "name": "Przyłbica wielkiego zaszczytu",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/hel/helm1348.gif"
+        },
+        {
+          "itemId": "item-55340",
+          "name": "Maska orczej wyroczni",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/hel/helm1350.gif"
+        },
+        {
+          "itemId": "item-55341",
+          "name": "Odznaczenie smokobija",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/hel/helm1349.gif"
+        },
+        {
+          "itemId": "item-59460",
+          "name": "Skrytka lodowej mocy",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/bag/kuf_compontent_01.gif"
+        }
+      ]
+    },
+    {
+      "id": "mw-npc-227436",
+      "name": "Bragarth Myśliwy Dusz",
+      "type": "elite2",
+      "level": 170,
+      "location": "Sala Rady Orków (22,26)",
+      "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/npc/e2/praork_low_elita.gif",
+      "sourceUrl": "https://margoworld.pl/npc/view/227436/bragarth-mysliwy-dusz-170lvl",
+      "drops": [
+        {
+          "itemId": "item-40067",
+          "name": "Błysk smoczego oka",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/pie/pierscien627.gif"
+        },
+        {
+          "itemId": "item-40290",
+          "name": "Kolia Łowcy Dusz",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/nas/naszyjnik631.gif"
+        },
+        {
+          "itemId": "item-59462",
+          "name": "Skrytka jadowej mocy",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/bag/kuf_compontent_05.gif.gif"
+        }
+      ]
+    },
+    {
+      "id": "mw-npc-227435",
+      "name": "Fursharag Pożeracz Umysłów",
+      "type": "elite2",
+      "level": 170,
+      "location": "Sala Rady Orków (9,10)",
+      "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/npc/e2/praork_mag_elita.gif",
+      "sourceUrl": "https://margoworld.pl/npc/view/227435/fursharag-pozeracz-umyslow-170lvl",
+      "drops": [
+        {
+          "itemId": "item-40074",
+          "name": "Esencja smoczej tężyzny",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/hel/helm564.gif"
+        },
+        {
+          "itemId": "item-40285",
+          "name": "Ozdoba Pożeracza Umysłów",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/nas/naszyjnik636.gif"
+        },
+        {
+          "itemId": "item-59461",
+          "name": "Skrytka elektrycznej mocy",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/bag/kuf_compontent_03.gif.gif"
+        }
+      ]
+    },
+    {
+      "id": "mw-npc-227434",
+      "name": "Ziuggrael Strażnik Królowej",
+      "type": "elite2",
+      "level": 170,
+      "location": "Sala Rady Orków (40,7)",
+      "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/npc/e2/praork_woj_elita.gif",
+      "sourceUrl": "https://margoworld.pl/npc/view/227434/ziuggrael-straznik-krolowej-170lvl",
+      "drops": [
+        {
+          "itemId": "item-40075",
+          "name": "Rękawice ze smoczej skóry",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/rek/rekawice644.gif"
+        },
+        {
+          "itemId": "item-40279",
+          "name": "Naszyjnik Królewskiego Strażnika",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/nas/naszyjnik635.gif"
+        },
+        {
+          "itemId": "item-59458",
+          "name": "Skrytka stalowej mocy",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/bag/kuf_compontent_04.gif.gif"
+        }
+      ]
+    },
+    {
+      "id": "mw-npc-320746",
+      "name": "Królowa Śniegu",
+      "type": "elite2",
+      "level": 175,
+      "location": "Kryształowa Grota - Sala Smutku (21,9)",
+      "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/npc/e2/krolowa-sniegu.gif",
+      "sourceUrl": "https://margoworld.pl/npc/view/320746/krolowa-sniegu-175lvl",
+      "drops": [
+        {
+          "itemId": "item-54717",
+          "name": "Uścisk nieskończonej śnieżycy",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/rek/rekawice1231.gif"
+        },
+        {
+          "itemId": "item-54718",
+          "name": "Skostniałe paluchy monarchini",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/rek/rekawice1230.gif"
+        },
+        {
+          "itemId": "item-57440",
+          "name": "Nienawistny chwyt królowej",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/rek/rekawice1314.gif"
+        },
+        {
+          "itemId": "item-59460",
+          "name": "Skrytka lodowej mocy",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/bag/kuf_compontent_01.gif"
+        }
+      ]
+    },
+    {
+      "id": "mw-npc-227417",
+      "name": "Lusgrathera Królowa Pramatka",
+      "type": "elite2",
+      "level": 175,
+      "location": "Sala Królewska (22,23)",
+      "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/npc/e2/prakrolowa.gif",
+      "sourceUrl": "https://margoworld.pl/npc/view/227417/lusgrathera-krolowa-pramatka-175lvl",
+      "drops": [
+        {
+          "itemId": "item-40166",
+          "name": "Ukryta potęga praorków",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/pie/pierscien638.gif"
+        },
+        {
+          "itemId": "item-40167",
+          "name": "Królewski pierścień pramatki",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/pie/pierscien637.gif"
+        },
+        {
+          "itemId": "item-59459",
+          "name": "Skrytka ognistej mocy",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/bag/kuf_compontent_02.gif.gif"
+        }
+      ]
+    },
+    {
+      "id": "mw-npc-344679",
+      "name": "Cantedewia",
+      "type": "elite2",
+      "level": 177,
+      "location": "Drzewo Dusz p.2 (49,21)",
+      "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/npc/e2/cantedewia-1a.gif",
+      "sourceUrl": "https://margoworld.pl/npc/view/344679/cantedewia-177lvl",
+      "drops": [
+        {
+          "itemId": "item-57453",
+          "name": "Korona życiodajnych kalii",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/hel/helm1401.gif"
+        },
+        {
+          "itemId": "item-57455",
+          "name": "Bezszelestny chód mchów",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/but/buty1224.gif"
+        },
+        {
+          "itemId": "item-59462",
+          "name": "Skrytka jadowej mocy",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/bag/kuf_compontent_05.gif.gif"
+        },
+        {
+          "itemId": "item-56808",
+          "name": "Święte kwiecie driad",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/tal/tal109.gif"
+        }
+      ]
+    },
+    {
+      "id": "mw-npc-344657",
+      "name": "Chryzoprenia",
+      "type": "elite2",
+      "level": 177,
+      "location": "Drzewo Dusz p.2 (29,8)",
+      "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/npc/e2/chryzoprenia-1a.gif",
+      "sourceUrl": "https://margoworld.pl/npc/view/344657/chryzoprenia-177lvl",
+      "drops": [
+        {
+          "itemId": "item-57454",
+          "name": "Chryzantemowy diadem",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/hel/helm1402.gif"
+        },
+        {
+          "itemId": "item-57456",
+          "name": "Cholewy leśnej monarchii",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/but/buty1225.gif"
+        },
+        {
+          "itemId": "item-44256",
+          "name": "Pąk Wabiciel",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/nas/naszyjnik1264.gif"
+        },
+        {
+          "itemId": "item-59461",
+          "name": "Skrytka elektrycznej mocy",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/bag/kuf_compontent_03.gif.gif"
+        }
+      ]
+    },
+    {
+      "id": "mw-npc-344659",
+      "name": "Wrzosera",
+      "type": "elite2",
+      "level": 177,
+      "location": "Drzewo Dusz p.2 (11,48)",
+      "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/npc/e2/wrzosera-1b.gif",
+      "sourceUrl": "https://margoworld.pl/npc/view/344659/wrzosera-177lvl",
+      "drops": [
+        {
+          "itemId": "item-57452",
+          "name": "Przyłbica pani wrzosowisk",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/hel/helm1403.gif"
+        },
+        {
+          "itemId": "item-41497",
+          "name": "Święta Dębina",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/but/buty686.gif"
+        },
+        {
+          "itemId": "item-44255",
+          "name": "Wrzosowa plecionka driady",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/nas/naszyjnik1270.gif"
+        },
+        {
+          "itemId": "item-59458",
+          "name": "Skrytka stalowej mocy",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/bag/kuf_compontent_04.gif.gif"
+        }
+      ]
+    },
+    {
+      "id": "mw-npc-342484",
+      "name": "Ogr Stalowy Pazur",
+      "type": "elite2",
+      "level": 183,
+      "location": "Ogrza Kawerna p.4 (16,10)",
+      "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/npc/e2/ogr_stalowy_pazur-1a.gif",
+      "sourceUrl": "https://margoworld.pl/npc/view/342484/ogr-stalowy-pazur-183lvl",
+      "drops": [
+        {
+          "itemId": "item-57023",
+          "name": "Hełm ogrzego szaleństwa",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/hel/helm1382.gif"
+        },
+        {
+          "itemId": "item-56806",
+          "name": "Buciory krwawego obłędu",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/but/buty1218.gif"
+        },
+        {
+          "itemId": "item-56807",
+          "name": "Stalowe pieścidełko",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/pie/pierscien1246.gif"
+        },
+        {
+          "itemId": "item-59460",
+          "name": "Skrytka lodowej mocy",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/bag/kuf_compontent_01.gif"
+        }
+      ]
+    },
+    {
+      "id": "mw-npc-241643",
+      "name": "Torunia Ankelwald",
+      "type": "elite2",
+      "level": 186,
+      "location": "Krypty Bezsennych p.3 (17,5)",
+      "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/npc/e2/thuz-patr1.gif",
+      "sourceUrl": "https://margoworld.pl/npc/view/241643/torunia-ankelwald-186lvl",
+      "drops": [
+        {
+          "itemId": "item-41844",
+          "name": "Oko Opatrzności",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/nas/naszyjnik723.gif"
+        },
+        {
+          "itemId": "item-41845",
+          "name": "Osiem Nóg Fortuny",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/nas/naszyjnik722.gif"
+        },
+        {
+          "itemId": "item-57423",
+          "name": "Złoty księżyc Ankelwaldów",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/nas/naszyjnik1272.gif"
+        },
+        {
+          "itemId": "item-59461",
+          "name": "Skrytka elektrycznej mocy",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/bag/kuf_compontent_03.gif.gif"
+        }
+      ]
+    },
+    {
+      "id": "mw-npc-345546",
+      "name": "Pięknotka Mięsożerna",
+      "type": "elite2",
+      "level": 189,
+      "location": "Skarpa Trzech Słów (28,38)",
+      "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/npc/e2/zmutowana-roslinka.gif",
+      "sourceUrl": "https://margoworld.pl/npc/view/345546/pieknotka-miesozerna-189lvl",
+      "drops": [
+        {
+          "itemId": "item-57050",
+          "name": "Piękno pełni rozkwitu",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/pie/pierscien1264.gif"
+        },
+        {
+          "itemId": "item-57051",
+          "name": "Wonne kwiecie dezynfekcji",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/pie/pierscien1263.gif"
+        },
+        {
+          "itemId": "item-57052",
+          "name": "Trio mięsożernych pąków",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/pie/pierscien1262.gif"
+        },
+        {
+          "itemId": "item-59459",
+          "name": "Skrytka ognistej mocy",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/bag/kuf_compontent_02.gif.gif"
+        }
+      ]
+    },
+    {
+      "id": "mw-npc-58697",
+      "name": "Breheret Żelazny Łeb",
+      "type": "elite2",
+      "level": 192,
+      "location": "Przysiółek Valmirów (29,11)",
+      "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/npc/e2/draki-breheret-1b.gif",
+      "sourceUrl": "https://margoworld.pl/npc/view/58697/breheret-zelazny-leb-192lvl",
+      "drops": [
+        {
+          "itemId": "item-57024",
+          "name": "Krwawa szczęka Valmira",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/hel/helm1392.gif"
+        },
+        {
+          "itemId": "item-57025",
+          "name": "Żelazna Twarz",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/hel/helm1410.gif"
+        },
+        {
+          "itemId": "item-44254",
+          "name": "Dekapitatorki",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/rek/rekawice1318.gif"
+        },
+        {
+          "itemId": "item-59458",
+          "name": "Skrytka stalowej mocy",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/bag/kuf_compontent_04.gif.gif"
+        }
+      ]
+    },
+    {
+      "id": "mw-npc-342481",
+      "name": "Cerasus",
+      "type": "elite2",
+      "level": 193,
+      "location": "Starodrzew Przedwiecznych p.2 (10,17)",
+      "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/npc/e2/cerasus-1a.gif",
+      "sourceUrl": "https://margoworld.pl/npc/view/342481/cerasus-193lvl",
+      "drops": [
+        {
+          "itemId": "item-56970",
+          "name": "Cholewy krwawego przebudzenia",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/but/buty1219.gif"
+        },
+        {
+          "itemId": "item-57422",
+          "name": "Pnie wymuszonej symbiozy",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/but/buty1220.gif"
+        },
+        {
+          "itemId": "item-56973",
+          "name": "Źródło leśnego mroku",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/nas/naszyjnik1259.gif"
+        },
+        {
+          "itemId": "item-59462",
+          "name": "Skrytka jadowej mocy",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/bag/kuf_compontent_05.gif.gif"
+        }
+      ]
+    },
+    {
+      "id": "mw-npc-342482",
+      "name": "Mysiur Myświórowy Król",
+      "type": "elite2",
+      "level": 197,
+      "location": "Szlamowe Kanały p.2 - sala 3 (19,7)",
+      "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/npc/e2/mysiur_myswiorowy_krol-1a.gif",
+      "sourceUrl": "https://margoworld.pl/npc/view/342482/mysiur-myswiorowy-krol-197lvl",
+      "drops": [
+        {
+          "itemId": "item-57094",
+          "name": "Szczurołapki",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/but/buty1221.gif"
+        },
+        {
+          "itemId": "item-57095",
+          "name": "Myświórowe kaprysy",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/but/buty1222.gif"
+        },
+        {
+          "itemId": "item-57096",
+          "name": "Pantofle opasłego gryzonia",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/but/buty1223.gif"
+        },
+        {
+          "itemId": "item-59459",
+          "name": "Skrytka ognistej mocy",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/bag/kuf_compontent_02.gif.gif"
+        }
+      ]
+    },
+    {
+      "id": "mw-npc-234251",
+      "name": "Sadolia Nadzorczyni Hurys",
+      "type": "elite2",
+      "level": 200,
+      "location": "Przerażające Sypialnie (18,11)",
+      "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/npc/e2/sekta-sadolia.gif",
+      "sourceUrl": "https://margoworld.pl/npc/view/234251/sadolia-nadzorczyni-hurys-200lvl",
+      "drops": [
+        {
+          "itemId": "item-39572",
+          "name": "Podmuch Wiecznie Potępionych",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/nas/naszyjnik683.gif"
+        },
+        {
+          "itemId": "item-39594",
+          "name": "Tchnienie Nagłej Grozy",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/nas/naszyjnik684.gif"
+        },
+        {
+          "itemId": "item-41075",
+          "name": "Piekielny Nietoperz",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/nas/naszyjnik682.gif"
+        },
+        {
+          "itemId": "item-59460",
+          "name": "Skrytka lodowej mocy",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/bag/kuf_compontent_01.gif"
+        }
+      ]
+    },
+    {
+      "id": "mw-npc-234429",
+      "name": "Annaniel Wysysacz Marzeń",
+      "type": "elite2",
+      "level": 204,
+      "location": "Tajemnicza Siedziba (26,22)",
+      "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/npc/e2/sekta-annaniel.gif",
+      "sourceUrl": "https://margoworld.pl/npc/view/234429/annaniel-wysysacz-marzen-204lvl",
+      "drops": [
+        {
+          "itemId": "item-40887",
+          "name": "Ozdoba Piekielnego Portalu",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/pie/pierscien695.gif"
+        },
+        {
+          "itemId": "item-40888",
+          "name": "Szpon Bahaala",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/pie/pierscien699.gif"
+        },
+        {
+          "itemId": "item-41093",
+          "name": "Przenośny ołtarz Annaniela",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/tal/tal69.gif"
+        }
+      ]
+    },
+    {
+      "id": "mw-npc-234361",
+      "name": "Bergermona Krwawa Hrabina",
+      "type": "elite2",
+      "level": 204,
+      "location": "Sale Rozdzierania (43,60)",
+      "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/npc/e2/sekta-bergermona.gif",
+      "sourceUrl": "https://margoworld.pl/npc/view/234361/bergermona-krwawa-hrabina-204lvl",
+      "drops": [
+        {
+          "itemId": "item-57389",
+          "name": "Nawiedzona chusta hrabiny",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/hel/helm1404.gif"
+        },
+        {
+          "itemId": "item-40892",
+          "name": "Dłoń Diabła",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/pie/pierscien694.gif"
+        },
+        {
+          "itemId": "item-40893",
+          "name": "Pierścień Mistrzyni Tortur",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/pie/pierscien697.gif"
+        }
+      ]
+    },
+    {
+      "id": "mw-npc-234431",
+      "name": "Gothardus Kolekcjoner Głów",
+      "type": "elite2",
+      "level": 204,
+      "location": "Tajemnicza Siedziba (44,22)",
+      "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/npc/e2/sekta-gothardus.gif",
+      "sourceUrl": "https://margoworld.pl/npc/view/234431/gothardus-kolekcjoner-glow-204lvl",
+      "drops": [
+        {
+          "itemId": "item-41094",
+          "name": "Powolny Puls Demona",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/but/buty679.gif"
+        },
+        {
+          "itemId": "item-40883",
+          "name": "Płomień Żywej Wiary",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/pie/pierscien698.gif"
+        },
+        {
+          "itemId": "item-40884",
+          "name": "Kościany Strażnik",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/pie/pierscien696.gif"
+        }
+      ]
+    },
+    {
+      "id": "mw-npc-234424",
+      "name": "Sataniel Skrytobójca",
+      "type": "elite2",
+      "level": 204,
+      "location": "Sala Skaryfikacji Grzeszników (20,14)",
+      "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/npc/e2/sekta-sataniel.gif",
+      "sourceUrl": "https://margoworld.pl/npc/view/234424/sataniel-skrytobojca-204lvl",
+      "drops": [
+        {
+          "itemId": "item-57397",
+          "name": "Szpony krwawych przesłuchań",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/rek/rekawice1316.gif"
+        },
+        {
+          "itemId": "item-57398",
+          "name": "Kryjówka demonicznych sugestii",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/rek/rekawice1317.gif"
+        },
+        {
+          "itemId": "item-57399",
+          "name": "Łańcuchy ujarzmiania demonów",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/rek/rekawice1313.gif"
+        }
+      ]
+    },
+    {
+      "id": "mw-npc-234421",
+      "name": "Zufulus Smakosz Serc",
+      "type": "elite2",
+      "level": 205,
+      "location": "Sala Tysiąca Świec (47,30)",
+      "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/npc/e2/sekta-zufulus.gif",
+      "sourceUrl": "https://margoworld.pl/npc/view/234421/zufulus-smakosz-serc-205lvl",
+      "drops": [
+        {
+          "itemId": "item-39813",
+          "name": "Diadem Tysiąca Świec",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/hel/helm615.gif"
+        },
+        {
+          "itemId": "item-39814",
+          "name": "Maska Smakosza Serc",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/hel/helm616.gif"
+        },
+        {
+          "itemId": "item-39815",
+          "name": "Korona Wiecznej Gehenny",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/hel/helm617.gif"
+        },
+        {
+          "itemId": "item-59496",
+          "name": "Ciężka skrytka lodowej mocy",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/bag/kuf_compontent_01.gif"
+        }
+      ]
+    },
+    {
+      "id": "mw-npc-52950",
+      "name": "Czempion Furboli",
+      "type": "elite2",
+      "level": 210,
+      "location": "Zalana Grota (16,9)",
+      "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/npc/e2/forbol03.gif",
+      "sourceUrl": "https://margoworld.pl/npc/view/52950/czempion-furboli-210lvl",
+      "drops": [
+        {
+          "itemId": "item-57175",
+          "name": "Dziedzictwo linii czempionów",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/rek/rekawice1315.gif"
+        },
+        {
+          "itemId": "item-57176",
+          "name": "Światło odstraszające pająki",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/pie/pierscien1265.gif"
+        },
+        {
+          "itemId": "item-57177",
+          "name": "Medalion doskonałości",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/nas/naszyjnik1271.gif"
+        }
+      ]
+    },
+    {
+      "id": "mw-npc-25041",
+      "name": "Arachniregina Colosseus",
+      "type": "elite2",
+      "level": 214,
+      "location": "Arachnitopia p.6 (12,14)",
+      "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/npc/e2/regina-e2.gif",
+      "sourceUrl": "https://margoworld.pl/npc/view/25041/arachniregina-colosseus-214lvl",
+      "drops": [
+        {
+          "itemId": "item-59498",
+          "name": "Ciężka skrytka jadowej mocy",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/bag/kuf_compontent_05.gif.gif"
+        }
+      ]
+    },
+    {
+      "id": "mw-npc-25124",
+      "name": "Rycerz z za małym mieczem",
+      "type": "elite2",
+      "level": 214,
+      "location": "Arachnitopia p.6 (8,9)",
+      "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/npc/e2/pajeczy16.gif",
+      "sourceUrl": "https://margoworld.pl/npc/view/25124/rycerz-z-za-malym-mieczem-214lvl",
+      "drops": [
+        {
+          "itemId": "item-57400",
+          "name": "Pięści zawodnego bohatera",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/rek/rekawice1342.gif"
+        },
+        {
+          "itemId": "item-57401",
+          "name": "Stalowe pająki",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/rek/rekawice1343.gif"
+        },
+        {
+          "itemId": "item-57402",
+          "name": "Muśnięcie powiewających pajęczyn",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/rek/rekawice1344.gif"
+        }
+      ]
+    },
+    {
+      "id": "mw-npc-360457",
+      "name": "Al'diphrin Ilythirahel",
+      "type": "elite2",
+      "level": 218,
+      "location": "Erem Aldiphrina (23,11)",
+      "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/npc/e2/drow-aldiphrin-wladca.gif",
+      "sourceUrl": "https://margoworld.pl/npc/view/360457/aldiphrin-ilythirahel-218lvl",
+      "drops": [
+        {
+          "itemId": "item-57394",
+          "name": "Cholewy chwilowej ekscytacji",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/but/buty1343.gif"
+        },
+        {
+          "itemId": "item-57395",
+          "name": "Łup z Tass Zhil",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/but/buty1341.gif"
+        },
+        {
+          "itemId": "item-57396",
+          "name": "Podeszwy uzurpatora",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/but/buty1342.gif"
+        }
+      ]
+    },
+    {
+      "id": "mw-npc-368335",
+      "name": "Arytodam olbrzymi",
+      "type": "elite2",
+      "level": 226,
+      "location": "Gnijące Topielisko (27,58)",
+      "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/npc/e2/arytodam_olbrzymi-1b.gif",
+      "sourceUrl": "https://margoworld.pl/npc/view/368335/arytodam-olbrzymi-226lvl",
+      "drops": [
+        {
+          "itemId": "item-58596",
+          "name": "Kajdany bagiennego bulgotania",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/rek/rekawice1355.gif"
+        },
+        {
+          "itemId": "item-58597",
+          "name": "Klamry degradacji środowiska",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/rek/rekawice1356.gif"
+        },
+        {
+          "itemId": "item-58598",
+          "name": "Pokraczne łapy Arytodama",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/rek/rekawice1357.gif"
+        },
+        {
+          "itemId": "item-59496",
+          "name": "Ciężka skrytka lodowej mocy",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/bag/kuf_compontent_01.gif"
+        }
+      ]
+    },
+    {
+      "id": "mw-npc-368336",
+      "name": "Mocny Maddoks",
+      "type": "elite2",
+      "level": 231,
+      "location": "Jaszczurze Korytarze p.2 - sala 5 (9,9)",
+      "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/npc/e2/mocny_maddoks-1b.gif",
+      "sourceUrl": "https://margoworld.pl/npc/view/368336/mocny-maddoks-231lvl",
+      "drops": [
+        {
+          "itemId": "item-58535",
+          "name": "Genealogiczne Algi",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/hel/helm1451.gif"
+        },
+        {
+          "itemId": "item-58536",
+          "name": "Smakosz Ambrozji Maddoków",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/hel/helm1453.gif"
+        },
+        {
+          "itemId": "item-58537",
+          "name": "Stary Żabiec",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/hel/helm1452.gif"
+        },
+        {
+          "itemId": "item-59496",
+          "name": "Ciężka skrytka lodowej mocy",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/bag/kuf_compontent_01.gif"
+        }
+      ]
+    },
+    {
+      "id": "mw-npc-379559",
+      "name": "Fangaj",
+      "type": "elite2",
+      "level": 235,
+      "location": "Gardziel Podgnitych Mchów p.3 (33,33)",
+      "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/npc/e2/grzyb-humanoid-1b.gif",
+      "sourceUrl": "https://margoworld.pl/npc/view/379559/fangaj-235lvl",
+      "drops": [
+        {
+          "itemId": "item-58753",
+          "name": "Najbardziej wyjątkowy okaz",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/nas/naszyjnik1367.gif"
+        },
+        {
+          "itemId": "item-58754",
+          "name": "Sznur psylocybków",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/nas/naszyjnik1368.gif"
+        },
+        {
+          "itemId": "item-58755",
+          "name": "Źródło grzybowej zarazy",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/nas/naszyjnik1366.gif"
+        },
+        {
+          "itemId": "item-59497",
+          "name": "Ciężka skrytka elektrycznej mocy",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/bag/kuf_compontent_03.gif.gif"
+        }
+      ]
+    },
+    {
+      "id": "mw-npc-127762",
+      "name": "Dendroculus",
+      "type": "elite2",
+      "level": 240,
+      "location": "Źródło Zakorzenionego Ludu (35,46)",
+      "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/npc/e2/dendroculus.gif",
+      "sourceUrl": "https://margoworld.pl/npc/view/127762/dendroculus-240lvl",
+      "drops": [
+        {
+          "itemId": "item-58757",
+          "name": "Konarowce",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/but/buty1382.gif"
+        },
+        {
+          "itemId": "item-58758",
+          "name": "Żywiczne korzonki",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/but/buty1383.gif"
+        },
+        {
+          "itemId": "item-58782",
+          "name": "Oculus",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/nas/naszyjnik1342.gif"
+        },
+        {
+          "itemId": "item-59498",
+          "name": "Ciężka skrytka jadowej mocy",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/bag/kuf_compontent_05.gif.gif"
+        }
+      ]
+    },
+    {
+      "id": "mw-npc-188257",
+      "name": "Tolypeutes",
+      "type": "elite2",
+      "level": 245,
+      "location": "Złota Góra p.3 - sala 2 (5,6)",
+      "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/npc/e2/bolita.gif",
+      "sourceUrl": "https://margoworld.pl/npc/view/188257/tolypeutes-245lvl",
+      "drops": [
+        {
+          "itemId": "item-58776",
+          "name": "Gest Teomama",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/rek/rekawice1403.gif"
+        },
+        {
+          "itemId": "item-58777",
+          "name": "Mankiety obrońcy bogów",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/rek/rekawice1402.gif"
+        },
+        {
+          "itemId": "item-58778",
+          "name": "Rękawice ze skóry Tolypeutesa",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/rek/rekawice1404.gif"
+        },
+        {
+          "itemId": "item-59493",
+          "name": "Ciężka skrytka stalowej mocy",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/bag/kuf_compontent_04.gif.gif"
+        }
+      ]
+    },
+    {
+      "id": "mw-npc-53398",
+      "name": "Cuaitl Citlalin",
+      "type": "elite2",
+      "level": 250,
+      "location": "Chantli Cuaitla Citlalina (13,8)",
+      "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/npc/e2/maho-cuaitl.gif",
+      "sourceUrl": "https://margoworld.pl/npc/view/53398/cuaitl-citlalin-250lvl",
+      "drops": [
+        {
+          "itemId": "item-60116",
+          "name": "Sygnet z kości konkwistadorów",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/pie/pierscien1365.gif"
+        },
+        {
+          "itemId": "item-60117",
+          "name": "Ollin",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/pie/pierscien1366.gif"
+        },
+        {
+          "itemId": "item-60118",
+          "name": "Gniazdo wielkiej przenikliwości",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/pie/pierscien1367.gif"
+        },
+        {
+          "itemId": "item-59494",
+          "name": "Ciężka skrytka ognistej mocy",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/bag/kuf_compontent_02.gif.gif"
+        }
+      ]
+    },
+    {
+      "id": "mw-npc-54716",
+      "name": "Quetzalcoatl",
+      "type": "elite2",
+      "level": 258,
+      "location": "Wschodni Mictlan p.9 (11,9)",
+      "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/npc/e2/quetzalcoatl-1a.gif",
+      "sourceUrl": "https://margoworld.pl/npc/view/54716/quetzalcoatl-258lvl",
+      "drops": [
+        {
+          "itemId": "item-60064",
+          "name": "Wyobrażenie Mictlantecuhtliego",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/but/buty1400.gif"
+        },
+        {
+          "itemId": "item-60065",
+          "name": "Stąpanie Dwóch Słońc",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/but/buty1401.gif"
+        },
+        {
+          "itemId": "item-60066",
+          "name": "Cholewy boskiego lśnienia",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/but/buty1402.gif"
+        },
+        {
+          "itemId": "item-59496",
+          "name": "Ciężka skrytka lodowej mocy",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/bag/kuf_compontent_01.gif"
+        }
+      ]
+    },
+    {
+      "id": "mw-npc-188256",
+      "name": "Yaotl",
+      "type": "elite2",
+      "level": 258,
+      "location": "Zachodni Mictlan p.9 (7,10)",
+      "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/npc/e2/mahoplowca.gif",
+      "sourceUrl": "https://margoworld.pl/npc/view/188256/yaotl-258lvl",
+      "drops": [
+        {
+          "itemId": "item-34045",
+          "name": "Płomienna maska kapłana",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/hel/helm419.gif"
+        },
+        {
+          "itemId": "item-34046",
+          "name": "Pozłacana podobizna bóstwa",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/hel/helm420.gif"
+        },
+        {
+          "itemId": "item-34047",
+          "name": "Czaszka Huitzilopochtli",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/hel/helm418.gif"
+        },
+        {
+          "itemId": "item-59498",
+          "name": "Ciężka skrytka jadowej mocy",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/bag/kuf_compontent_05.gif.gif"
+        }
+      ]
+    },
+    {
+      "id": "mw-npc-379560",
+      "name": "Wabicielka",
+      "type": "elite2",
+      "level": 260,
+      "location": "Siedlisko Przyjemnej Woni - źródło (19,13)",
+      "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/npc/e2/trist2_wabicielka-1a.gif",
+      "sourceUrl": "https://margoworld.pl/npc/view/379560/wabicielka-260lvl",
+      "drops": [
+        {
+          "itemId": "item-60240",
+          "name": "Dłoń władcy podziemi",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/rek/rekawice1413.gif"
+        },
+        {
+          "itemId": "item-60241",
+          "name": "Szałowe pazury Wabicielki",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/rek/rekawice1414.gif"
+        },
+        {
+          "itemId": "item-60242",
+          "name": "Zalążek Chaosu",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/pie/pierscien1375.gif"
+        },
+        {
+          "itemId": "item-59493",
+          "name": "Ciężka skrytka stalowej mocy",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/bag/kuf_compontent_04.gif.gif"
+        }
+      ]
+    },
+    {
+      "id": "mw-npc-383726",
+      "name": "Pogardliwa Sybilla",
+      "type": "elite2",
+      "level": 263,
+      "location": "Potępione Zamczysko - pracownia (10,10)",
+      "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/npc/e2/tri2_witch_e2.gif",
+      "sourceUrl": "https://margoworld.pl/npc/view/383726/pogardliwa-sybilla-263lvl",
+      "drops": [
+        {
+          "itemId": "item-60188",
+          "name": "Pantofle infiltracji umysłów",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/but/buty1422.gif"
+        },
+        {
+          "itemId": "item-60189",
+          "name": "Buciory wiedźmiej potęgi",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/but/buty1421.gif"
+        },
+        {
+          "itemId": "item-60190",
+          "name": "Wszechstronne obcasy Sybilli",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/but/buty1423.gif"
+        },
+        {
+          "itemId": "item-59494",
+          "name": "Ciężka skrytka ognistej mocy",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/bag/kuf_compontent_02.gif.gif"
+        }
+      ]
+    },
+    {
+      "id": "mw-npc-185508",
+      "name": "Chopesz",
+      "type": "elite2",
+      "level": 267,
+      "location": "Katakumby Gwałtownej Śmierci (36,39)",
+      "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/npc/e2/chopesh2.gif",
+      "sourceUrl": "https://margoworld.pl/npc/view/185508/chopesz-267lvl",
+      "drops": [
+        {
+          "itemId": "item-32485",
+          "name": "Skarb antycznych",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/but/buty516.gif"
+        },
+        {
+          "itemId": "item-32486",
+          "name": "Bojowe obuwie Chopesza",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/but/buty515.gif"
+        },
+        {
+          "itemId": "item-32487",
+          "name": "Lazur wód Wernoradu",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/but/buty514.gif"
+        },
+        {
+          "itemId": "item-59493",
+          "name": "Ciężka skrytka stalowej mocy",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/bag/kuf_compontent_04.gif.gif"
+        }
+      ]
+    },
+    {
+      "id": "mw-npc-60538",
+      "name": "Neferkar Set",
+      "type": "elite2",
+      "level": 274,
+      "location": "Grobowiec Seta (48,57)",
+      "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/npc/e2/szkiel_set.gif",
+      "sourceUrl": "https://margoworld.pl/npc/view/60538/neferkar-set-274lvl",
+      "drops": [
+        {
+          "itemId": "item-8450",
+          "name": "Magia mrocznego Seta",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/but/set_but3.gif"
+        },
+        {
+          "itemId": "item-8451",
+          "name": "Niezłomność bezlitosnego Seta",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/but/set_but1.gif"
+        },
+        {
+          "itemId": "item-8452",
+          "name": "Furia potężnego Seta",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/but/set_but2.gif"
+        },
+        {
+          "itemId": "item-59497",
+          "name": "Ciężka skrytka elektrycznej mocy",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/bag/kuf_compontent_03.gif.gif"
+        }
+      ]
+    },
+    {
+      "id": "mw-npc-115000",
+      "name": "Chaegd Agnrakh",
+      "type": "elite2",
+      "level": 280,
+      "location": "Świątynia Hebrehotha - sala czciciela (24,22)",
+      "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/npc/e2/bar_smokoszef.gif",
+      "sourceUrl": "https://margoworld.pl/npc/view/115000/chaegd-agnrakh-280lvl",
+      "drops": [
+        {
+          "itemId": "item-31128",
+          "name": "Klejnot królewski",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/nas/naszyj446.gif"
+        },
+        {
+          "itemId": "item-41576",
+          "name": "Obroża Przeistoczenia",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/nas/naszyjnik736.gif"
+        },
+        {
+          "itemId": "item-59498",
+          "name": "Ciężka skrytka jadowej mocy",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/bag/kuf_compontent_05.gif.gif"
+        }
+      ]
+    },
+    {
+      "id": "mw-npc-207430",
+      "name": "Terrozaur",
+      "type": "elite2",
+      "level": 280,
+      "location": "Urwisko Vapora (81,44)",
+      "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/npc/e2/terrorzaur_pus.gif",
+      "sourceUrl": "https://margoworld.pl/npc/view/207430/terrozaur-280lvl",
+      "drops": [
+        {
+          "itemId": "item-37120",
+          "name": "Szpony gadzich jeźdźców",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/rek/rekawice579.gif"
+        },
+        {
+          "itemId": "item-37121",
+          "name": "Pancerna pięść wojownika Shaiharrud",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/rek/rekawice581.gif"
+        },
+        {
+          "itemId": "item-37122",
+          "name": "Uścisk wirujących piasków",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/rek/rekawice580.gif"
+        },
+        {
+          "itemId": "item-59494",
+          "name": "Ciężka skrytka ognistej mocy",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/bag/kuf_compontent_02.gif.gif"
+        }
+      ]
+    },
+    {
+      "id": "mw-npc-115103",
+      "name": "Vaenra Charkhaam",
+      "type": "elite2",
+      "level": 280,
+      "location": "Świątynia Hebrehotha - sala ofiary (26,24)",
+      "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/npc/e2/bar_smoczyca.gif",
+      "sourceUrl": "https://margoworld.pl/npc/view/115103/vaenra-charkhaam-280lvl",
+      "drops": [
+        {
+          "itemId": "item-42779",
+          "name": "Smocze Kroki",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/but/buty731.gif"
+        },
+        {
+          "itemId": "item-20099",
+          "name": "Kryształ w obrączce Vaenry",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/pie/pierscien197.gif"
+        },
+        {
+          "itemId": "item-31129",
+          "name": "Klejnot świątynny",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/nas/naszyjnik447.gif"
+        },
+        {
+          "itemId": "item-59497",
+          "name": "Ciężka skrytka elektrycznej mocy",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/bag/kuf_compontent_03.gif.gif"
+        }
+      ]
+    },
+    {
+      "id": "mw-npc-240586",
+      "name": "Nymphemonia",
+      "type": "elite2",
+      "level": 287,
+      "location": "Drzewo Życia p.3 (4,13)",
+      "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/npc/e2/nymphemonia.gif",
+      "sourceUrl": "https://margoworld.pl/npc/view/240586/nymphemonia-287lvl",
+      "drops": [
+        {
+          "itemId": "item-8532",
+          "name": "Szpony leśnego runa",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/rek/rekawice712.gif"
+        },
+        {
+          "itemId": "item-8533",
+          "name": "Palce wymuszonej symbiozy",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/rek/rekawice711.gif"
+        },
+        {
+          "itemId": "item-41538",
+          "name": "Skarb Królestwa Driad",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/nas/naszyjnik700.gif"
+        },
+        {
+          "itemId": "item-59496",
+          "name": "Ciężka skrytka lodowej mocy",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/bag/kuf_compontent_01.gif"
+        }
+      ]
+    },
+    {
+      "id": "mw-npc-63630",
+      "name": "Artenius",
+      "type": "elite2",
+      "level": 300,
+      "location": "Sala Lodowej Magii (36,46)",
+      "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/npc/e2/wl-mrozu03.gif",
+      "sourceUrl": "https://margoworld.pl/npc/view/63630/artenius-300lvl",
+      "drops": [
+        {
+          "itemId": "item-9434",
+          "name": "Kryształ lodowatego powiewu",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/que/wladcy_krysz03.gif"
+        }
+      ]
+    },
+    {
+      "id": "mw-npc-63629",
+      "name": "Furion",
+      "type": "elite2",
+      "level": 300,
+      "location": "Sala Mroźnych Strzał (31,21)",
+      "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/npc/e2/wl-mrozu02.gif",
+      "sourceUrl": "https://margoworld.pl/npc/view/63629/furion-300lvl",
+      "drops": [
+        {
+          "itemId": "item-9432",
+          "name": "Kryształ wiecznej zmarzliny",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/que/wladcy_krysz01.gif"
+        }
+      ]
+    },
+    {
+      "id": "mw-npc-63628",
+      "name": "Zorin",
+      "type": "elite2",
+      "level": 300,
+      "location": "Sala Mroźnych Szeptów (20,42)",
+      "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/npc/e2/wl-mrozu01.gif",
+      "sourceUrl": "https://margoworld.pl/npc/view/63628/zorin-300lvl",
+      "drops": [
+        {
+          "itemId": "item-9433",
+          "name": "Kryształ przeszywającego chłodu",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/que/wladcy_krysz02.gif"
+        }
+      ]
+    },
+    {
+      "id": "mw-npc-17405",
+      "name": "Mroczny Patryk",
+      "type": "heros",
+      "level": 35,
+      "location": "Różne miejsca występowania",
+      "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/npc/her/bardzozlypatryk.gif",
+      "sourceUrl": "https://margoworld.pl/npc/view/17405/mroczny-patryk-35lvl",
+      "drops": [
+        {
+          "itemId": "item-45349",
+          "name": "Kapelusz wiecznej udręki",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/hel/helm749.gif"
+        },
+        {
+          "itemId": "item-45350",
+          "name": "Splot szaleństwa",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/hel/helm748.gif"
+        },
+        {
+          "itemId": "item-56570",
+          "name": "Korona tańczących płomieni",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/hel/helm1365.gif"
+        },
+        {
+          "itemId": "item-59447",
+          "name": "Lekka skrytka mocy",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/bag/kuf_compontent_06.gif.gif"
+        }
+      ]
+    },
+    {
+      "id": "mw-npc-17439",
+      "name": "Karmazynowy Mściciel",
+      "type": "heros",
+      "level": 45,
+      "location": "Różne miejsca występowania",
+      "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/npc/her/gnom_msciciel.gif",
+      "sourceUrl": "https://margoworld.pl/npc/view/17439/karmazynowy-msciciel-45lvl",
+      "drops": [
+        {
+          "itemId": "item-45435",
+          "name": "Stalowe szpony zemsty",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/rek/rekawice854.gif"
+        },
+        {
+          "itemId": "item-45436",
+          "name": "Kajdany gniewnej tułaczki",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/rek/rekawice855.gif"
+        },
+        {
+          "itemId": "item-45437",
+          "name": "Chwyt niestygnącej krwi",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/rek/rekawice853.gif"
+        },
+        {
+          "itemId": "item-59447",
+          "name": "Lekka skrytka mocy",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/bag/kuf_compontent_06.gif.gif"
+        }
+      ]
+    },
+    {
+      "id": "mw-npc-40601",
+      "name": "Złodziej",
+      "type": "heros",
+      "level": 51,
+      "location": "Różne miejsca występowania",
+      "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/npc/her/zlodziej.gif",
+      "sourceUrl": "https://margoworld.pl/npc/view/40601/zlodziej-51lvl",
+      "drops": [
+        {
+          "itemId": "item-45973",
+          "name": "Pamiątka z Tuzmer",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/but/buty871.gif"
+        },
+        {
+          "itemId": "item-45972",
+          "name": "Podwójne podeszwy złodzieja",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/but/buty872.gif"
+        },
+        {
+          "itemId": "item-36607",
+          "name": "Pantofle Madame Baterflaj",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/but/buty535.gif"
+        },
+        {
+          "itemId": "item-59447",
+          "name": "Lekka skrytka mocy",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/bag/kuf_compontent_06.gif.gif"
+        }
+      ]
+    },
+    {
+      "id": "mw-npc-17402",
+      "name": "Zły Przewodnik",
+      "type": "heros",
+      "level": 63,
+      "location": "Różne miejsca występowania",
+      "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/npc/her/mnich-zly2.gif",
+      "sourceUrl": "https://margoworld.pl/npc/view/17402/zly-przewodnik-63lvl",
+      "drops": [
+        {
+          "itemId": "item-46971",
+          "name": "Zamach wybitnego łgarza",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/rek/rekawice892.gif"
+        },
+        {
+          "itemId": "item-46972",
+          "name": "Dotyk zwodniczych mgieł",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/rek/rekawice891.gif"
+        },
+        {
+          "itemId": "item-46973",
+          "name": "Dwulicowy chwyt mnicha",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/rek/rekawice893.gif"
+        },
+        {
+          "itemId": "item-59447",
+          "name": "Lekka skrytka mocy",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/bag/kuf_compontent_06.gif.gif"
+        }
+      ]
+    },
+    {
+      "id": "mw-npc-17494",
+      "name": "Opętany Paladyn",
+      "type": "heros",
+      "level": 74,
+      "location": "Różne miejsca występowania",
+      "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/npc/her/opetanypaladyn02.gif",
+      "sourceUrl": "https://margoworld.pl/npc/view/17494/opetany-paladyn-74lvl",
+      "drops": [
+        {
+          "itemId": "item-47819",
+          "name": "Zęby klasztornego postrachu",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/hel/helm847.gif"
+        },
+        {
+          "itemId": "item-47820",
+          "name": "Złota maska opętańca",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/hel/helm845.gif"
+        },
+        {
+          "itemId": "item-47821",
+          "name": "Przyłbica przeklętego umysłu",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/hel/helm846.gif"
+        },
+        {
+          "itemId": "item-59447",
+          "name": "Lekka skrytka mocy",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/bag/kuf_compontent_06.gif.gif"
+        }
+      ]
+    },
+    {
+      "id": "mw-npc-19743",
+      "name": "Piekielny Kościej",
+      "type": "heros",
+      "level": 85,
+      "location": "Różne miejsca występowania",
+      "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/npc/her/piekielny_kosciej.gif",
+      "sourceUrl": "https://margoworld.pl/npc/view/19743/piekielny-kosciej-85lvl",
+      "drops": [
+        {
+          "itemId": "item-47822",
+          "name": "Cząstka siły Azelatho",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/nas/naszyjnik918.gif"
+        },
+        {
+          "itemId": "item-47824",
+          "name": "Manifestacja mocy Shurako",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/nas/naszyjnik919.gif"
+        },
+        {
+          "itemId": "item-59447",
+          "name": "Lekka skrytka mocy",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/bag/kuf_compontent_06.gif.gif"
+        }
+      ]
+    },
+    {
+      "id": "mw-npc-278168",
+      "name": "Koziec Mąciciel Ścieżek",
+      "type": "heros",
+      "level": 94,
+      "location": "Różne miejsca występowania",
+      "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/npc/her/koziec_maciciel_sciezek.gif",
+      "sourceUrl": "https://margoworld.pl/npc/view/278168/koziec-maciciel-sciezek-94lvl",
+      "drops": [
+        {
+          "itemId": "item-50300",
+          "name": "Kwiecista narzuta Koźca",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/sur/koziec_craft_02.gif"
+        },
+        {
+          "itemId": "item-50301",
+          "name": "Trzeci róg mąciciela",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/sur/koziec_craft_03.gif"
+        },
+        {
+          "itemId": "item-50302",
+          "name": "Bukiet kryształowych bazi",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/sur/koziec_craft_01.gif"
+        },
+        {
+          "itemId": "item-59447",
+          "name": "Lekka skrytka mocy",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/bag/kuf_compontent_06.gif.gif"
+        }
+      ]
+    },
+    {
+      "id": "mw-npc-17438",
+      "name": "Kochanka Nocy",
+      "type": "heros",
+      "level": 102,
+      "location": "Różne miejsca występowania",
+      "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/npc/her/kochanka-nocy.gif",
+      "sourceUrl": "https://margoworld.pl/npc/view/17438/kochanka-nocy-102lvl",
+      "drops": [
+        {
+          "itemId": "item-49493",
+          "name": "Oblicze smutku",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/hel/helm851.gif"
+        },
+        {
+          "itemId": "item-49494",
+          "name": "Hełm kochanka Nocnej Kochanki",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/hel/helm853.gif"
+        },
+        {
+          "itemId": "item-49495",
+          "name": "Maska nocnego szlochu",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/hel/helm852.gif"
+        },
+        {
+          "itemId": "item-59455",
+          "name": "Skrytka mocy",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/bag/kuf_compontent_06.gif.gif"
+        }
+      ]
+    },
+    {
+      "id": "mw-npc-27031",
+      "name": "Książe Kasim",
+      "type": "heros",
+      "level": 116,
+      "location": "Różne miejsca występowania",
+      "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/npc/her/ksiaze-kasim.gif",
+      "sourceUrl": "https://margoworld.pl/npc/view/27031/ksiaze-kasim-116lvl",
+      "drops": [
+        {
+          "itemId": "item-48892",
+          "name": "Klątwa tysiąca i jednej nocy",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/rek/rekawice1010.gif"
+        },
+        {
+          "itemId": "item-48929",
+          "name": "Szpony utraconej nadziei",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/rek/rekawice1009.gif"
+        },
+        {
+          "itemId": "item-48942",
+          "name": "Rękawy z pustynnych krain",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/rek/rekawice1011.gif"
+        },
+        {
+          "itemId": "item-59455",
+          "name": "Skrytka mocy",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/bag/kuf_compontent_06.gif.gif"
+        }
+      ]
+    },
+    {
+      "id": "mw-npc-322259",
+      "name": "Święty Braciszek",
+      "type": "heros",
+      "level": 123,
+      "location": "Różne miejsca występowania",
+      "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/npc/her/sw_braciszek.gif",
+      "sourceUrl": "https://margoworld.pl/npc/view/322259/swiety-braciszek-123lvl",
+      "drops": [
+        {
+          "itemId": "item-41277",
+          "name": "Medalion smakosza trunków",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/nas/naszyjnik1133.gif"
+        },
+        {
+          "itemId": "item-41278",
+          "name": "Tabernakulum z sekretną recepturą",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/nas/naszyjnik1135.gif"
+        },
+        {
+          "itemId": "item-41279",
+          "name": "Gwieździsta monstrancja",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/nas/naszyjnik1134.gif"
+        },
+        {
+          "itemId": "item-59455",
+          "name": "Skrytka mocy",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/bag/kuf_compontent_06.gif.gif"
+        }
+      ]
+    },
+    {
+      "id": "mw-npc-322260",
+      "name": "Złoty Roger",
+      "type": "heros",
+      "level": 135,
+      "location": "Różne miejsca występowania",
+      "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/npc/her/szkielet_pirata.gif",
+      "sourceUrl": "https://margoworld.pl/npc/view/322260/zloty-roger-135lvl",
+      "drops": [
+        {
+          "itemId": "item-51222",
+          "name": "Złowrogie czaszki Rogera",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/rek/rekawice1189.gif"
+        },
+        {
+          "itemId": "item-51223",
+          "name": "Wybuchowe przywitanie",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/rek/rekawice1191.gif"
+        },
+        {
+          "itemId": "item-51224",
+          "name": "Wspomnienie wielkiego korsarza",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/rek/rekawice1190.gif"
+        },
+        {
+          "itemId": "item-59455",
+          "name": "Skrytka mocy",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/bag/kuf_compontent_06.gif.gif"
+        }
+      ]
+    },
+    {
+      "id": "mw-npc-322261",
+      "name": "Baca bez Łowiec",
+      "type": "heros",
+      "level": 144,
+      "location": "Różne miejsca występowania",
+      "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/npc/her/baca-bez-lowiec.gif",
+      "sourceUrl": "https://margoworld.pl/npc/view/322261/baca-bez-lowiec-144lvl",
+      "drops": [
+        {
+          "itemId": "item-51463",
+          "name": "Serowe wahadełko",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/nas/naszyjnik1163.gif"
+        },
+        {
+          "itemId": "item-51464",
+          "name": "Sztuczka doświadczonego bacy",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/nas/naszyjnik1164.gif"
+        },
+        {
+          "itemId": "item-51465",
+          "name": "Eteryczny baran",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/nas/naszyjnik1162.gif"
+        },
+        {
+          "itemId": "item-59455",
+          "name": "Skrytka mocy",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/bag/kuf_compontent_06.gif.gif"
+        }
+      ]
+    },
+    {
+      "id": "mw-npc-30003",
+      "name": "Czarująca Atalia",
+      "type": "heros",
+      "level": 157,
+      "location": "Różne miejsca występowania",
+      "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/npc/her/czarujaca-atalia.gif",
+      "sourceUrl": "https://margoworld.pl/npc/view/30003/czarujaca-atalia-157lvl",
+      "drops": [
+        {
+          "itemId": "item-54941",
+          "name": "Pamiątka rodu czarownic",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/pie/pierscien1197.gif"
+        },
+        {
+          "itemId": "item-54942",
+          "name": "Pożeracz zmarszczek",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/pie/pierscien1195.gif"
+        },
+        {
+          "itemId": "item-54943",
+          "name": "Otok rodzinnych niesnasek",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/pie/pierscien1196.gif"
+        },
+        {
+          "itemId": "item-59455",
+          "name": "Skrytka mocy",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/bag/kuf_compontent_06.gif.gif"
+        }
+      ]
+    },
+    {
+      "id": "mw-npc-322262",
+      "name": "Obłąkany Łowca Orków",
+      "type": "heros",
+      "level": 165,
+      "location": "Różne miejsca występowania",
+      "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/npc/her/oblakany_ac1dae9d.gif",
+      "sourceUrl": "https://margoworld.pl/npc/view/322262/oblakany-lowca-orkow-165lvl",
+      "drops": [
+        {
+          "itemId": "item-54617",
+          "name": "Stalowa pięść obłąkańca",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/rek/rekawice1211.gif"
+        },
+        {
+          "itemId": "item-54618",
+          "name": "Mankiety z zerwanych sztandarów",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/rek/rekawice1213.gif"
+        },
+        {
+          "itemId": "item-54619",
+          "name": "Miażdżyciele orczych serc",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/rek/rekawice1212.gif"
+        },
+        {
+          "itemId": "item-59455",
+          "name": "Skrytka mocy",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/bag/kuf_compontent_06.gif.gif"
+        }
+      ]
+    },
+    {
+      "id": "mw-npc-322263",
+      "name": "Lichwiarz Grauhaz",
+      "type": "heros",
+      "level": 177,
+      "location": "Różne miejsca występowania",
+      "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/npc/her/lichwiarz_grauhaz.gif",
+      "sourceUrl": "https://margoworld.pl/npc/view/322263/lichwiarz-grauhaz-177lvl",
+      "drops": [
+        {
+          "itemId": "item-54647",
+          "name": "Kolia dumnego rodu",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/nas/naszyjnik1167.gif"
+        },
+        {
+          "itemId": "item-54648",
+          "name": "Klejnot smoczej choroby",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/nas/naszyjnik1166.gif"
+        },
+        {
+          "itemId": "item-54649",
+          "name": "Sopel z porzuconych kopalni",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/nas/naszyjnik1165.gif"
+        },
+        {
+          "itemId": "item-59455",
+          "name": "Skrytka mocy",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/bag/kuf_compontent_06.gif.gif"
+        }
+      ]
+    },
+    {
+      "id": "mw-npc-60397",
+      "name": "Viviana Nandin",
+      "type": "heros",
+      "level": 185,
+      "location": "Różne miejsca występowania",
+      "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/npc/her/viv_nandin_i3bd1.gif",
+      "sourceUrl": "https://margoworld.pl/npc/view/60397/viviana-nandin-185lvl",
+      "drops": [
+        {
+          "itemId": "item-41874",
+          "name": "Poroże leśnej bestii",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/hel/helm626.gif"
+        },
+        {
+          "itemId": "item-41873",
+          "name": "Eteryczny wieniec Viviany",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/hel/helm627.gif"
+        },
+        {
+          "itemId": "item-41872",
+          "name": "Kaptur strażniczki kniei",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/hel/helm628.gif"
+        },
+        {
+          "itemId": "item-59455",
+          "name": "Skrytka mocy",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/bag/kuf_compontent_06.gif.gif"
+        }
+      ]
+    },
+    {
+      "id": "mw-npc-361809",
+      "name": "Przeraza",
+      "type": "heros",
+      "level": 194,
+      "location": "Różne miejsca występowania",
+      "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/npc/her/przeraza.gif",
+      "sourceUrl": "https://margoworld.pl/npc/view/361809/przeraza-194lvl",
+      "drops": [
+        {
+          "itemId": "item-57404",
+          "name": "Dłonie wielu osobowości",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/rek/rekawice1370.gif"
+        },
+        {
+          "itemId": "item-57405",
+          "name": "Mankiety powiernika woli",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/rek/rekawice1372.gif"
+        },
+        {
+          "itemId": "item-59455",
+          "name": "Skrytka mocy",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/bag/kuf_compontent_06.gif.gif"
+        }
+      ]
+    },
+    {
+      "id": "mw-npc-21034",
+      "name": "Demonis Pan Nicości",
+      "type": "heros",
+      "level": 205,
+      "location": "Różne miejsca występowania",
+      "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/npc/her/sekta_demon_cz_s.gif",
+      "sourceUrl": "https://margoworld.pl/npc/view/21034/demonis-pan-nicosci-205lvl",
+      "drops": [
+        {
+          "itemId": "item-57406",
+          "name": "Krwawa relikwia",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/pie/pierscien1285.gif"
+        },
+        {
+          "itemId": "item-57407",
+          "name": "Nerw wzrokowy demona",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/pie/pierscien1286.gif"
+        },
+        {
+          "itemId": "item-57408",
+          "name": "Czarne Słońce",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/pie/pierscien1284.gif"
+        }
+      ]
+    },
+    {
+      "id": "mw-npc-364063",
+      "name": "Mulher Ma",
+      "type": "heros",
+      "level": 214,
+      "location": "Różne miejsca występowania",
+      "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/npc/her/mulher_ma.gif",
+      "sourceUrl": "https://margoworld.pl/npc/view/364063/mulher-ma-214lvl",
+      "drops": [
+        {
+          "itemId": "item-57409",
+          "name": "Obręcz Najwyższej Kapłanki",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/nas/naszyjnik1299.gif"
+        },
+        {
+          "itemId": "item-57410",
+          "name": "Kołnierz dekapitacji",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/nas/naszyjnik1300.gif"
+        },
+        {
+          "itemId": "item-57411",
+          "name": "Wdzięczność Pajęczycy",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/nas/naszyjnik1301.gif"
+        }
+      ]
+    },
+    {
+      "id": "mw-npc-109046",
+      "name": "Vapor Veneno",
+      "type": "heros",
+      "level": 231,
+      "location": "Różne miejsca występowania",
+      "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/npc/her/joziniec_bagienny.gif",
+      "sourceUrl": "https://margoworld.pl/npc/view/109046/vapor-veneno-231lvl",
+      "drops": [
+        {
+          "itemId": "item-58467",
+          "name": "Symbol wodnych narodzin",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/pie/pierscien1318.gif"
+        },
+        {
+          "itemId": "item-58468",
+          "name": "Błyskotka humanoidalnej natury",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/pie/pierscien1319.gif"
+        },
+        {
+          "itemId": "item-58469",
+          "name": "Pierścionek toksycznej fascynacji",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/pie/pierscien1320.gif"
+        }
+      ]
+    },
+    {
+      "id": "mw-npc-127764",
+      "name": "Dęborożec",
+      "type": "heros",
+      "level": 244,
+      "location": "Różne miejsca występowania",
+      "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/npc/her/zwierz_kniei.gif",
+      "sourceUrl": "https://margoworld.pl/npc/view/127764/deborozec-244lvl",
+      "drops": [
+        {
+          "itemId": "item-58759",
+          "name": "Gniew strażnika kniei",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/hel/helm1488.gif"
+        },
+        {
+          "itemId": "item-58760",
+          "name": "Czaszka wielkiego nieszczęśnika",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/hel/helm1487.gif"
+        },
+        {
+          "itemId": "item-58761",
+          "name": "Maska Puryfikacji",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/hel/helm1489.gif"
+        },
+        {
+          "itemId": "item-11066",
+          "name": "Smocza Runa",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/sur/smocza_runa3.gif"
+        },
+        {
+          "itemId": "item-59492",
+          "name": "Ciężka skrytka mocy",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/bag/kuf_compontent_06.gif.gif"
+        }
+      ]
+    },
+    {
+      "id": "mw-npc-54526",
+      "name": "Tepeyollotl",
+      "type": "heros",
+      "level": 258,
+      "location": "Różne miejsca występowania",
+      "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/npc/her/tep_35ecb966.gif",
+      "sourceUrl": "https://margoworld.pl/npc/view/54526/tepeyollotl-258lvl",
+      "drops": [
+        {
+          "itemId": "item-60092",
+          "name": "Symbol Wieczności",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/nas/naszyjnik1356.gif"
+        },
+        {
+          "itemId": "item-60093",
+          "name": "Kręgosłupy boskich bliźniąt",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/nas/naszyjnik1357.gif"
+        },
+        {
+          "itemId": "item-60094",
+          "name": "Brama do zaświatów",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/nas/naszyjnik1358.gif"
+        },
+        {
+          "itemId": "item-11066",
+          "name": "Smocza Runa",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/sur/smocza_runa3.gif"
+        },
+        {
+          "itemId": "item-59492",
+          "name": "Ciężka skrytka mocy",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/bag/kuf_compontent_06.gif.gif"
+        }
+      ]
+    },
+    {
+      "id": "mw-npc-382566",
+      "name": "Widmo Triady",
+      "type": "heros",
+      "level": 265,
+      "location": "Różne miejsca występowania",
+      "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/npc/her/trist2_widmo_triady.gif",
+      "sourceUrl": "https://margoworld.pl/npc/view/382566/widmo-triady-265lvl",
+      "drops": [
+        {
+          "itemId": "item-60221",
+          "name": "Kaptur wyzwolenia ducha",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/hel/helm1501.gif"
+        },
+        {
+          "itemId": "item-60222",
+          "name": "Ofiara eliksiru hydrofilowego",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/hel/helm1502.gif"
+        },
+        {
+          "itemId": "item-60223",
+          "name": "Przeklęta klatka na ptaki",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/hel/helm1503.gif"
+        },
+        {
+          "itemId": "item-11066",
+          "name": "Smocza Runa",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/sur/smocza_runa3.gif"
+        },
+        {
+          "itemId": "item-59492",
+          "name": "Ciężka skrytka mocy",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/bag/kuf_compontent_06.gif.gif"
+        }
+      ]
+    },
+    {
+      "id": "mw-npc-189044",
+      "name": "Negthotep Czarny Kapłan",
+      "type": "heros",
+      "level": 271,
+      "location": "Różne miejsca występowania",
+      "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/npc/her/negthotep.gif",
+      "sourceUrl": "https://margoworld.pl/npc/view/189044/negthotep-czarny-kaplan-271lvl",
+      "drops": [
+        {
+          "itemId": "item-32488",
+          "name": "Dłonie Czarnego Kapłana",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/rek/rekawice520.gif"
+        },
+        {
+          "itemId": "item-32489",
+          "name": "Złoty chwyt generała",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/rek/rekawice519.gif"
+        },
+        {
+          "itemId": "item-32490",
+          "name": "Palce demonicznego kompozytora",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/rek/rekawice521.gif"
+        }
+      ]
+    },
+    {
+      "id": "mw-npc-114998",
+      "name": "Młody Smok",
+      "type": "heros",
+      "level": 282,
+      "location": "Różne miejsca występowania",
+      "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/npc/her/smokbarb.gif",
+      "sourceUrl": "https://margoworld.pl/npc/view/114998/mlody-smok-282lvl",
+      "drops": [
+        {
+          "itemId": "item-21790",
+          "name": "Talizman smoczego boga",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/tal/tal32.gif"
+        }
+      ]
+    }
+  ]
+}
