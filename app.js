@@ -1,4 +1,4 @@
-const state = {
+﻿const state = {
   route: "elite2",
   q: "",
   sort: "level_asc",
@@ -24,12 +24,75 @@ function escapeHtml(text) {
     .replaceAll("'", "&#039;");
 }
 
+
+function getCurrencyMode() {
+  const raw = String(state?.config?.currency ?? "").trim().toLowerCase();
+  if (!raw) return "fixed";
+  if (raw === "auto") return "auto";
+  return "fixed";
+}
+
+function getCurrencyLabel() {
+  const mode = getCurrencyMode();
+  const raw = String(state?.config?.currency ?? "").trim();
+  if (!raw) return "";
+  if (mode === "auto") return "m/g";
+  return raw;
+}
+
+function getAutoCurrencySuffix(num) {
+  // 100/200/300… to `m`, a 1.1/1.2/2.1… to `g`
+  if (num === 1) return "g";
+  return Number.isInteger(num) ? "m" : "g";
+}
+
+function parsePriceNumber(value) {
+  if (value === null || value === undefined || value === "") return Number.NaN;
+  if (typeof value === "number") return value;
+  const raw = String(value).trim().toLowerCase().replaceAll(" ", "");
+  const m = raw.match(/^(-?\d+(?:[\.,]\d+)?)([mg])$/);
+  if (m) return Number(m[1].replace(",", "."));
+  return Number(raw.replace(",", "."));
+}
+
+function parsePriceInput(raw) {
+  const cleaned = String(raw ?? "").trim();
+  if (cleaned === "") return null;
+
+  const compact = cleaned.replaceAll(" ", "").toLowerCase();
+  const m = compact.match(/^(-?\d+(?:[\.,]\d+)?)([mg])$/);
+  if (m) {
+    const num = m[1].replace(",", ".");
+    return `${num}${m[2]}`;
+  }
+
+  const num = Number(compact.replace(",", "."));
+  if (Number.isNaN(num)) return undefined;
+  return num;
+}
 function formatPrice(value) {
-  const currency = state?.config?.currency ?? "";
-  if (value === null || value === undefined || value === "") return "—";
-  const num = Number(value);
-  if (Number.isNaN(num)) return `${escapeHtml(String(value))}${currency ? ` ${currency}` : ""}`;
-  return `${num.toLocaleString("pl-PL")}${currency ? ` ${currency}` : ""}`;
+  if (value === null || value === undefined || value === "") return "-";
+
+  // Jeśli użytkownik wpisał jawnie `m`/`g`, wyświetl dokładnie w tej walucie.
+  if (typeof value === "string") {
+    const compact = value.trim().replaceAll(" ", "").toLowerCase();
+    const m = compact.match(/^(-?\d+(?:[\.,]\d+)?)([mg])$/);
+    if (m) {
+      const num = Number(m[1].replace(",", "."));
+      if (!Number.isNaN(num)) return `${num.toLocaleString("pl-PL")} ${m[2]}`;
+    }
+  }
+
+  const num = parsePriceNumber(value);
+  if (Number.isNaN(num)) {
+    const currency = state?.config?.currency ?? "";
+    return `${escapeHtml(String(value))}${currency ? ` ${currency}` : ""}`;
+  }
+
+  const currencyMode = getCurrencyMode();
+  const currency = currencyMode === "auto" ? "" : (state?.config?.currency ?? "");
+  const suffix = currencyMode === "auto" ? getAutoCurrencySuffix(num) : currency;
+  return `${num.toLocaleString("pl-PL")}${suffix ? ` ${suffix}` : ""}`;
 }
 
 function safeJsonParse(text) {
@@ -127,7 +190,7 @@ function monsterValueSum(monster) {
   let sum = 0;
   for (const d of drops) {
     const p = itemPrice(d.itemId);
-    const n = Number(p);
+    const n = parsePriceNumber(p);
     if (!Number.isNaN(n)) sum += n;
   }
   return sum;
@@ -194,12 +257,10 @@ function renderMonsterCard(monster) {
                 <div class="price">
                   ${
                     canEdit
-                      ? `<input class="priceInput" inputmode="numeric" pattern="[0-9]*" data-item-id="${escapeHtml(
+                      ? `<input class="priceInput" inputmode="decimal" pattern="[0-9]+([\\.,][0-9]+)?[mMgG]?" data-item-id="${escapeHtml(
                           drop.itemId
-                        )}" value="${escapeHtml(priceValue === null ? "" : String(priceValue))}" placeholder="np. 150000" />`
-                      : `${formatPrice(item?.price)}${
-                          item?.price !== undefined && item?.price !== null ? `<span class="muted">/ szt.</span>` : ""
-                        }`
+                        )}" value="${escapeHtml(priceValue === null ? "" : String(priceValue))}" placeholder="np. 200m albo 1.2g" />`
+                      : `${formatPrice(item?.price)}`
                   }
                 </div>
               </div>`;
@@ -295,7 +356,7 @@ function applyConfigToUi() {
 
   const currencyPill = document.getElementById("currencyPill");
   if (currencyPill && !currencyPill.hasAttribute("hidden")) {
-    currencyPill.textContent = `Waluta: ${state?.config?.currency ?? "—"}`;
+    currencyPill.textContent = `Waluta: ${getCurrencyLabel() || "—"}`;
   }
 }
 
@@ -334,14 +395,14 @@ function wireUi() {
       const itemId = t.dataset.itemId || "";
       if (!itemId) return;
       const raw = String(t.value ?? "").trim();
-      const next = raw === "" ? null : Number(raw.replaceAll(" ", ""));
-      if (raw !== "" && Number.isNaN(next)) return;
+      const parsed = parsePriceInput(raw);
+      if (raw !== "" && parsed === undefined) return;
 
-      state.localPriceOverrides[itemId] = next;
+      state.localPriceOverrides[itemId] = parsed;
       saveLocalPriceOverrides(state.localPriceOverrides);
 
       const item = state.itemsById.get(itemId);
-      if (item) item.price = next;
+      if (item) item.price = parsed;
     });
   }
 
@@ -357,7 +418,7 @@ function wireUi() {
       const payload = {
         version: 1,
         exportedAt: new Date().toISOString(),
-        currency: state?.config?.currency ?? "",
+        currency: getCurrencyLabel(),
         prices
       };
       downloadJson("prices.json", payload);
