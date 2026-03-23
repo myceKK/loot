@@ -85,7 +85,8 @@ function formatPrice(value) {
 
   const num = parsePriceNumber(value);
   if (Number.isNaN(num)) {
-    const currency = state?.config?.currency ?? "";
+    const currencyMode = getCurrencyMode();
+    const currency = currencyMode === "auto" ? "" : (state?.config?.currency ?? "");
     return `${escapeHtml(String(value))}${currency ? ` ${currency}` : ""}`;
   }
 

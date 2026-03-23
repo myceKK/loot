@@ -51,7 +51,7 @@
     {
       "id": "item-60094",
       "name": "Brama do zaświatów",
-      "price": 1.5,
+      "price": "1.5g",
       "note": "",
       "sourceUrl": "https://margoworld.pl/item/view/60094/brama-do-zaswiatow",
       "legendary": true,
@@ -63,7 +63,7 @@
     {
       "id": "item-44972",
       "name": "Bransolety łąkowego terroru",
-      "price": 800,
+      "price": "800m",
       "note": "",
       "sourceUrl": "https://margoworld.pl/item/view/44972/bransolety-lakowego-terroru",
       "legendary": true,
@@ -75,7 +75,7 @@
     {
       "id": "item-12088",
       "name": "Brylantowe rękawice tolloka",
-      "price": 750,
+      "price": "750m",
       "note": "",
       "sourceUrl": "https://margoworld.pl/item/view/12088/brylantowe-rekawice-tolloka",
       "legendary": true,
@@ -99,7 +99,7 @@
     {
       "id": "item-56569",
       "name": "Buciory lidera szajki",
-      "price": 500,
+      "price": "500m",
       "note": "",
       "sourceUrl": "https://margoworld.pl/item/view/56569/buciory-lidera-szajki",
       "legendary": true,
@@ -123,7 +123,7 @@
     {
       "id": "item-50302",
       "name": "Bukiet kryształowych bazi",
-      "price": 700,
+      "price": "700m",
       "note": "",
       "sourceUrl": "https://margoworld.pl/item/view/50302/bukiet-krysztalowych-bazi",
       "legendary": true,
@@ -183,7 +183,7 @@
     {
       "id": "item-47813",
       "name": "Błyskotka Wielkiej Stopy",
-      "price": 1,
+      "price": "1g",
       "note": "",
       "sourceUrl": "https://margoworld.pl/item/view/47813/blyskotka-wielkiej-stopy",
       "legendary": true,
@@ -195,7 +195,7 @@
     {
       "id": "item-45966",
       "name": "Błękitna duma tolloka",
-      "price": 500,
+      "price": "500m",
       "note": "",
       "sourceUrl": "https://margoworld.pl/item/view/45966/blekitna-duma-tolloka",
       "legendary": true,
@@ -219,7 +219,7 @@
     {
       "id": "item-47700",
       "name": "Cacko ze splądrowanego grobowca",
-      "price": 1,
+      "price": "1g",
       "note": "",
       "sourceUrl": "https://margoworld.pl/item/view/47700/cacko-ze-spladrowanego-grobowca",
       "legendary": true,
@@ -231,7 +231,7 @@
     {
       "id": "item-1612",
       "name": "Chluba jaskiniowych tolloków",
-      "price": 750,
+      "price": "750m",
       "note": "",
       "sourceUrl": "https://margoworld.pl/item/view/1612/chluba-jaskiniowych-tollokow",
       "legendary": true,
@@ -327,7 +327,7 @@
     {
       "id": "item-45555",
       "name": "Chrumkająca ozdoba dzika",
-      "price": 500,
+      "price": "500m",
       "note": "",
       "sourceUrl": "https://margoworld.pl/item/view/45555/chrumkajaca-ozdoba-dzika",
       "legendary": true,
@@ -363,7 +363,7 @@
     {
       "id": "item-45437",
       "name": "Chwyt niestygnącej krwi",
-      "price": 750,
+      "price": "750m",
       "note": "",
       "sourceUrl": "https://margoworld.pl/item/view/45437/chwyt-niestygnacej-krwi",
       "legendary": true,
@@ -375,7 +375,7 @@
     {
       "id": "item-59497",
       "name": "Ciężka skrytka elektrycznej mocy",
-      "price": 1.5,
+      "price": "1.5g",
       "note": "",
       "sourceUrl": "https://margoworld.pl/item/view/59497/ciezka-skrytka-elektrycznej-mocy",
       "legendary": true,
@@ -399,7 +399,7 @@
     {
       "id": "item-59496",
       "name": "Ciężka skrytka lodowej mocy",
-      "price": 1.5,
+      "price": "1.5g",
       "note": "",
       "sourceUrl": "https://margoworld.pl/item/view/59496/ciezka-skrytka-lodowej-mocy",
       "legendary": true,
@@ -423,7 +423,7 @@
     {
       "id": "item-59494",
       "name": "Ciężka skrytka ognistej mocy",
-      "price": 1.5,
+      "price": "1.5g",
       "note": "",
       "sourceUrl": "https://margoworld.pl/item/view/59494/ciezka-skrytka-ognistej-mocy",
       "legendary": true,
@@ -435,7 +435,7 @@
     {
       "id": "item-59493",
       "name": "Ciężka skrytka stalowej mocy",
-      "price": 1.5,
+      "price": "1.5g",
       "note": "",
       "sourceUrl": "https://margoworld.pl/item/view/59493/ciezka-skrytka-stalowej-mocy",
       "legendary": true,
@@ -471,7 +471,7 @@
     {
       "id": "item-44053",
       "name": "Cudeńko ze skarbca dławicieli",
-      "price": 1,
+      "price": "1g",
       "note": "",
       "sourceUrl": "https://margoworld.pl/item/view/44053/cudenko-ze-skarbca-dlawicieli",
       "legendary": true,
@@ -507,7 +507,7 @@
     {
       "id": "item-50666",
       "name": "Czaszka poległego lewiatana",
-      "price": 800,
+      "price": "800m",
       "note": "",
       "sourceUrl": "https://margoworld.pl/item/view/50666/czaszka-poleglego-lewiatana",
       "legendary": true,
@@ -519,7 +519,7 @@
     {
       "id": "item-47726",
       "name": "Czaszka pośmiertnego stężenia",
-      "price": 1,
+      "price": "1g",
       "note": "",
       "sourceUrl": "https://margoworld.pl/item/view/47726/czaszka-posmiertnego-stezenia",
       "legendary": true,
@@ -531,7 +531,7 @@
     {
       "id": "item-56563",
       "name": "Czaszka Przeznaczenia",
-      "price": 600,
+      "price": "600m",
       "note": "",
       "sourceUrl": "https://margoworld.pl/item/view/56563/czaszka-przeznaczenia",
       "legendary": true,
@@ -555,7 +555,7 @@
     {
       "id": "item-47822",
       "name": "Cząstka siły Azelatho",
-      "price": 1.2,
+      "price": "1.2g",
       "note": "",
       "sourceUrl": "https://margoworld.pl/item/view/47822/czastka-sily-azelatho",
       "legendary": true,
@@ -603,7 +603,7 @@
     {
       "id": "item-46972",
       "name": "Dotyk zwodniczych mgieł",
-      "price": 1,
+      "price": "1g",
       "note": "",
       "sourceUrl": "https://margoworld.pl/item/view/46972/dotyk-zwodniczych-mgiel",
       "legendary": true,
@@ -627,7 +627,7 @@
     {
       "id": "item-34791",
       "name": "Dusza Światła",
-      "price": 500,
+      "price": "500m",
       "note": "",
       "sourceUrl": "https://margoworld.pl/item/view/34791/dusza-swiatla",
       "legendary": true,
@@ -639,7 +639,7 @@
     {
       "id": "item-46973",
       "name": "Dwulicowy chwyt mnicha",
-      "price": 1,
+      "price": "1g",
       "note": "",
       "sourceUrl": "https://margoworld.pl/item/view/46973/dwulicowy-chwyt-mnicha",
       "legendary": true,
@@ -663,7 +663,7 @@
     {
       "id": "item-45553",
       "name": "Dzikie ryjki",
-      "price": 500,
+      "price": "500m",
       "note": "",
       "sourceUrl": "https://margoworld.pl/item/view/45553/dzikie-ryjki",
       "legendary": true,
@@ -675,7 +675,7 @@
     {
       "id": "item-32488",
       "name": "Dłonie Czarnego Kapłana",
-      "price": 1.4,
+      "price": "1.4g",
       "note": "",
       "sourceUrl": "https://margoworld.pl/item/view/32488/dlonie-czarnego-kaplana",
       "legendary": true,
@@ -795,7 +795,7 @@
     {
       "id": "item-41393",
       "name": "Futrzana czapa szaleńca",
-      "price": 700,
+      "price": "700m",
       "note": "",
       "sourceUrl": "https://margoworld.pl/item/view/41393/futrzana-czapa-szalenca",
       "legendary": true,
@@ -879,7 +879,7 @@
     {
       "id": "item-41279",
       "name": "Gwieździsta monstrancja",
-      "price": 900,
+      "price": "900m",
       "note": "",
       "sourceUrl": "https://margoworld.pl/item/view/41279/gwiezdzista-monstrancja",
       "legendary": true,
@@ -891,7 +891,7 @@
     {
       "id": "item-49494",
       "name": "Hełm kochanka Nocnej Kochanki",
-      "price": 1.3,
+      "price": "1.3g",
       "note": "",
       "sourceUrl": "https://margoworld.pl/item/view/49494/helm-kochanka-nocnej-kochanki",
       "legendary": true,
@@ -915,7 +915,7 @@
     {
       "id": "item-58596",
       "name": "Kajdany bagiennego bulgotania",
-      "price": 1.2,
+      "price": "1.2g",
       "note": "",
       "sourceUrl": "https://margoworld.pl/item/view/58596/kajdany-bagiennego-bulgotania",
       "legendary": true,
@@ -927,7 +927,7 @@
     {
       "id": "item-45436",
       "name": "Kajdany gniewnej tułaczki",
-      "price": 1.2,
+      "price": "1.2g",
       "note": "",
       "sourceUrl": "https://margoworld.pl/item/view/45436/kajdany-gniewnej-tulaczki",
       "legendary": true,
@@ -963,7 +963,7 @@
     {
       "id": "item-56577",
       "name": "Kamienne trzewiki",
-      "price": 1,
+      "price": "1g",
       "note": "",
       "sourceUrl": "https://margoworld.pl/item/view/56577/kamienne-trzewiki",
       "legendary": true,
@@ -975,7 +975,7 @@
     {
       "id": "item-34394",
       "name": "Kamuflaż przyczajonego kocura",
-      "price": 400,
+      "price": "400m",
       "note": "",
       "sourceUrl": "https://margoworld.pl/item/view/34394/kamuflaz-przyczajonego-kocura",
       "legendary": true,
@@ -987,7 +987,7 @@
     {
       "id": "item-45349",
       "name": "Kapelusz wiecznej udręki",
-      "price": 650,
+      "price": "650m",
       "note": "",
       "sourceUrl": "https://margoworld.pl/item/view/45349/kapelusz-wiecznej-udreki",
       "legendary": true,
@@ -999,7 +999,7 @@
     {
       "id": "item-29861",
       "name": "Kaptur Magii Początku",
-      "price": 600,
+      "price": "600m",
       "note": "",
       "sourceUrl": "https://margoworld.pl/item/view/29861/kaptur-magii-poczatku",
       "legendary": true,
@@ -1035,7 +1035,7 @@
     {
       "id": "item-50598",
       "name": "Karminowe opętanie",
-      "price": 800,
+      "price": "800m",
       "note": "",
       "sourceUrl": "https://margoworld.pl/item/view/50598/karminowe-opetanie",
       "legendary": true,
@@ -1047,7 +1047,7 @@
     {
       "id": "item-34393",
       "name": "Kask wiedźmiego chowańca",
-      "price": 400,
+      "price": "400m",
       "note": "",
       "sourceUrl": "https://margoworld.pl/item/view/34393/kask-wiedzmiego-chowanca",
       "legendary": true,
@@ -1083,7 +1083,7 @@
     {
       "id": "item-42221",
       "name": "Klamry przewrotowca",
-      "price": 1,
+      "price": "1g",
       "note": "",
       "sourceUrl": "https://margoworld.pl/item/view/42221/klamry-przewrotowca",
       "legendary": true,
@@ -1107,7 +1107,7 @@
     {
       "id": "item-59508",
       "name": "Klejnot ognistej pożogi",
-      "price": 1,
+      "price": "1g",
       "note": "",
       "sourceUrl": "https://margoworld.pl/item/view/59508/klejnot-ognistej-pozogi",
       "legendary": true,
@@ -1131,7 +1131,7 @@
     {
       "id": "item-34811",
       "name": "Klejnot turrimu",
-      "price": 800,
+      "price": "800m",
       "note": "",
       "sourceUrl": "https://margoworld.pl/item/view/34811/klejnot-turrimu",
       "legendary": true,
@@ -1143,7 +1143,7 @@
     {
       "id": "item-34772",
       "name": "Klejnot Wielkich Jezior",
-      "price": 500,
+      "price": "500m",
       "note": "",
       "sourceUrl": "https://margoworld.pl/item/view/34772/klejnot-wielkich-jezior",
       "legendary": true,
@@ -1155,7 +1155,7 @@
     {
       "id": "item-31129",
       "name": "Klejnot świątynny",
-      "price": 1.5,
+      "price": "1.5g",
       "note": "",
       "sourceUrl": "https://margoworld.pl/item/view/31129/klejnot-swiatynny",
       "legendary": true,
@@ -1167,7 +1167,7 @@
     {
       "id": "item-48892",
       "name": "Klątwa tysiąca i jednej nocy",
-      "price": 1.3,
+      "price": "1.3g",
       "note": "",
       "sourceUrl": "https://margoworld.pl/item/view/48892/klatwa-tysiaca-i-jednej-nocy",
       "legendary": true,
@@ -1227,7 +1227,7 @@
     {
       "id": "item-50236",
       "name": "Kopyta demonicznej manifestacji",
-      "price": 1,
+      "price": "1g",
       "note": "",
       "sourceUrl": "https://margoworld.pl/item/view/50236/kopyta-demonicznej-manifestacji",
       "legendary": true,
@@ -1263,7 +1263,7 @@
     {
       "id": "item-56570",
       "name": "Korona tańczących płomieni",
-      "price": 1,
+      "price": "1g",
       "note": "",
       "sourceUrl": "https://margoworld.pl/item/view/56570/korona-tanczacych-plomieni",
       "legendary": true,
@@ -1347,7 +1347,7 @@
     {
       "id": "item-47702",
       "name": "Krok żałobnych orszaków",
-      "price": 1,
+      "price": "1g",
       "note": "",
       "sourceUrl": "https://margoworld.pl/item/view/47702/krok-zalobnych-orszakow",
       "legendary": true,
@@ -1395,7 +1395,7 @@
     {
       "id": "item-50597",
       "name": "Krwawy płomień bluźnierstwa",
-      "price": 800,
+      "price": "800m",
       "note": "",
       "sourceUrl": "https://margoworld.pl/item/view/50597/krwawy-plomien-bluznierstwa",
       "legendary": true,
@@ -1419,7 +1419,7 @@
     {
       "id": "item-9434",
       "name": "Kryształ lodowatego powiewu",
-      "price": 400,
+      "price": "400m",
       "note": "",
       "sourceUrl": "https://margoworld.pl/item/view/9434/krysztal-lodowatego-powiewu",
       "legendary": true,
@@ -1431,7 +1431,7 @@
     {
       "id": "item-9433",
       "name": "Kryształ przeszywającego chłodu",
-      "price": 500,
+      "price": "500m",
       "note": "",
       "sourceUrl": "https://margoworld.pl/item/view/9433/krysztal-przeszywajacego-chlodu",
       "legendary": true,
@@ -1443,7 +1443,7 @@
     {
       "id": "item-20099",
       "name": "Kryształ w obrączce Vaenry",
-      "price": 1.5,
+      "price": "1.5g",
       "note": "",
       "sourceUrl": "https://margoworld.pl/item/view/20099/krysztal-w-obraczce-vaenry",
       "legendary": true,
@@ -1455,7 +1455,7 @@
     {
       "id": "item-9432",
       "name": "Kryształ wiecznej zmarzliny",
-      "price": 400,
+      "price": "400m",
       "note": "",
       "sourceUrl": "https://margoworld.pl/item/view/9432/krysztal-wiecznej-zmarzliny",
       "legendary": true,
@@ -1479,7 +1479,7 @@
     {
       "id": "item-60093",
       "name": "Kręgosłupy boskich bliźniąt",
-      "price": 1.5,
+      "price": "1.5g",
       "note": "",
       "sourceUrl": "https://margoworld.pl/item/view/60093/kregoslupy-boskich-blizniat",
       "legendary": true,
@@ -1491,7 +1491,7 @@
     {
       "id": "item-50300",
       "name": "Kwiecista narzuta Koźca",
-      "price": 700,
+      "price": "700m",
       "note": "",
       "sourceUrl": "https://margoworld.pl/item/view/50300/kwiecista-narzuta-kozca",
       "legendary": true,
@@ -1515,7 +1515,7 @@
     {
       "id": "item-59451",
       "name": "Lekka skrytka elektrycznej mocy",
-      "price": 700,
+      "price": "700m",
       "note": "",
       "sourceUrl": "https://margoworld.pl/item/view/59451/lekka-skrytka-elektrycznej-mocy",
       "legendary": true,
@@ -1527,7 +1527,7 @@
     {
       "id": "item-59452",
       "name": "Lekka skrytka jadowej mocy",
-      "price": 700,
+      "price": "700m",
       "note": "",
       "sourceUrl": "https://margoworld.pl/item/view/59452/lekka-skrytka-jadowej-mocy",
       "legendary": true,
@@ -1539,7 +1539,7 @@
     {
       "id": "item-59450",
       "name": "Lekka skrytka lodowej mocy",
-      "price": 700,
+      "price": "700m",
       "note": "",
       "sourceUrl": "https://margoworld.pl/item/view/59450/lekka-skrytka-lodowej-mocy",
       "legendary": true,
@@ -1551,7 +1551,7 @@
     {
       "id": "item-59447",
       "name": "Lekka skrytka mocy",
-      "price": 700,
+      "price": "700m",
       "note": "",
       "sourceUrl": "https://margoworld.pl/item/view/59447/lekka-skrytka-mocy",
       "legendary": true,
@@ -1563,7 +1563,7 @@
     {
       "id": "item-59449",
       "name": "Lekka skrytka ognistej mocy",
-      "price": 700,
+      "price": "700m",
       "note": "",
       "sourceUrl": "https://margoworld.pl/item/view/59449/lekka-skrytka-ognistej-mocy",
       "legendary": true,
@@ -1575,7 +1575,7 @@
     {
       "id": "item-59448",
       "name": "Lekka skrytka stalowej mocy",
-      "price": 700,
+      "price": "700m",
       "note": "",
       "sourceUrl": "https://margoworld.pl/item/view/59448/lekka-skrytka-stalowej-mocy",
       "legendary": true,
@@ -1611,7 +1611,7 @@
     {
       "id": "item-56590",
       "name": "Magiczne ciżemki Zorga",
-      "price": 500,
+      "price": "500m",
       "note": "",
       "sourceUrl": "https://margoworld.pl/item/view/56590/magiczne-cizemki-zorga",
       "legendary": true,
@@ -1623,7 +1623,7 @@
     {
       "id": "item-47824",
       "name": "Manifestacja mocy Shurako",
-      "price": 1.2,
+      "price": "1.2g",
       "note": "",
       "sourceUrl": "https://margoworld.pl/item/view/47824/manifestacja-mocy-shurako",
       "legendary": true,
@@ -1671,7 +1671,7 @@
     {
       "id": "item-19005",
       "name": "Maska Akumu",
-      "price": 500,
+      "price": "500m",
       "note": "",
       "sourceUrl": "https://margoworld.pl/item/view/19005/maska-akumu",
       "legendary": true,
@@ -1683,7 +1683,7 @@
     {
       "id": "item-34395",
       "name": "Maska dziewięciu żywotów",
-      "price": 400,
+      "price": "400m",
       "note": "",
       "sourceUrl": "https://margoworld.pl/item/view/34395/maska-dziewieciu-zywotow",
       "legendary": true,
@@ -1695,7 +1695,7 @@
     {
       "id": "item-46478",
       "name": "Maska mrocznego sługi",
-      "price": 600,
+      "price": "600m",
       "note": "",
       "sourceUrl": "https://margoworld.pl/item/view/46478/maska-mrocznego-slugi",
       "legendary": true,
@@ -1707,7 +1707,7 @@
     {
       "id": "item-49495",
       "name": "Maska nocnego szlochu",
-      "price": 1.3,
+      "price": "1.3g",
       "note": "",
       "sourceUrl": "https://margoworld.pl/item/view/49495/maska-nocnego-szlochu",
       "legendary": true,
@@ -1755,7 +1755,7 @@
     {
       "id": "item-9241",
       "name": "Maska złodzieja",
-      "price": 500,
+      "price": "500m",
       "note": "",
       "sourceUrl": "https://margoworld.pl/item/view/9241/maska-zlodzieja",
       "legendary": true,
@@ -1779,7 +1779,7 @@
     {
       "id": "item-41277",
       "name": "Medalion smakosza trunków",
-      "price": 900,
+      "price": "900m",
       "note": "",
       "sourceUrl": "https://margoworld.pl/item/view/41277/medalion-smakosza-trunkow",
       "legendary": true,
@@ -1839,7 +1839,7 @@
     {
       "id": "item-50235",
       "name": "Miękkie racice bandyty",
-      "price": 1,
+      "price": "1g",
       "note": "",
       "sourceUrl": "https://margoworld.pl/item/view/50235/miekkie-racice-bandyty",
       "legendary": true,
@@ -1851,7 +1851,7 @@
     {
       "id": "item-46999",
       "name": "Mrozoodporne kamasze Jotuna",
-      "price": 800,
+      "price": "800m",
       "note": "",
       "sourceUrl": "https://margoworld.pl/item/view/46999/mrozoodporne-kamasze-jotuna",
       "legendary": true,
@@ -1887,7 +1887,7 @@
     {
       "id": "item-47728",
       "name": "Naczynie odizolowanej duszy",
-      "price": 1,
+      "price": "1g",
       "note": "",
       "sourceUrl": "https://margoworld.pl/item/view/47728/naczynie-odizolowanej-duszy",
       "legendary": true,
@@ -1923,7 +1923,7 @@
     {
       "id": "item-45554",
       "name": "Naramienniki przywódcy watahy",
-      "price": 500,
+      "price": "500m",
       "note": "",
       "sourceUrl": "https://margoworld.pl/item/view/45554/naramienniki-przywodcy-watahy",
       "legendary": true,
@@ -1935,7 +1935,7 @@
     {
       "id": "item-45967",
       "name": "Nasiono burzy",
-      "price": 500,
+      "price": "500m",
       "note": "",
       "sourceUrl": "https://margoworld.pl/item/view/45967/nasiono-burzy",
       "legendary": true,
@@ -1971,7 +1971,7 @@
     {
       "id": "item-34564",
       "name": "Nekromantki cmentarnej dziewicy",
-      "price": 500,
+      "price": "500m",
       "note": "",
       "sourceUrl": "https://margoworld.pl/item/view/34564/nekromantki-cmentarnej-dziewicy",
       "legendary": true,
@@ -2043,7 +2043,7 @@
     {
       "id": "item-25645",
       "name": "Nimb emanującego kła",
-      "price": 500,
+      "price": "500m",
       "note": "",
       "sourceUrl": "https://margoworld.pl/item/view/25645/nimb-emanujacego-kla",
       "legendary": true,
@@ -2055,7 +2055,7 @@
     {
       "id": "item-44973",
       "name": "Objęcia propolisu",
-      "price": 800,
+      "price": "800m",
       "note": "",
       "sourceUrl": "https://margoworld.pl/item/view/44973/objecia-propolisu",
       "legendary": true,
@@ -2067,7 +2067,7 @@
     {
       "id": "item-42229",
       "name": "Oblicze dokuczliwych biesów",
-      "price": 1.2,
+      "price": "1.2g",
       "note": "",
       "sourceUrl": "https://margoworld.pl/item/view/42229/oblicze-dokuczliwych-biesow",
       "legendary": true,
@@ -2079,7 +2079,7 @@
     {
       "id": "item-49493",
       "name": "Oblicze smutku",
-      "price": 1.3,
+      "price": "1.3g",
       "note": "",
       "sourceUrl": "https://margoworld.pl/item/view/49493/oblicze-smutku",
       "legendary": true,
@@ -2163,7 +2163,7 @@
     {
       "id": "item-56568",
       "name": "Obuwie upadłego barona",
-      "price": 500,
+      "price": "500m",
       "note": "",
       "sourceUrl": "https://margoworld.pl/item/view/56568/obuwie-upadlego-barona",
       "legendary": true,
@@ -2199,7 +2199,7 @@
     {
       "id": "item-49071",
       "name": "Odlew najwyższej próby",
-      "price": 800,
+      "price": "800m",
       "note": "",
       "sourceUrl": "https://margoworld.pl/item/view/49071/odlew-najwyzszej-proby",
       "legendary": true,
@@ -2355,7 +2355,7 @@
     {
       "id": "item-50596",
       "name": "Ozdoba fałszywego bożka",
-      "price": 800,
+      "price": "800m",
       "note": "",
       "sourceUrl": "https://margoworld.pl/item/view/50596/ozdoba-falszywego-bozka",
       "legendary": true,
@@ -2403,7 +2403,7 @@
     {
       "id": "item-32490",
       "name": "Palce demonicznego kompozytora",
-      "price": 1.4,
+      "price": "1.4g",
       "note": "",
       "sourceUrl": "https://margoworld.pl/item/view/32490/palce-demonicznego-kompozytora",
       "legendary": true,
@@ -2439,7 +2439,7 @@
     {
       "id": "item-45973",
       "name": "Pamiątka z Tuzmer",
-      "price": 800,
+      "price": "800m",
       "note": "",
       "sourceUrl": "https://margoworld.pl/item/view/45973/pamiatka-z-tuzmer",
       "legendary": true,
@@ -2451,7 +2451,7 @@
     {
       "id": "item-37121",
       "name": "Pancerna pięść wojownika Shaiharrud",
-      "price": 1,
+      "price": "1g",
       "note": "",
       "sourceUrl": "https://margoworld.pl/item/view/37121/pancerna-piesc-wojownika-shaiharrud",
       "legendary": true,
@@ -2475,7 +2475,7 @@
     {
       "id": "item-36607",
       "name": "Pantofle Madame Baterflaj",
-      "price": 750,
+      "price": "750m",
       "note": "",
       "sourceUrl": "https://margoworld.pl/item/view/36607/pantofle-madame-baterflaj",
       "legendary": true,
@@ -2511,7 +2511,7 @@
     {
       "id": "item-44974",
       "name": "Paskudzące żądła Matki",
-      "price": 800,
+      "price": "800m",
       "note": "",
       "sourceUrl": "https://margoworld.pl/item/view/44974/paskudzace-zadla-matki",
       "legendary": true,
@@ -2559,7 +2559,7 @@
     {
       "id": "item-47727",
       "name": "Pieczęć dusz śniegu",
-      "price": 1,
+      "price": "1g",
       "note": "",
       "sourceUrl": "https://margoworld.pl/item/view/47727/pieczec-dusz-sniegu",
       "legendary": true,
@@ -2679,7 +2679,7 @@
     {
       "id": "item-34762",
       "name": "Plugawe przekleństwo wiedźmy",
-      "price": 600,
+      "price": "600m",
       "note": "",
       "sourceUrl": "https://margoworld.pl/item/view/34762/plugawe-przeklenstwo-wiedzmy",
       "legendary": true,
@@ -2703,7 +2703,7 @@
     {
       "id": "item-47701",
       "name": "Pneumatyczny chwyt grabarza",
-      "price": 1,
+      "price": "1g",
       "note": "",
       "sourceUrl": "https://margoworld.pl/item/view/47701/pneumatyczny-chwyt-grabarza",
       "legendary": true,
@@ -2739,7 +2739,7 @@
     {
       "id": "item-49091",
       "name": "Podarek krasnoludzkiego monarchy",
-      "price": 800,
+      "price": "800m",
       "note": "",
       "sourceUrl": "https://margoworld.pl/item/view/49091/podarek-krasnoludzkiego-monarchy",
       "legendary": true,
@@ -2763,7 +2763,7 @@
     {
       "id": "item-56578",
       "name": "Podeszwy magicznej wyniosłości",
-      "price": 1,
+      "price": "1g",
       "note": "",
       "sourceUrl": "https://margoworld.pl/item/view/56578/podeszwy-magicznej-wynioslosci",
       "legendary": true,
@@ -2799,7 +2799,7 @@
     {
       "id": "item-45972",
       "name": "Podwójne podeszwy złodzieja",
-      "price": 800,
+      "price": "800m",
       "note": "",
       "sourceUrl": "https://margoworld.pl/item/view/45972/podwojne-podeszwy-zlodzieja",
       "legendary": true,
@@ -2823,7 +2823,7 @@
     {
       "id": "item-44054",
       "name": "Popis zapomnianego kowala",
-      "price": 1,
+      "price": "1g",
       "note": "",
       "sourceUrl": "https://margoworld.pl/item/view/44054/popis-zapomnianego-kowala",
       "legendary": true,
@@ -2943,7 +2943,7 @@
     {
       "id": "item-49089",
       "name": "Przesłona rządów strachu",
-      "price": 800,
+      "price": "800m",
       "note": "",
       "sourceUrl": "https://margoworld.pl/item/view/49089/przeslona-rzadow-strachu",
       "legendary": true,
@@ -2955,7 +2955,7 @@
     {
       "id": "item-59515",
       "name": "Przyłbica filtracyjna",
-      "price": 1,
+      "price": "1g",
       "note": "",
       "sourceUrl": "https://margoworld.pl/item/view/59515/przylbica-filtracyjna",
       "legendary": true,
@@ -2979,7 +2979,7 @@
     {
       "id": "item-47821",
       "name": "Przyłbica przeklętego umysłu",
-      "price": 800,
+      "price": "800m",
       "note": "",
       "sourceUrl": "https://margoworld.pl/item/view/47821/przylbica-przekletego-umyslu",
       "legendary": true,
@@ -3027,7 +3027,7 @@
     {
       "id": "item-34045",
       "name": "Płomienna maska kapłana",
-      "price": 1.2,
+      "price": "1.2g",
       "note": "",
       "sourceUrl": "https://margoworld.pl/item/view/34045/plomienna-maska-kaplana",
       "legendary": true,
@@ -3051,7 +3051,7 @@
     {
       "id": "item-56579",
       "name": "Rogaty łeb tolloka",
-      "price": 750,
+      "price": "750m",
       "note": "",
       "sourceUrl": "https://margoworld.pl/item/view/56579/rogaty-leb-tolloka",
       "legendary": true,
@@ -3063,7 +3063,7 @@
     {
       "id": "item-42223",
       "name": "Rogi niewzruszonej podłości",
-      "price": 1.2,
+      "price": "1.2g",
       "note": "",
       "sourceUrl": "https://margoworld.pl/item/view/42223/rogi-niewzruszonej-podlosci",
       "legendary": true,
@@ -3075,7 +3075,7 @@
     {
       "id": "item-34812",
       "name": "Rozłupana czaszka Foverka",
-      "price": 700,
+      "price": "700m",
       "note": "",
       "sourceUrl": "https://margoworld.pl/item/view/34812/rozlupana-czaszka-foverka",
       "legendary": true,
@@ -3087,7 +3087,7 @@
     {
       "id": "item-34773",
       "name": "Rzeka Marzeń",
-      "price": 500,
+      "price": "500m",
       "note": "",
       "sourceUrl": "https://margoworld.pl/item/view/34773/rzeka-marzen",
       "legendary": true,
@@ -3135,7 +3135,7 @@
     {
       "id": "item-48942",
       "name": "Rękawy z pustynnych krain",
-      "price": 1.3,
+      "price": "1.3g",
       "note": "",
       "sourceUrl": "https://margoworld.pl/item/view/48942/rekawy-z-pustynnych-krain",
       "legendary": true,
@@ -3231,7 +3231,7 @@
     {
       "id": "item-13239",
       "name": "Skradzione chodaki Jana",
-      "price": 700,
+      "price": "700m",
       "note": "",
       "sourceUrl": "https://margoworld.pl/item/view/13239/skradzione-chodaki-jana",
       "legendary": true,
@@ -3243,7 +3243,7 @@
     {
       "id": "item-59461",
       "name": "Skrytka elektrycznej mocy",
-      "price": 800,
+      "price": "800m",
       "note": "",
       "sourceUrl": "https://margoworld.pl/item/view/59461/skrytka-elektrycznej-mocy",
       "legendary": true,
@@ -3279,7 +3279,7 @@
     {
       "id": "item-59455",
       "name": "Skrytka mocy",
-      "price": 800,
+      "price": "800m",
       "note": "",
       "sourceUrl": "https://margoworld.pl/item/view/59455/skrytka-mocy",
       "legendary": true,
@@ -3291,7 +3291,7 @@
     {
       "id": "item-59459",
       "name": "Skrytka ognistej mocy",
-      "price": 800,
+      "price": "800m",
       "note": "",
       "sourceUrl": "https://margoworld.pl/item/view/59459/skrytka-ognistej-mocy",
       "legendary": true,
@@ -3315,7 +3315,7 @@
     {
       "id": "item-47814",
       "name": "Skumulowane światło lodowca",
-      "price": 800,
+      "price": "800m",
       "note": "",
       "sourceUrl": "https://margoworld.pl/item/view/47814/skumulowane-swiatlo-lodowca",
       "legendary": true,
@@ -3351,7 +3351,7 @@
     {
       "id": "item-42779",
       "name": "Smocze Kroki",
-      "price": 2,
+      "price": "2m",
       "note": "",
       "sourceUrl": "https://margoworld.pl/item/view/42779/smocze-kroki",
       "legendary": true,
@@ -3375,7 +3375,7 @@
     {
       "id": "item-34764",
       "name": "Splamiona kapitańska obręcz",
-      "price": 600,
+      "price": "600m",
       "note": "",
       "sourceUrl": "https://margoworld.pl/item/view/34764/splamiona-kapitanska-obrecz",
       "legendary": true,
@@ -3387,7 +3387,7 @@
     {
       "id": "item-45350",
       "name": "Splot szaleństwa",
-      "price": 1,
+      "price": "1g",
       "note": "",
       "sourceUrl": "https://margoworld.pl/item/view/45350/splot-szalenstwa",
       "legendary": true,
@@ -3399,7 +3399,7 @@
     {
       "id": "item-34763",
       "name": "Sprofanowany rdzeń świadomości",
-      "price": 600,
+      "price": "600m",
       "note": "",
       "sourceUrl": "https://margoworld.pl/item/view/34763/sprofanowany-rdzen-swiadomosci",
       "legendary": true,
@@ -3447,7 +3447,7 @@
     {
       "id": "item-45435",
       "name": "Stalowe szpony zemsty",
-      "price": 750,
+      "price": "750m",
       "note": "",
       "sourceUrl": "https://margoworld.pl/item/view/45435/stalowe-szpony-zemsty",
       "legendary": true,
@@ -3459,7 +3459,7 @@
     {
       "id": "item-50234",
       "name": "Stalowe zmiażdżenie",
-      "price": 1,
+      "price": "1g",
       "note": "",
       "sourceUrl": "https://margoworld.pl/item/view/50234/stalowe-zmiazdzenie",
       "legendary": true,
@@ -3495,7 +3495,7 @@
     {
       "id": "item-34771",
       "name": "Studnia Życzeń",
-      "price": 500,
+      "price": "500m",
       "note": "",
       "sourceUrl": "https://margoworld.pl/item/view/34771/studnia-zyczen",
       "legendary": true,
@@ -3519,7 +3519,7 @@
     {
       "id": "item-45965",
       "name": "Sygnet przyzwania nietoperzy",
-      "price": 500,
+      "price": "500m",
       "note": "",
       "sourceUrl": "https://margoworld.pl/item/view/45965/sygnet-przyzwania-nietoperzy",
       "legendary": true,
@@ -3531,7 +3531,7 @@
     {
       "id": "item-47815",
       "name": "Sygnet szczypiącego mrozu",
-      "price": 1,
+      "price": "1g",
       "note": "",
       "sourceUrl": "https://margoworld.pl/item/view/47815/sygnet-szczypiacego-mrozu",
       "legendary": true,
@@ -3543,7 +3543,7 @@
     {
       "id": "item-12792",
       "name": "Sygnet szmaragdowej potęgi",
-      "price": 900,
+      "price": "900m",
       "note": "",
       "sourceUrl": "https://margoworld.pl/item/view/12792/sygnet-szmaragdowej-potegi",
       "legendary": true,
@@ -3555,7 +3555,7 @@
     {
       "id": "item-60116",
       "name": "Sygnet z kości konkwistadorów",
-      "price": 1.2,
+      "price": "1.2g",
       "note": "",
       "sourceUrl": "https://margoworld.pl/item/view/60116/sygnet-z-kosci-konkwistadorow",
       "legendary": true,
@@ -3579,7 +3579,7 @@
     {
       "id": "item-56580",
       "name": "Symbol obsesji",
-      "price": 800,
+      "price": "800m",
       "note": "",
       "sourceUrl": "https://margoworld.pl/item/view/56580/symbol-obsesji",
       "legendary": true,
@@ -3615,7 +3615,7 @@
     {
       "id": "item-42645",
       "name": "Symbol uwielbienia łowców",
-      "price": 800,
+      "price": "800m",
       "note": "",
       "sourceUrl": "https://margoworld.pl/item/view/42645/symbol-uwielbienia-lowcow",
       "legendary": true,
@@ -3627,7 +3627,7 @@
     {
       "id": "item-60092",
       "name": "Symbol Wieczności",
-      "price": 1.5,
+      "price": "1.5g",
       "note": "",
       "sourceUrl": "https://margoworld.pl/item/view/60092/symbol-wiecznosci",
       "legendary": true,
@@ -3723,7 +3723,7 @@
     {
       "id": "item-34577",
       "name": "Szpony Ciemnego Varga",
-      "price": 500,
+      "price": "500m",
       "note": "",
       "sourceUrl": "https://margoworld.pl/item/view/34577/szpony-ciemnego-varga",
       "legendary": true,
@@ -3735,7 +3735,7 @@
     {
       "id": "item-37120",
       "name": "Szpony gadzich jeźdźców",
-      "price": 1,
+      "price": "1g",
       "note": "",
       "sourceUrl": "https://margoworld.pl/item/view/37120/szpony-gadzich-jezdzcow",
       "legendary": true,
@@ -3759,7 +3759,7 @@
     {
       "id": "item-8532",
       "name": "Szpony leśnego runa",
-      "price": 1.5,
+      "price": "1.5g",
       "note": "",
       "sourceUrl": "https://margoworld.pl/item/view/8532/szpony-lesnego-runa",
       "legendary": true,
@@ -3771,7 +3771,7 @@
     {
       "id": "item-48929",
       "name": "Szpony utraconej nadziei",
-      "price": 1.3,
+      "price": "1.3g",
       "note": "",
       "sourceUrl": "https://margoworld.pl/item/view/48929/szpony-utraconej-nadziei",
       "legendary": true,
@@ -3807,7 +3807,7 @@
     {
       "id": "item-41278",
       "name": "Tabernakulum z sekretną recepturą",
-      "price": 900,
+      "price": "900m",
       "note": "",
       "sourceUrl": "https://margoworld.pl/item/view/41278/tabernakulum-z-sekretna-receptura",
       "legendary": true,
@@ -3819,7 +3819,7 @@
     {
       "id": "item-21790",
       "name": "Talizman smoczego boga",
-      "price": 1,
+      "price": "1g",
       "note": "",
       "sourceUrl": "https://margoworld.pl/item/view/21790/talizman-smoczego-boga",
       "legendary": true,
@@ -3843,7 +3843,7 @@
     {
       "id": "item-45969",
       "name": "Towar pierwszej klasy",
-      "price": 500,
+      "price": "500m",
       "note": "",
       "sourceUrl": "https://margoworld.pl/item/view/45969/towar-pierwszej-klasy",
       "legendary": true,
@@ -3879,7 +3879,7 @@
     {
       "id": "item-50301",
       "name": "Trzeci róg mąciciela",
-      "price": 700,
+      "price": "700m",
       "note": "",
       "sourceUrl": "https://margoworld.pl/item/view/50301/trzeci-rog-maciciela",
       "legendary": true,
@@ -3939,7 +3939,7 @@
     {
       "id": "item-37122",
       "name": "Uścisk wirujących piasków",
-      "price": 1,
+      "price": "1g",
       "note": "",
       "sourceUrl": "https://margoworld.pl/item/view/37122/uscisk-wirujacych-piaskow",
       "legendary": true,
@@ -3987,7 +3987,7 @@
     {
       "id": "item-42226",
       "name": "Więzienie obsesyjnych żądzy",
-      "price": 1.2,
+      "price": "1.2g",
       "note": "",
       "sourceUrl": "https://margoworld.pl/item/view/42226/wiezienie-obsesyjnych-zadzy",
       "legendary": true,
@@ -4047,7 +4047,7 @@
     {
       "id": "item-49090",
       "name": "Wspomnienie Wojny Magów",
-      "price": 800,
+      "price": "800m",
       "note": "",
       "sourceUrl": "https://margoworld.pl/item/view/49090/wspomnienie-wojny-magow",
       "legendary": true,
@@ -4131,7 +4131,7 @@
     {
       "id": "item-56576",
       "name": "Zaklęty płomień",
-      "price": 600,
+      "price": "600m",
       "note": "",
       "sourceUrl": "https://margoworld.pl/item/view/56576/zaklety-plomien",
       "legendary": true,
@@ -4155,7 +4155,7 @@
     {
       "id": "item-46971",
       "name": "Zamach wybitnego łgarza",
-      "price": 1,
+      "price": "1g",
       "note": "",
       "sourceUrl": "https://margoworld.pl/item/view/46971/zamach-wybitnego-lgarza",
       "legendary": true,
@@ -4167,7 +4167,7 @@
     {
       "id": "item-2487",
       "name": "Zapomniany skarb krasnoludów",
-      "price": 800,
+      "price": "800m",
       "note": "",
       "sourceUrl": "https://margoworld.pl/item/view/2487/zapomniany-skarb-krasnoludow",
       "legendary": true,
@@ -4191,7 +4191,7 @@
     {
       "id": "item-29838",
       "name": "Zbójeckie złotko",
-      "price": 500,
+      "price": "500m",
       "note": "",
       "sourceUrl": "https://margoworld.pl/item/view/29838/zbojeckie-zlotko",
       "legendary": true,
@@ -4215,7 +4215,7 @@
     {
       "id": "item-47819",
       "name": "Zęby klasztornego postrachu",
-      "price": 1,
+      "price": "1g",
       "note": "",
       "sourceUrl": "https://margoworld.pl/item/view/47819/zeby-klasztornego-postrachu",
       "legendary": true,
@@ -4227,7 +4227,7 @@
     {
       "id": "item-47820",
       "name": "Złota maska opętańca",
-      "price": 800,
+      "price": "800m",
       "note": "",
       "sourceUrl": "https://margoworld.pl/item/view/47820/zlota-maska-opetanca",
       "legendary": true,
@@ -4239,7 +4239,7 @@
     {
       "id": "item-32489",
       "name": "Złoty chwyt generała",
-      "price": 1.4,
+      "price": "1.4g",
       "note": "",
       "sourceUrl": "https://margoworld.pl/item/view/32489/zloty-chwyt-generala",
       "legendary": true,
@@ -4287,7 +4287,7 @@
     {
       "id": "item-49120",
       "name": "Łapka w górę",
-      "price": 1.5,
+      "price": "1.5g",
       "note": "",
       "sourceUrl": "https://margoworld.pl/item/view/49120/lapka-w-gore",
       "legendary": true,
@@ -4323,7 +4323,7 @@
     {
       "id": "item-44052",
       "name": "Łup jaskiniowej hordy",
-      "price": 800,
+      "price": "800m",
       "note": "",
       "sourceUrl": "https://margoworld.pl/item/view/44052/lup-jaskiniowej-hordy",
       "legendary": true,
