@@ -272,6 +272,7 @@ function renderMonsterCard(monster) {
   return `<article class="card">
     <div class="cardHeader">
       <div class="cardHeaderLeft">
+        ${monster.imageUrl ? `<img class="npcImg" src="${escapeHtml(monster.imageUrl)}" alt="" loading="lazy" />` : ""}
         <h3 class="cardTitle">${escapeHtml(monster.name)}</h3>
         <div class="cardMeta">${metaParts.map((p) => `<span>${p}</span>`).join("")}</div>
       </div>
