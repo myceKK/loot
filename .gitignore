@@ -26,3 +26,4 @@ tools/import_margoworld.py
 # (Twoje) nie wrzucaj edytora i readme do publicznego repo
 editor.html
 README.md
+AGENTS.md
