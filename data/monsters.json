@@ -3739,32 +3739,6 @@
           "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/hel/helm659.gif"
         }
       ]
-    },
-    {
-      "id": "mw-npc-115340",
-      "name": "Smocza skrzynia",
-      "type": "heros",
-      "level": 282,
-      "location": "Wylęgarnia (24,24)",
-      "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/npc/mas/nic64x64.gif",
-      "sourceUrl": "https://margoworld.pl/npc/view/115340/smocza-skrzynia-0lvl",
-      "drops": [
-        {
-          "itemId": "item-42780",
-          "name": "Więzienie gadzich płomieni",
-          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/hel/helm657.gif"
-        },
-        {
-          "itemId": "item-42781",
-          "name": "Maska gniewu Shaiharrud",
-          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/hel/helm658.gif"
-        },
-        {
-          "itemId": "item-42782",
-          "name": "Skupisko smoczej magii",
-          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/hel/helm659.gif"
-        }
-      ]
     }
   ]
 }
