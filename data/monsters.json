@@ -3722,6 +3722,21 @@
           "itemId": "item-21790",
           "name": "Talizman smoczego boga",
           "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/tal/tal32.gif"
+        },
+        {
+          "itemId": "item-42780",
+          "name": "Wi?zienie gadzich p?omieni",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/hel/helm657.gif"
+        },
+        {
+          "itemId": "item-42781",
+          "name": "Maska gniewu Shaiharrud",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/hel/helm658.gif"
+        },
+        {
+          "itemId": "item-42782",
+          "name": "Skupisko smoczej magii",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/hel/helm659.gif"
         }
       ]
     },
