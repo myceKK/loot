@@ -465,24 +465,10 @@ select:focus-visible {
 
 .cardHeaderLeft {
   display: grid;
-  grid-template-columns: 52px 1fr;
+  grid-template-columns: 1fr;
   grid-template-rows: auto auto;
-  column-gap: 14px;
   row-gap: 4px;
   align-items: center;
-}
-
-.npcImg {
-  width: 52px;
-  height: 52px;
-  object-fit: contain;
-  image-rendering: pixelated;
-  border: 1px solid rgba(255, 141, 84, 0.24);
-  border-radius: 14px;
-  background:
-    radial-gradient(circle at 30% 30%, rgba(255, 114, 67, 0.22), rgba(0, 0, 0, 0.3));
-  grid-row: span 2;
-  box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.04);
 }
 
 .cardTitle {
@@ -699,15 +685,6 @@ select:focus-visible {
   .tab {
     padding: 11px 10px;
     font-size: 12px;
-  }
-
-  .cardHeaderLeft {
-    grid-template-columns: 44px 1fr;
-  }
-
-  .npcImg {
-    width: 44px;
-    height: 44px;
   }
 
   .dropRow {
