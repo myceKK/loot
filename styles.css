@@ -166,9 +166,11 @@ code {
 .heroBrand {
   width: 100%;
   height: 100%;
-  object-fit: cover;
-  object-position: center;
-  filter: saturate(1.02) brightness(0.92) contrast(1.04);
+  object-fit: contain;
+  object-position: right center;
+  transform: scale(0.96);
+  transform-origin: right center;
+  filter: saturate(1.02) brightness(0.9) contrast(1.04);
 }
 
 .heroCopy {
@@ -653,6 +655,11 @@ select:focus-visible {
 
   .heroCopy h1 {
     max-width: none;
+  }
+
+  .heroBrand {
+    object-position: center top;
+    transform: scale(1);
   }
 
   .meta {
