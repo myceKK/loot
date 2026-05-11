@@ -13,7 +13,7 @@
   localPriceOverrides: {}
 };
 
-const LS_PRICES_KEY = "margo_cennik_price_overrides_v1";
+const LS_PRICES_KEY = "margo_cennik_price_overrides_v2";
 
 function escapeHtml(text) {
   return String(text)
@@ -79,7 +79,7 @@ function formatPrice(value) {
     const m = compact.match(/^(-?\d+(?:[\.,]\d+)?)([mg])$/);
     if (m) {
       const num = Number(m[1].replace(",", "."));
-      if (!Number.isNaN(num)) return `${num.toLocaleString("pl-PL")} ${m[2]}`;
+      if (!Number.isNaN(num)) return `${num.toLocaleString("pl-PL")}${m[2]}`;
     }
   }
 
@@ -87,13 +87,13 @@ function formatPrice(value) {
   if (Number.isNaN(num)) {
     const currencyMode = getCurrencyMode();
     const currency = currencyMode === "auto" ? "" : (state?.config?.currency ?? "");
-    return `${escapeHtml(String(value))}${currency ? ` ${currency}` : ""}`;
+    return `${escapeHtml(String(value))}${currency ? `${currency}` : ""}`;
   }
 
   const currencyMode = getCurrencyMode();
   const currency = currencyMode === "auto" ? "" : (state?.config?.currency ?? "");
   const suffix = currencyMode === "auto" ? getAutoCurrencySuffix(num) : currency;
-  return `${num.toLocaleString("pl-PL")}${suffix ? ` ${suffix}` : ""}`;
+  return `${num.toLocaleString("pl-PL")}${suffix ? `${suffix}` : ""}`;
 }
 
 function safeJsonParse(text) {
@@ -340,7 +340,7 @@ function indexData() {
 }
 
 function applyConfigToUi() {
-  const title = state?.config?.title || "Cennik klanowy";
+  const title = state?.config?.title || "Cennik";
   const subtitle = state?.config?.subtitle || "";
   document.title = title;
 
@@ -348,16 +348,23 @@ function applyConfigToUi() {
   if (pageTitle) pageTitle.textContent = title;
 
   const pageSubtitle = document.getElementById("pageSubtitle");
-  if (pageSubtitle && !pageSubtitle.hasAttribute("hidden")) pageSubtitle.textContent = subtitle;
+  if (pageSubtitle) {
+    pageSubtitle.textContent = subtitle;
+    pageSubtitle.hidden = !subtitle;
+  }
 
   const updatedAt = document.getElementById("updatedAt");
-  if (updatedAt && !updatedAt.hasAttribute("hidden")) {
-    updatedAt.textContent = `Aktualizacja: ${state?.config?.updatedAt ?? "—"}`;
+  if (updatedAt) {
+    const value = state?.config?.updatedAt ?? "";
+    updatedAt.textContent = `Aktualizacja: ${value || "-"}`;
+    updatedAt.hidden = !value;
   }
 
   const currencyPill = document.getElementById("currencyPill");
-  if (currencyPill && !currencyPill.hasAttribute("hidden")) {
-    currencyPill.textContent = `Waluta: ${getCurrencyLabel() || "—"}`;
+  if (currencyPill) {
+    const value = getCurrencyLabel();
+    currencyPill.textContent = `Waluta: ${value || "-"}`;
+    currencyPill.hidden = !value;
   }
 }
 

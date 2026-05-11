@@ -274,19 +274,19 @@
       "sourceUrl": "https://margoworld.pl/npc/view/190472/agar-51lvl",
       "drops": [
         {
-          "itemId": "item-34762",
-          "name": "Plugawe przekleństwo wiedźmy",
-          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/neu/gal_l-naszyj.gif"
+          "itemId": "item-34125",
+          "name": "Przekleństwo wiedźmy",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/nas/naszyjnik498.gif"
         },
         {
-          "itemId": "item-34763",
-          "name": "Sprofanowany rdzeń świadomości",
-          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/neu/gal_l-naszyj2.gif"
+          "itemId": "item-34124",
+          "name": "Rdzeń świadomości",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/nas/naszyjnik499.gif"
         },
         {
-          "itemId": "item-34764",
-          "name": "Splamiona kapitańska obręcz",
-          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/neu/gal_l-naszyj3.gif"
+          "itemId": "item-34123",
+          "name": "Kapitańska obręcz",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/nas/naszyjnik500.gif"
         },
         {
           "itemId": "item-59450",
@@ -1691,13 +1691,13 @@
       ]
     },
     {
-      "id": "mw-npc-228348",
-      "name": "Shakkru",
+      "id": "mw-npc-333108",
+      "name": "Sheba Orcza Szamanka",
       "type": "elite2",
       "level": 160,
-      "location": "Grota Orczych Szamanów p.3 s.1 (12,4)",
-      "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/npc/e2/r_orc_shakkru.gif",
-      "sourceUrl": "https://margoworld.pl/npc/view/228348/shakkru-160lvl",
+      "location": "Grota Orczych Szamanów p.3 s.1 (16,10)",
+      "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/npc/e2/r_orc_sheba.gif",
+      "sourceUrl": "https://margoworld.pl/npc/view/333108/sheba-orcza-szamanka-160lvl",
       "drops": [
         {
           "itemId": "item-54574",
@@ -1713,18 +1713,7 @@
           "itemId": "item-54576",
           "name": "Źródło wielkiego nieszczęścia",
           "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/nas/naszyjnik1199.gif"
-        }
-      ]
-    },
-    {
-      "id": "mw-npc-333108",
-      "name": "Sheba Orcza Szamanka",
-      "type": "elite2",
-      "level": 160,
-      "location": "Grota Orczych Szamanów p.3 s.1 (16,10)",
-      "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/npc/e2/r_orc_sheba.gif",
-      "sourceUrl": "https://margoworld.pl/npc/view/333108/sheba-orcza-szamanka-160lvl",
-      "drops": [
+        },
         {
           "itemId": "item-59459",
           "name": "Skrytka ognistej mocy",
@@ -2379,22 +2368,6 @@
       "sourceUrl": "https://margoworld.pl/npc/view/25041/arachniregina-colosseus-214lvl",
       "drops": [
         {
-          "itemId": "item-59498",
-          "name": "Ciężka skrytka jadowej mocy",
-          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/bag/kuf_compontent_05.gif.gif"
-        }
-      ]
-    },
-    {
-      "id": "mw-npc-25124",
-      "name": "Rycerz z za małym mieczem",
-      "type": "elite2",
-      "level": 214,
-      "location": "Arachnitopia p.6 (8,9)",
-      "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/npc/e2/pajeczy16.gif",
-      "sourceUrl": "https://margoworld.pl/npc/view/25124/rycerz-z-za-malym-mieczem-214lvl",
-      "drops": [
-        {
           "itemId": "item-57400",
           "name": "Pięści zawodnego bohatera",
           "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/rek/rekawice1342.gif"
@@ -2408,6 +2381,11 @@
           "itemId": "item-57402",
           "name": "Muśnięcie powiewających pajęczyn",
           "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/rek/rekawice1344.gif"
+        },
+        {
+          "itemId": "item-59498",
+          "name": "Ciężka skrytka jadowej mocy",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/bag/kuf_compontent_05.gif.gif"
         }
       ]
     },
@@ -2434,6 +2412,32 @@
           "itemId": "item-57396",
           "name": "Podeszwy uzurpatora",
           "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/but/buty1342.gif"
+        }
+      ]
+    },
+    {
+      "id": "mw-npc-83157",
+      "name": "Ołtarz Pajęczej Bogini",
+      "type": "elite2",
+      "level": 220,
+      "location": "Ołtarz Pajęczej Bogini (29,14)",
+      "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/npc/e2/drider-marlloth.gif",
+      "sourceUrl": "https://margoworld.pl/npc/view/83157/oltarz-pajeczej-bogini-220lvl",
+      "drops": [
+        {
+          "itemId": "item-58489",
+          "name": "Wspomnienie sromotnej porażki",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/hel/helm1441.gif"
+        },
+        {
+          "itemId": "item-58490",
+          "name": "Magazyn sił chaosu",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/hel/helm1442.gif"
+        },
+        {
+          "itemId": "item-58491",
+          "name": "Stukot historii",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/but/buty1333.gif"
         }
       ]
     },
@@ -3718,6 +3722,32 @@
           "itemId": "item-21790",
           "name": "Talizman smoczego boga",
           "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/tal/tal32.gif"
+        }
+      ]
+    },
+    {
+      "id": "mw-npc-115340",
+      "name": "Smocza skrzynia",
+      "type": "heros",
+      "level": 282,
+      "location": "Wylęgarnia (24,24)",
+      "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/npc/mas/nic64x64.gif",
+      "sourceUrl": "https://margoworld.pl/npc/view/115340/smocza-skrzynia-0lvl",
+      "drops": [
+        {
+          "itemId": "item-42780",
+          "name": "Więzienie gadzich płomieni",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/hel/helm657.gif"
+        },
+        {
+          "itemId": "item-42781",
+          "name": "Maska gniewu Shaiharrud",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/hel/helm658.gif"
+        },
+        {
+          "itemId": "item-42782",
+          "name": "Skupisko smoczej magii",
+          "imageUrl": "https://micc.garmory-cdn.cloud/obrazki/itemy/hel/helm659.gif"
         }
       ]
     }

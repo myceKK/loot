@@ -7,46 +7,59 @@
     <link rel="stylesheet" href="styles.css" />
   </head>
   <body>
-    <header class="wrap header">
-      <div class="title">
-        <h1 id="pageTitle">Cennik klanowy</h1>
-        <p id="pageSubtitle" class="muted" hidden>Margonem – elity II i herosi</p>
-      </div>
-      <div class="meta">
-        <span class="pill" id="updatedAt" hidden>Aktualizacja: —</span>
-        <span class="pill" id="currencyPill" hidden>Waluta: —</span>
-      </div>
-    </header>
+    <div class="pageShell">
+      <div class="pageGlow pageGlowLeft" aria-hidden="true"></div>
+      <div class="pageGlow pageGlowRight" aria-hidden="true"></div>
 
-    <main class="wrap">
-      <nav class="tabs" aria-label="Nawigacja">
-        <a class="tab" href="#elite2" id="tab-elite2">Elity II</a>
-        <a class="tab" href="#heros" id="tab-heros">Herosi</a>
-      </nav>
+      <header class="wrap hero">
+        <div class="heroFrame">
+          <div class="heroArt" aria-hidden="true">
+            <img class="heroBrand" src="assets/pp-hero.png" alt="" />
+          </div>
+          <div class="heroCopy">
+            <p class="eyebrow">PP marka</p>
+            <h1 id="pageTitle">Cennik</h1>
+            <p id="pageSubtitle" class="heroSubtitle muted" hidden>Margonem - elity II i herosi</p>
+          </div>
+          <div class="meta">
+            <span class="pill" id="updatedAt" hidden>Aktualizacja: -</span>
+            <span class="pill" id="currencyPill" hidden>Waluta: -</span>
+          </div>
+        </div>
+      </header>
 
-      <section class="controls">
-        <label class="field">
-          <span class="fieldLabel">Szukaj</span>
-          <input id="search" type="search" placeholder="mob / item / lokacja…" autocomplete="off" />
-        </label>
-        <label class="field">
-          <span class="fieldLabel">Sortuj</span>
-          <select id="sort">
-            <option value="level_asc" selected>Poziom (rosnąco)</option>
-            <option value="level_desc">Poziom (malejąco)</option>
-            <option value="name">Nazwa (A→Z)</option>
-            <option value="drops_desc">Dropy (malejąco)</option>
-            <option value="legend_drops_desc">Legendy (ilość, malejąco)</option>
-            <option value="value_desc">Wartość (suma cen, malejąco)</option>
-            <option value="value_asc">Wartość (suma cen, rosnąco)</option>
-          </select>
-        </label>
-      </section>
+      <main class="wrap mainLayout">
+        <section class="controlPanel">
+          <nav class="tabs" aria-label="Nawigacja">
+            <a class="tab" href="#elite2" id="tab-elite2">Elity II</a>
+            <a class="tab" href="#heros" id="tab-heros">Herosi</a>
+          </nav>
 
-      <section id="content" class="content" aria-live="polite"></section>
+          <section class="controls">
+            <label class="field">
+              <span class="fieldLabel">Szukaj</span>
+              <input id="search" type="search" placeholder="mob / item / lokacja..." autocomplete="off" />
+            </label>
+            <label class="field">
+              <span class="fieldLabel">Sortuj</span>
+              <select id="sort">
+                <option value="level_asc" selected>Poziom (rosnaco)</option>
+                <option value="level_desc">Poziom (malejaco)</option>
+                <option value="name">Nazwa (A-Z)</option>
+                <option value="drops_desc">Dropy (malejaco)</option>
+                <option value="legend_drops_desc">Legendy (ilosc, malejaco)</option>
+                <option value="value_desc">Wartosc (suma cen, malejaco)</option>
+                <option value="value_asc">Wartosc (suma cen, rosnaco)</option>
+              </select>
+            </label>
+          </section>
+        </section>
 
-      <footer class="footer muted" hidden></footer>
-    </main>
+        <section id="content" class="content" aria-live="polite"></section>
+
+        <footer class="footer muted" hidden></footer>
+      </main>
+    </div>
 
     <script src="app.js"></script>
   </body>
